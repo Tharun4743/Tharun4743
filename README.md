@@ -133,7 +133,6 @@
 ![IoT](https://img.shields.io/badge/Intro_to_IoT_&_Digital_Transformation-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -144,8 +143,4 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Tharun4743&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="600"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun4743&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </div>
