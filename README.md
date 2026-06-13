@@ -137,11 +137,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  <img src="./assets/stats.svg" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-
+  <img src="./assets/top-langs.svg" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -150,16 +148,4 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun4743&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tharun4743&style=flat-square&color=6366f1" alt="Profile Views"/>
-  <br/><br/>
-  <i>"Code is not just syntax — it's how I think."</i>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
