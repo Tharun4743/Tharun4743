@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/tharun_4743" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/Tharun4743" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -87,7 +83,7 @@
 
 - 🪖 **Smart Helmet IoT Safety System** *(Sep – Oct 2025)*
   `Arduino · C · RF 433MHz · RadioHead · I2C`
-  Intelligent IoT helmet detecting helmet wear, alcohol levels (MQ-3 sensor) & drowsiness via eye blink detection. Integrated RF communication with automatic ignition cut-off. **SIH 2025 Top 50** nationally.
+  Intelligent IoT helmet detecting helmet wear, alcohol levels (MQ-3 sensor) & drowsiness via eye blink detection. RF communication with automatic ignition cut-off. **SIH 2025 Top 50** nationally.
 
 ---
 
@@ -114,13 +110,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun4743&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Tharun4743&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="600"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun4743&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
