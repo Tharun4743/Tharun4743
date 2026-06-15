@@ -45,7 +45,7 @@
 - 🏆 **National Winner at CODE THUGS 2K26** — 1st Place for Real-Time Collaborative Code Editor *(₹5,000 prize)*
 - 🚀 **SIH 2025 Top 50** nationally out of 10,000+ submissions *(Top 0.5%)*
 - 🔬 **India Innovates 2026** — Advanced to finals track after two rigorous selection rounds
-- 🧠 Actively grinding **LeetCode** and sharing algorithm breakdowns on **[@leet_algo_tharun](https://instagram.com/leet_algo_tharun)**
+
 
 ---
 ### 🛠️ Tech Stack
