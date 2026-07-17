@@ -1,64 +1,60 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Neura%20Global%20Intern%20%7C%20Tech%20Innovator&descAlignY=58&descSize=17&descColor=aef&stroke=ffffff&strokeWidth=0" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Neura%20Global%20Intern%20%7C%20Tech%20Innovator&descAlignY=58&descSize=17&descColor=b3d9ff" width="100%" />
 
-<!-- Typing Animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00C7B7&center=true&vCenter=true&repeat=true&width=650&height=50&lines=🚀+Full-Stack+Web+Developer;💡+Building+Scalable+Web+Applications;🤖+AI+%26+IoT+Enthusiast;🏆+National+Hackathon+Winner;🌟+GFG+Campus+Mantri+2026" alt="Typing SVG" />
-  </a>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=680&height=50&lines=👋+Hey+there!+I'm+Tharunkumar+K;🚀+Full-Stack+Developer+(React+%2B+Node.js);💡+I+build+things+that+actually+matter;🤖+AI+%26+IoT+Explorer;🏆+National+Hackathon+Winner+2026" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
+<!-- Social Links -->
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunkumark4743/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharunkumar__K/)
-  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tharunkumark4743)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://tharunkumark4743.netlify.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunkumark4743/)&nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743)&nbsp;
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharunkumar__K/)&nbsp;
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tharunkumark4743)&nbsp;
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://tharunkumark4743.netlify.app)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunkumark42007@gmail.com)
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=Tharun4743&label=Profile+Views&color=0e75b6&style=flat)
+
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🔥 About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="185" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="185" />
 
 ```yaml
-Name       : Tharunkumar K
-Role       : Full-Stack Developer & Neura Global Intern
-Education  : B.Tech IT @ VSB Engineering College (2024–2028)
-CGPA       : 8.5 / 10
-Location   : Dharapuram, Tamil Nadu, India
-Focus      : React · Node.js · TypeScript · PostgreSQL
-Interests  : Web Dev · AI/ML · IoT · Open Source
-Status     : Open to Opportunities 🟢
+👤 Name       : Tharunkumar K
+💼 Role       : Full-Stack Developer · Neura Global Intern
+🎓 Education  : B.Tech IT @ VSB Engineering College (2024–2028)
+📊 CGPA       : 8.5 / 10
+📍 Location   : Dharapuram, Tamil Nadu, India
+⚡ Stack      : React · Node.js · TypeScript · PostgreSQL
+💡 Interests  : Web Dev · AI/ML · IoT · Open Source
+🟢 Status     : Open to Opportunities
 ```
 
-- 🎓 Pursuing **B.Tech in Information Technology** @ VSB Engineering College, Karur *(2024–2028)*
+I'm a **first-year B.Tech student** who genuinely loves building real products — not just side projects. I picked up full-stack development out of curiosity and haven't stopped since. I currently intern at **Neura Global**, where I ship production features daily using React, Node.js, and TypeScript. Outside of code, I organize hackathons, mentor peers as a **GFG Campus Mantri**, and occasionally pull all-nighters debugging things that *should* have worked.
+
+- 🎓 **B.Tech in Information Technology** @ VSB Engineering College, Karur *(2024–2028)* — CGPA: **8.5/10**
 - 💼 **Fullstack Development Intern @ Neura Global** — building production-grade features with React, Node.js & TypeScript
-- 🌟 **Campus Mantri** for **GeeksforGeeks** *(Jan 2026 – Jul 2026)*
-- 🏆 **National Hackathon Winner** at Code Thugs 2K26 — 1st Place *(₹5,000 prize)*
-- 🔬 Advanced to the **India Innovates 2026** finals track
-- 📍 **Location:** Dharapuram, Tamil Nadu &nbsp;|&nbsp; 📞 **Phone:** +91 8760964830
+- 🌟 **GFG Campus Mantri** — organized tech workshops & grew the campus coding community *(Jan–Jul 2026)*
+- 🏆 **National Hackathon Winner** — Code Thugs 2K26, 1st Place *(₹5,000 prize)*
+- 🔬 Reached the **India Innovates 2026 finals** after two competitive selection rounds
+- 📍 **Dharapuram, Tamil Nadu** &nbsp;|&nbsp; 📞 **+91 8760964830**
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -109,11 +105,9 @@ Status     : Open to Opportunities 🟢
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="28"> &nbsp;Highlighted Projects
+## 🚀 Highlighted Projects
 
 <table>
   <tr>
@@ -121,13 +115,14 @@ Status     : Open to Opportunities 🟢
       <h3 align="center">🎓 Campus Connect</h3>
       <p align="center">
         <a href="https://campusconnect-yg4h.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" alt="Live Demo"/>
+          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C7B7?style=for-the-badge" />
         </a>
+        &nbsp;
         <a href="https://github.com/Tharun4743/CampusConnect" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>A premium, enterprise-grade college placement management platform automating TPO workflows, facilitating recruiter engagement, and helping students launch their careers. <em>(June 2026)</em></p>
+      <p>An enterprise-grade college placement platform that automates TPO workflows, connects students with recruiters, and streamlines the entire hiring lifecycle — from job posting to offer letters. <em>(June 2026)</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -140,13 +135,14 @@ Status     : Open to Opportunities 🟢
       <h3 align="center">💬 Techy Tharun's Chatbox</h3>
       <p align="center">
         <a href="https://tharunchatbox.onrender.com" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" alt="Live Demo"/>
+          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C7B7?style=for-the-badge" />
         </a>
+        &nbsp;
         <a href="https://github.com/Tharun4743/Tharun-s-Chatbox" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>A high-performance AI assistant powered by GPT-4o, featuring a sleek and humanized interface optimized for extreme speed and near-zero latency streaming. <em>(Feb – Apr 2026)</em></p>
+      <p>A production-grade AI chat assistant powered by GPT-4o with document parsing, voice input, and markdown rendering — all with near-zero latency. Built with Next.js 15 and Prisma ORM. <em>(Feb–Apr 2026)</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -157,36 +153,37 @@ Status     : Open to Opportunities 🟢
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Aura — AI RAG Assistant</h3>
+      <h3 align="center">🧠 Aura — Offline AI RAG System</h3>
       <p align="center">
         <a href="https://github.com/Tharun4743/SIH25231" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>A 100% offline multimodal Retrieval-Augmented Generation (RAG) system for resource-constrained environments, featuring local document processing, vision indexing, and voice transcription. <em>(2026)</em></p>
+      <p>A fully air-gapped, 100% offline multimodal RAG system that processes documents, images, and voice queries locally — no internet required. Built for secure, resource-constrained environments. <em>(2026)</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🪖 Smart Helmet IoT System</h3>
       <p align="center">
         <a href="https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
+        &nbsp;
         <a href="https://drive.google.com/drive/folders/1kYhyoOx9-Tr4WyOJkmUz7K4PDDpmaHEr?usp=drive_link" target="_blank">
-          <img src="https://img.shields.io/badge/Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Drive"/>
+          <img src="https://img.shields.io/badge/Demo%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
         </a>
       </p>
-      <p>An intelligent IoT helmet that proactively prevents accidents by monitoring helmet wear, alcohol levels, and drowsiness — automatically disabling the bike ignition under unsafe conditions. <em>SIH 2025 Submission.</em></p>
+      <p>An IoT safety helmet that detects alcohol, drowsiness, and whether the helmet is worn — cutting the bike's ignition via RF signal if the rider is in an unsafe state. <em>SIH 2025 Internal Top 50.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-        <img src="https://img.shields.io/badge/RF%20433MHz-IoT-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RF%20433MHz-FF6B6B?style=flat-square"/>
         <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=flat-square"/>
       </p>
     </td>
@@ -195,47 +192,43 @@ Status     : Open to Opportunities 🟢
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 &nbsp;Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-| &nbsp; | Recognition | Description |
+| &nbsp; | Event | What I Did |
 |:---:|:---|:---|
-| 🥇 | **Code Thugs 2K26** — National Hackathon | **1st Place** — Real-Time Collaborative Code Editor · Prize: **₹5,000** |
-| 🚀 | **Smart India Hackathon 2025** | **Internal Hackathon Top 50** out of 300+ submissions |
-| 🔬 | **India Innovates 2026** | Advanced to the **finals track** after two rigorous selection rounds |
-| 🌟 | **GeeksforGeeks Campus Mantri** | Student Ambassador *(Jan 2026 – Jul 2026)* |
-| 🎯 | **Fun Quest Event Coordinator** | Led 150+ participants across two slots · **9.8/10** feedback rating |
+| 🥇 | **Code Thugs 2K26** — National Hackathon | Won **1st Place** for a Real-Time Collaborative Code Editor · Prize: **₹5,000** |
+| 🚀 | **Smart India Hackathon 2025** | Reached the **Internal Top 50** out of 300+ college submissions |
+| 🔬 | **India Innovates 2026** | Cleared two rounds to reach the **finals track** |
+| 🌟 | **GeeksforGeeks Campus Mantri** | Served as Student Ambassador, ran workshops & events *(Jan–Jul 2026)* |
+| 🎯 | **Fun Quest — Symposium Event Coordinator** | Managed 150+ participants across two event slots · **9.8/10** average rating |
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📜 &nbsp;Certifications Journey
+## 📜 Certifications Journey
 
 <details>
-  <summary><b>🎓 Click to expand — Continuous Learning & Growth</b></summary>
+  <summary><b>🎓 Click to expand — My continuous learning path</b></summary>
   <br/>
 
   | # | Certificate / Badge | Issuer | Year | Link |
   |:---:|:---|:---|:---:|:---:|
-  | 1 | 🎓 Infosys Internship Completion Certificate | Infosys Springboard | 2024 | [View](https://drive.google.com/file/d/1Q9M6APOGYKO0_jYrKBAO4fAwTFEZJigy/view?usp=drive_link) |
-  | 2 | 📊 Tata - GenAI Powered Data Analytics Job Simulation | Forage | Jun 2025 | [View](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_RxeDd9TgPqW92wdDx_1750820862922_completion_certificate.pdf) |
-  | 3 | 💻 Dynamic Programming Camp Participation Certificate | AlgoUniversity | May 2026 | [View](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/Dynamic_Programming_camp/tharunkumar-k.png) |
-  | 4 | 🛡️ Responsible AI: Applying AI Principles with Google Cloud | Google Cloud | Aug 2025 | [View Badge](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907581?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
-  | 5 | 🤖 Prompt Design in Agent Platform | Google | Jun 2025 | [View Badge](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/16663518?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
-  | 6 | 🧠 Introduction to Large Language Models | Google | Aug 2025 | [View Badge](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907465?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
-  | 7 | ✨ Prompt Design in Vertex AI Skill Badge | Google | Jun 2025 | [View Badge](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb) |
-  | 8 | 🌐 Introduction to IoT | Cisco | Nov 2025 | [View Badge](https://www.credly.com/badges/e0e38f42-909d-46a0-8a23-4cbb658ceb2b/linked_in_profile) |
-  | 9 | ☁️ Salesforce Administrator Explorer | Trailhead by Salesforce | Aug 2025 | [View](https://drive.google.com/file/d/1IgkTkYQ-dfhashY-7-R6soyY7YQhw4zI/view?usp=drive_link) |
+  | 1 | 🎓 Infosys Internship Completion Certificate | Infosys Springboard | 2024 | [View ↗](https://drive.google.com/file/d/1Q9M6APOGYKO0_jYrKBAO4fAwTFEZJigy/view?usp=drive_link) |
+  | 2 | 📊 Tata GenAI Powered Data Analytics Job Simulation | Forage | Jun 2025 | [View ↗](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_RxeDd9TgPqW92wdDx_1750820862922_completion_certificate.pdf) |
+  | 3 | 💻 Dynamic Programming Camp Participation Certificate | AlgoUniversity | May 2026 | [View ↗](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/Dynamic_Programming_camp/tharunkumar-k.png) |
+  | 4 | 🛡️ Responsible AI: Applying AI Principles with Google Cloud | Google Cloud | Aug 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907581?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
+  | 5 | 🤖 Prompt Design in Agent Platform | Google | Jun 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/16663518?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
+  | 6 | 🧠 Introduction to Large Language Models | Google | Aug 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907465?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
+  | 7 | ✨ Prompt Design in Vertex AI Skill Badge | Google | Jun 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb) |
+  | 8 | 🌐 Introduction to IoT | Cisco | Nov 2025 | [View Badge ↗](https://www.credly.com/badges/e0e38f42-909d-46a0-8a23-4cbb658ceb2b/linked_in_profile) |
+  | 9 | ☁️ Salesforce Administrator Explorer | Trailhead by Salesforce | Aug 2025 | [View ↗](https://drive.google.com/file/d/1IgkTkYQ-dfhashY-7-R6soyY7YQhw4zI/view?usp=drive_link) |
   | 10 | 🏆 TCS iON Career Edge — Young Professional | TCS iON | 2025 | — |
   | 11 | 🐍 Python Foundation | Certification | 2024 | — |
   | 12 | 🔌 Introduction to IoT and Digital Transformation | Certification | 2024 | — |
@@ -244,11 +237,9 @@ Status     : Open to Opportunities 🟢
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
@@ -270,30 +261,30 @@ Status     : Open to Opportunities 🟢
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 &nbsp;Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
+  <p>I'm always happy to chat about new ideas, collaborate on projects, or just talk tech. Feel free to reach out!</p>
+
   <a href="https://www.linkedin.com/in/tharunkumark4743/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/Tharun4743">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="mailto:tharunkumark42007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://tharunkumark4743.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
   </a>
 
   <br/><br/>
 
-  <i>"The only way to do great work is to love what you do."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
