@@ -1,9 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Neura%20Global%20Intern%20%7C%20Tech%20Innovator&descAlignY=58&descSize=17&descColor=b3d9ff" width="100%" />
+</div>
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=680&height=50&lines=👋+Hey+there!+I'm+Tharunkumar+K;🚀+Full-Stack+Developer+(React+%2B+Node.js);💡+I+build+things+that+actually+matter;🤖+AI+%26+IoT+Explorer;🏆+National+Hackathon+Winner+2026" alt="Typing SVG" />
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=680&height=50&lines=👋+Hey+there!+I'm+Tharunkumar+K;🚀+Full-Stack+Developer+(React+%2B+Node.js);💡+I+build+things+that+actually+matter;🤖+AI+%26+IoT+Explorer;🏆+National+Hackathon+Winner+2026" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -24,7 +26,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
 ## 🔥 About Me
 
@@ -41,7 +43,7 @@
 🟢 Status     : Open to Opportunities
 ```
 
-I'm a **first-year B.Tech student** who genuinely loves building real products — not just side projects. I picked up full-stack development out of curiosity and haven't stopped since. I currently intern at **Neura Global**, where I ship production features daily using React, Node.js, and TypeScript. Outside of code, I organize hackathons, mentor peers as a **GFG Campus Mantri**, and occasionally pull all-nighters debugging things that *should* have worked.
+I'm a **second-year B.Tech student** who genuinely loves building real products — not just side projects. I picked up full-stack development out of curiosity and haven't stopped since. I currently intern at **Neura Global**, where I ship production features daily using React, Node.js, and TypeScript. Outside of code, I organize hackathons, mentor peers as a **GFG Campus Mantri**, and occasionally pull all-nighters debugging things that *should* have worked.
 
 - 🎓 **B.Tech in Information Technology** @ VSB Engineering College, Karur *(2024–2028)* — CGPA: **8.5/10**
 - 💼 **Fullstack Development Intern @ Neura Global** — building production-grade features with React, Node.js & TypeScript
@@ -52,7 +54,7 @@ I'm a **first-year B.Tech student** who genuinely loves building real products �
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -105,7 +107,7 @@ I'm a **first-year B.Tech student** who genuinely loves building real products �
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
 ## 🚀 Highlighted Projects
 
@@ -115,7 +117,7 @@ I'm a **first-year B.Tech student** who genuinely loves building real products �
       <h3 align="center">🎓 Campus Connect</h3>
       <p align="center">
         <a href="https://campusconnect-yg4h.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C7B7?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
         &nbsp;
         <a href="https://github.com/Tharun4743/CampusConnect" target="_blank">
@@ -135,7 +137,7 @@ I'm a **first-year B.Tech student** who genuinely loves building real products �
       <h3 align="center">💬 Techy Tharun's Chatbox</h3>
       <p align="center">
         <a href="https://tharunchatbox.onrender.com" target="_blank">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C7B7?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
         &nbsp;
         <a href="https://github.com/Tharun4743/Tharun-s-Chatbox" target="_blank">
@@ -192,7 +194,7 @@ I'm a **first-year B.Tech student** who genuinely loves building real products �
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
 ## 🏆 Achievements
 
@@ -210,7 +212,7 @@ I'm a **first-year B.Tech student** who genuinely loves building real products �
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
 ## 📜 Certifications Journey
 
@@ -237,7 +239,7 @@ I'm a **first-year B.Tech student** who genuinely loves building real products �
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -250,7 +252,7 @@ I'm a **first-year B.Tech student** who genuinely loves building real products �
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tharun4743&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="650"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tharun4743&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="650"/>
 </div>
 
 <br/>
@@ -261,7 +263,7 @@ I'm a **first-year B.Tech student** who genuinely loves building real products �
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
 ## 🤝 Let's Connect
 
