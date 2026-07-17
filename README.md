@@ -1,45 +1,64 @@
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Tharunkumar%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Neura%20Global%20Intern%20%7C%20Tech%20Innovator&descAlignY=58&descSize=17&descColor=aef&stroke=ffffff&strokeWidth=0" width="100%" />
+</div>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Open+Source+Enthusiast;Neura+Global+Intern;Tech+Innovator" alt="Typing SVG" /></a>
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00C7B7&center=true&vCenter=true&repeat=true&width=650&height=50&lines=🚀+Full-Stack+Web+Developer;💡+Building+Scalable+Web+Applications;🤖+AI+%26+IoT+Enthusiast;🏆+National+Hackathon+Winner;🌟+GFG+Campus+Mantri+2026" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
+<!-- Profile Views + Social Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/tharunkumark4743/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Tharunkumar__K/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/Tharun4743" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/tharunkumark4743" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://tharunkumark4743.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/>
-  </a>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunkumark4743/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharunkumar__K/)
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tharunkumark4743)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://tharunkumark4743.netlify.app)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunkumark42007@gmail.com)
+
 </div>
 
 <br/>
 
 ---
 
-## 🔥 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-> **Full-stack developer** passionate about building scalable web applications. Currently interning at **Neura Global (a startup)**, working with React, Node.js, TypeScript, and PostgreSQL. Thrives on learning, collaborating with teams, and solving complex challenges.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-- 🎓 Pursuing **B.Tech in Information Technology** @ VSB Engineering College, Karur *(2024–2028)* — CGPA: **8.5/10**
-- 💼 Currently a **Fullstack Development Intern @ Neura Global** — building production features with React, Node.js & TypeScript
-- 🌟 Serving as **Campus Mantri** for **GeeksforGeeks** *(Jan 2026 – Jul 2026)*
-- 📍 **Location:** Dharapuram, Tamil Nadu &nbsp;|&nbsp; 📧 **Email:** [tharunkumark42007@gmail.com](mailto:tharunkumark42007@gmail.com) &nbsp;|&nbsp; 📞 **Phone:** +91 8760964830
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="185" />
+
+```yaml
+Name       : Tharunkumar K
+Role       : Full-Stack Developer & Neura Global Intern
+Education  : B.Tech IT @ VSB Engineering College (2024–2028)
+CGPA       : 8.5 / 10
+Location   : Dharapuram, Tamil Nadu, India
+Focus      : React · Node.js · TypeScript · PostgreSQL
+Interests  : Web Dev · AI/ML · IoT · Open Source
+Status     : Open to Opportunities 🟢
+```
+
+- 🎓 Pursuing **B.Tech in Information Technology** @ VSB Engineering College, Karur *(2024–2028)*
+- 💼 **Fullstack Development Intern @ Neura Global** — building production-grade features with React, Node.js & TypeScript
+- 🌟 **Campus Mantri** for **GeeksforGeeks** *(Jan 2026 – Jul 2026)*
+- 🏆 **National Hackathon Winner** at Code Thugs 2K26 — 1st Place *(₹5,000 prize)*
+- 🔬 Advanced to the **India Innovates 2026** finals track
+- 📍 **Location:** Dharapuram, Tamil Nadu &nbsp;|&nbsp; 📞 **Phone:** +91 8760964830
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 **Languages**
 
@@ -54,7 +73,7 @@
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-7C3AED?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -88,78 +107,197 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-F6821F?style=for-the-badge&logo=cloudinary&logoColor=white)
 
----
-
-## 🚀 Highlighted Projects
-
-- 🎓 **[Campus Connect — College Placement Cell Platform](https://campusconnect-yg4h.onrender.com/)** *(June 2026)* — [GitHub](https://github.com/Tharun4743/CampusConnect)
-  > `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `Supabase` `Socket.IO`
-  <br/>A premium, enterprise-grade placement management platform designed to automate TPO workflows, facilitate seamless recruiter engagement, and help students transition smoothly into their careers.
-
-- 💬 **[Techy Tharun's Chatbox — AI Assistant](https://tharunchatbox.onrender.com)** *(Feb – Apr 2026)* — [GitHub](https://github.com/Tharun4743/Tharun-s-Chatbox)
-  > `Next.js 15` `TypeScript` `Tailwind CSS` `Prisma` `Neon PostgreSQL` `GPT-4o`
-  <br/>A high-performance, premium AI assistant powered by GPT-4o, featuring a sleek and humanized interface optimized for extreme speed and near-zero latency streaming.
-
-- 🧠 **[Aura — AI Unified Retrieval Assistant](https://github.com/Tharun4743/SIH25231)** *(2026)*
-  > `React` `Spring Boot` `Java` `SQLite` `ChromaDB` `Ollama` `Electron`
-  <br/>A 100% offline multimodal Retrieval-Augmented Generation (RAG) system developed for resource-constrained environments. Features local document processing, multimodal vision indexing, and voice transcription.
-
-- 🪖 **[Smart Helmet IoT Safety System](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-)** *(Sep – Oct 2025)*
-  > `Arduino` `C` `RF 433MHz` `IoT` `Embedded Systems`
-  <br/>An intelligent IoT helmet system that proactively prevents accidents by monitoring helmet wear, alcohol levels, and drowsiness — automatically disabling the bike ignition under unsafe conditions via RF communication. Smart India Hackathon 2025 Submission.
+<br/>
 
 ---
 
-## 🏆 Achievements
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-| 🏆 | Recognition | Description |
+## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="28"> &nbsp;Highlighted Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Campus Connect</h3>
+      <p align="center">
+        <a href="https://campusconnect-yg4h.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/Tharun4743/CampusConnect" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+        </a>
+      </p>
+      <p>A premium, enterprise-grade college placement management platform automating TPO workflows, facilitating recruiter engagement, and helping students launch their careers. <em>(June 2026)</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 Techy Tharun's Chatbox</h3>
+      <p align="center">
+        <a href="https://tharunchatbox.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/Tharun4743/Tharun-s-Chatbox" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+        </a>
+      </p>
+      <p>A high-performance AI assistant powered by GPT-4o, featuring a sleek and humanized interface optimized for extreme speed and near-zero latency streaming. <em>(Feb – Apr 2026)</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Aura — AI RAG Assistant</h3>
+      <p align="center">
+        <a href="https://github.com/Tharun4743/SIH25231" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+        </a>
+      </p>
+      <p>A 100% offline multimodal Retrieval-Augmented Generation (RAG) system for resource-constrained environments, featuring local document processing, vision indexing, and voice transcription. <em>(2026)</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🪖 Smart Helmet IoT System</h3>
+      <p align="center">
+        <a href="https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+        </a>
+        <a href="https://drive.google.com/drive/folders/1kYhyoOx9-Tr4WyOJkmUz7K4PDDpmaHEr?usp=drive_link" target="_blank">
+          <img src="https://img.shields.io/badge/Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Drive"/>
+        </a>
+      </p>
+      <p>An intelligent IoT helmet that proactively prevents accidents by monitoring helmet wear, alcohol levels, and drowsiness — automatically disabling the bike ignition under unsafe conditions. <em>SIH 2025 Submission.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/RF%20433MHz-IoT-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 &nbsp;Achievements
+
+<div align="center">
+
+| &nbsp; | Recognition | Description |
 |:---:|:---|:---|
-| 🥇 | **Code Thugs 2k26** | **National 1st Place** — Real-Time Collaborative Code Editor · Prize: ₹5,000 |
+| 🥇 | **Code Thugs 2K26** — National Hackathon | **1st Place** — Real-Time Collaborative Code Editor · Prize: **₹5,000** |
 | 🚀 | **Smart India Hackathon 2025** | **Internal Hackathon Top 50** out of 300+ submissions |
 | 🔬 | **India Innovates 2026** | Advanced to the **finals track** after two rigorous selection rounds |
-| 🌟 | **GeeksforGeeks** | **Campus Mantri** Student Ambassador *(Jan 2026 – Jul 2026)* |
-| 🎯 | **Symposium Event** | **Fun Quest Event Coordinator** — Managed 150+ participants · 9.8/10 rating |
+| 🌟 | **GeeksforGeeks Campus Mantri** | Student Ambassador *(Jan 2026 – Jul 2026)* |
+| 🎯 | **Fun Quest Event Coordinator** | Led 150+ participants across two slots · **9.8/10** feedback rating |
+
+</div>
+
+<br/>
 
 ---
 
-## 📜 Certifications Journey
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📜 &nbsp;Certifications Journey
 
 <details>
-  <summary><b>✨ Click to expand and view my continuous learning journey!</b></summary>
+  <summary><b>🎓 Click to expand — Continuous Learning & Growth</b></summary>
   <br/>
 
-  - 🎓 **[Infosys Internship Completion Certificate](https://drive.google.com/file/d/1Q9M6APOGYKO0_jYrKBAO4fAwTFEZJigy/view?usp=drive_link)** — *Infosys Springboard (2024)*
-  - 📊 **[Tata - GenAI Powered Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_RxeDd9TgPqW92wdDx_1750820862922_completion_certificate.pdf)** — *Forage (Jun 2025)*
-  - 💻 **[Dynamic Programming Camp Participation Certificate](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/Dynamic_Programming_camp/tharunkumar-k.png)** — *AlgoUniversity (May 2026)*
-  - 🛡️ **[Responsible AI: Applying AI Principles with Google Cloud](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907581?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)** — *Google Cloud (Aug 2025)*
-  - 🤖 **[Prompt Design in Agent Platform](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/16663518?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)** — *Google (Jun 2025)*
-  - 🧠 **[Introduction to Large Language Models](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907465?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)** — *Google (Aug 2025)*
-  - ✨ **[Prompt Design in Vertex AI Skill Badge](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb)** — *Google (Jun 2025)*
-  - 🌐 **[Introduction to IoT](https://www.credly.com/badges/e0e38f42-909d-46a0-8a23-4cbb658ceb2b/linked_in_profile)** — *Cisco (Nov 2025)*
-  - ☁️ **[Salesforce Administrator Explorer](https://drive.google.com/file/d/1IgkTkYQ-dfhashY-7-R6soyY7YQhw4zI/view?usp=drive_link)** — *Trailhead by Salesforce (Aug 2025)*
-  - 🏆 **TCS iON Career Edge — Young Professional** — *TCS iON (2025)*
-  - 🐍 **Python Foundation** — *2024*
-  - 🔌 **Introduction to IoT and Digital Transformation** — *Certification (2024)*
+  | # | Certificate / Badge | Issuer | Year | Link |
+  |:---:|:---|:---|:---:|:---:|
+  | 1 | 🎓 Infosys Internship Completion Certificate | Infosys Springboard | 2024 | [View](https://drive.google.com/file/d/1Q9M6APOGYKO0_jYrKBAO4fAwTFEZJigy/view?usp=drive_link) |
+  | 2 | 📊 Tata - GenAI Powered Data Analytics Job Simulation | Forage | Jun 2025 | [View](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_RxeDd9TgPqW92wdDx_1750820862922_completion_certificate.pdf) |
+  | 3 | 💻 Dynamic Programming Camp Participation Certificate | AlgoUniversity | May 2026 | [View](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/Dynamic_Programming_camp/tharunkumar-k.png) |
+  | 4 | 🛡️ Responsible AI: Applying AI Principles with Google Cloud | Google Cloud | Aug 2025 | [View Badge](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907581?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
+  | 5 | 🤖 Prompt Design in Agent Platform | Google | Jun 2025 | [View Badge](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/16663518?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
+  | 6 | 🧠 Introduction to Large Language Models | Google | Aug 2025 | [View Badge](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907465?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
+  | 7 | ✨ Prompt Design in Vertex AI Skill Badge | Google | Jun 2025 | [View Badge](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb) |
+  | 8 | 🌐 Introduction to IoT | Cisco | Nov 2025 | [View Badge](https://www.credly.com/badges/e0e38f42-909d-46a0-8a23-4cbb658ceb2b/linked_in_profile) |
+  | 9 | ☁️ Salesforce Administrator Explorer | Trailhead by Salesforce | Aug 2025 | [View](https://drive.google.com/file/d/1IgkTkYQ-dfhashY-7-R6soyY7YQhw4zI/view?usp=drive_link) |
+  | 10 | 🏆 TCS iON Career Edge — Young Professional | TCS iON | 2025 | — |
+  | 11 | 🐍 Python Foundation | Certification | 2024 | — |
+  | 12 | 🔌 Introduction to IoT and Digital Transformation | Certification | 2024 | — |
+
 </details>
+
+<br/>
 
 ---
 
-## 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="./assets/stats.svg" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;&nbsp;
-  <img src="./assets/top-langs.svg" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tharun4743&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="600"/>
+  <img src="https://streak-stats.demolab.com?user=Tharun4743&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="650"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun4743&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+</div>
+
+<br/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/tharunkumark4743/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Tharun4743">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:tharunkumark42007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tharunkumark4743.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+  </a>
+
+  <br/><br/>
+
+  <i>"The only way to do great work is to love what you do."</i>
+
+</div>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 </div>
