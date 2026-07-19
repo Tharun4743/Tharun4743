@@ -50,7 +50,7 @@ I'm a **third-year B.Tech student** who genuinely loves building real products �
 - 💼 **Software Development Intern @ Infosys Springboard** *(Nov 2025–Jan 2026)* — built "StarWall," an internal employee recognition dashboard
 - 🌟 **GFG Campus Mantri** — organized tech workshops & grew the campus coding community
 - 🏆 **National Hackathon Winner** — CODE THUGS 2K26, 1st Place
-- 🚀 **SIH 2025** — Top 50 placement nationally
+- 🚀 **SIH 2025** — Internal Top 50 at VSB Engineering College
 - 📍 **Dharapuram, Tamil Nadu** &nbsp;|&nbsp; 📞 **+91 8760964830**
 - 🎓 Higher Secondary (12th) @ Sindhu Matriculation HSS, Tamil Nadu *(2023–2024)* — 84.66%
 
@@ -210,7 +210,7 @@ I'm a **third-year B.Tech student** who genuinely loves building real products �
 | &nbsp; | Event | What I Did |
 |:---:|:---|:---|
 | 🥇 | **CODE THUGS 2K26** — National Hackathon | Won **1st Place** for a Real-Time Collaborative Code Editor · Prize: **₹5,000** |
-| 🚀 | **Smart India Hackathon 2025** | Reached the **national Top 50** out of 300+ submissions |
+| 🚀 | **Smart India Hackathon 2025** | Reached the **internal Top 50 at VSB Engineering College**, out of 300+ submissions |
 | 🔬 | **India Innovates 2026** | Advanced to the **finals track** after two selection rounds |
 | 🌟 | **GeeksforGeeks Campus Mantri** | Served as Student Ambassador *(Jan–Jul 2026)*, ran workshops & events |
 | 🎯 | **Fun Quest — Symposium Event Coordinator** | Managed 150+ participants across two event slots · **9.8/10** average rating |
