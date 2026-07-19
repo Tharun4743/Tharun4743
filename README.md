@@ -2,11 +2,11 @@
 <!-- HERO -->
 <!-- ============================================= -->
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%" /><img src="https://raw.githubusercontent.com/Tharun4743/Tharunkumar-K-Portfolio/main/public/favicon.png" align="right" width="220" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%" /><img src="https://raw.githubusercontent.com/Tharun4743/TharunkumarK_Portfolio/main/public/avatar.png" align="right" width="220" />
 
 <h3>👋 Hi, I'm <strong>Tharunkumar K</strong></h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;IoT+%26+Embedded+Systems+Engineer+%F0%9F%AA%96;AI+%26+RAG+Systems+Builder+%F0%9F%A7%A0;Hackathon+Winner+%F0%9F%8F%85;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=550&lines=Full+Stack+Developer+%F0%9F%9A%80;IoT+%26+Embedded+Systems+Engineer+%F0%9F%AA%96;AI+%26+RAG+Systems+Builder+%F0%9F%A7%A0;Hackathon+Winner+%28Code+Thugs+2k26%29+%F0%9F%8F%85;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <p>Building intelligent web applications, desktop software, and safety IoT systems that solve real-world problems.</p>
 
@@ -22,14 +22,6 @@
 <br clear="both"/>
 </div>
 
-<div align="center">
-
-![Hackathon Winner](https://img.shields.io/badge/Hackathon_Winner-Code_Thugs_2k26-38BDF8?style=flat)
-&nbsp;
-![GFG Campus Mantri](https://img.shields.io/badge/GFG_Campus_Mantri-2F8D46?style=flat)
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
 <!-- ============================================= -->
@@ -39,8 +31,6 @@
 ## 👤 About Me
 
 > Full stack developer passionate about building scalable web applications. Currently interning at **Neura Global** (a startup), working with React, Node.js, TypeScript, and PostgreSQL. Thrives on learning, collaborating with teams, and solving complex challenges.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=38BDF8&width=700&lines=📍+Dharapuram%2C+Tamil+Nadu+%7C+✉️+tharunkumark42007%40gmail.com+%7C+🎓+B.Tech+IT+%40+VSB+Engineering+College" alt="Info"/>
 
 | 📍 Location | ✉️ Email | 🔗 LeetCode | 🌐 GeeksforGeeks |
 |:---:|:---:|:---:|:---:|
@@ -57,21 +47,48 @@
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp" alt="Languages"/>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-7C3AED?style=for-the-badge&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend**
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-4B5563?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css" alt="Frontend"/>
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon Serverless](https://img.shields.io/badge/Neon%20Serverless-00C7B7?style=for-the-badge&logo=neon&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,prisma,postgres,supabase,mongodb,mysql,sqlite" alt="Backend & Databases"/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,electron,netlify,salesforce,cloudinary" alt="Tools"/>
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-F6821F?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
 
@@ -215,17 +232,7 @@ An intelligent IoT helmet system that proactively prevents accidents by monitori
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tharun4743&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" width="100%" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Tharun4743&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun4743&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;cache_seconds=3600" height="165"/>
 </div>
 
 <br/>
