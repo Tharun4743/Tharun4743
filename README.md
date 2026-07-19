@@ -250,10 +250,20 @@ I'm a **third-year B.Tech student** who genuinely loves building real products â
 ## ðŸ“Š GitHub Analytics
 
 <div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTharun4743&label=Repos&query=%24.public_repos&color=38BDF8&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Tharun4743?style=for-the-badge&logo=github&logoColor=white&color=38BDF8&labelColor=1a1b27&label=Followers" height="45"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </div>
 
 <br/>
+
+<p align="center"><b>Contributions Activity Chart</b></p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tharun4743&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="650"/>
