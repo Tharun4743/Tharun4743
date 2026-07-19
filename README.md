@@ -43,14 +43,18 @@
 🟢 Status     : Open to Opportunities
 ```
 
-I'm a **second-year B.Tech student** who genuinely loves building real products — not just side projects. I picked up full-stack development out of curiosity and haven't stopped since. I currently intern at **Neura Global**, where I ship production features daily using React, Node.js, and TypeScript. Outside of code, I organize hackathons, mentor peers as a **GFG Campus Mantri**, and occasionally pull all-nighters debugging things that *should* have worked.
+I'm a **third-year B.Tech student** who genuinely loves building real products — not just side projects. I picked up full-stack development out of curiosity and haven't stopped since. I currently intern at **Neura Global**, where I ship production features using React, Node.js, and TypeScript. Outside of code, I organize hackathons, mentor peers as a **GFG Campus Mantri**, and occasionally pull all-nighters debugging things that *should* have worked.
 
 - 🎓 **B.Tech in Information Technology** @ VSB Engineering College, Karur *(2024–2028)* — CGPA: **8.5/10**
-- 💼 **Fullstack Development Intern @ Neura Global** — building production-grade features with React, Node.js & TypeScript
-- 🌟 **GFG Campus Mantri** — organized tech workshops & grew the campus coding community *(Jan–Jul 2026)*
-- 🏆 **National Hackathon Winner** — Code Thugs 2K26, 1st Place *(₹5,000 prize)*
-- 🔬 Reached the **India Innovates 2026 finals** after two competitive selection rounds
+- 💼 **Fullstack Development Intern @ Neura Global** *(Jun 2026–Present)* — building production-grade features with React, Node.js & TypeScript
+- 💼 **Software Development Intern @ Infosys Springboard** *(Nov 2025–Jan 2026)* — built "StarWall," an internal employee recognition dashboard
+- 🌟 **GFG Campus Mantri** — organized tech workshops & grew the campus coding community
+- 🏆 **National Hackathon Winner** — CODE THUGS 2K26, 1st Place
+- 🚀 **SIH 2025** — Top 50 placement nationally
 - 📍 **Dharapuram, Tamil Nadu** &nbsp;|&nbsp; 📞 **+91 8760964830**
+- 🎓 Higher Secondary (12th) @ Sindhu Matriculation HSS, Tamil Nadu *(2023–2024)* — 84.66%
+
+**📊 Snapshot:** 4 Projects Built &nbsp;·&nbsp; 11 Certifications &nbsp;·&nbsp; 18 GitHub Repos &nbsp;·&nbsp; 8 Followers
 
 <br/>
 
@@ -82,6 +86,7 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -93,6 +98,7 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
 ![Neon Serverless](https://img.shields.io/badge/Neon%20Serverless-00C7B7?style=for-the-badge&logo=neon&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Platforms**
 
@@ -102,6 +108,7 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-F6821F?style=for-the-badge&logo=cloudinary&logoColor=white)
 
@@ -124,11 +131,11 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
           <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>An enterprise-grade college placement platform that automates TPO workflows, connects students with recruiters, and streamlines the entire hiring lifecycle — from job posting to offer letters. <em>(June 2026)</em></p>
+      <p>An enterprise-grade college placement platform that automates TPO workflows, connects students with recruiters, and streamlines the entire hiring lifecycle — from job posting to offer letters. Built with four roles (Student, HR, TPO, Admin), 22 tables, and 50+ API routes. <em>(Apr–May 2026)</em></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
       </p>
@@ -144,7 +151,7 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
           <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>A production-grade AI chat assistant powered by GPT-4o with document parsing, voice input, and markdown rendering — all with near-zero latency. Built with Next.js 15 and Prisma ORM. <em>(Feb–Apr 2026)</em></p>
+      <p>A production-grade AI chat assistant powered by GPT-4o (via OpenRouter) with document parsing, voice input, and markdown rendering. Built with Next.js 15, Prisma ORM, Neon PostgreSQL, and NextAuth.js v5.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -155,18 +162,18 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Aura — Offline AI RAG System</h3>
+      <h3 align="center">🧠 AURA — Offline AI RAG System</h3>
       <p align="center">
         <a href="https://github.com/Tharun4743/SIH25231" target="_blank">
           <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>A fully air-gapped, 100% offline multimodal RAG system that processes documents, images, and voice queries locally — no internet required. Built for secure, resource-constrained environments. <em>(2026)</em></p>
+      <p>A fully offline, air-gapped multimodal RAG desktop application (built for SIH Problem Statement 25231, NTRO) that processes documents, images, and voice queries locally — no internet required. Powered by Spring Boot, Electron, and Ollama (Llama 3), with CLIP and Whisper for multimodal retrieval.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot%203.3-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Electron%2031-47848F?style=flat-square&logo=electron&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
       </p>
     </td>
@@ -181,7 +188,7 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
           <img src="https://img.shields.io/badge/Demo%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
         </a>
       </p>
-      <p>An IoT safety helmet that detects alcohol, drowsiness, and whether the helmet is worn — cutting the bike's ignition via RF signal if the rider is in an unsafe state. <em>SIH 2025 Internal Top 50.</em></p>
+      <p>An IoT safety helmet that detects alcohol, drowsiness, and whether the helmet is worn — cutting the bike's ignition via RF signal if the rider is in an unsafe state. <strong>SIH 2025 national Top 50 qualifier.</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
@@ -202,10 +209,10 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
 
 | &nbsp; | Event | What I Did |
 |:---:|:---|:---|
-| 🥇 | **Code Thugs 2K26** — National Hackathon | Won **1st Place** for a Real-Time Collaborative Code Editor · Prize: **₹5,000** |
-| 🚀 | **Smart India Hackathon 2025** | Reached the **Internal Top 50** out of 300+ college submissions |
-| 🔬 | **India Innovates 2026** | Cleared two rounds to reach the **finals track** |
-| 🌟 | **GeeksforGeeks Campus Mantri** | Served as Student Ambassador, ran workshops & events *(Jan–Jul 2026)* |
+| 🥇 | **CODE THUGS 2K26** — National Hackathon | Won **1st Place** for a Real-Time Collaborative Code Editor · Prize: **₹5,000** |
+| 🚀 | **Smart India Hackathon 2025** | Reached the **national Top 50** out of 300+ submissions |
+| 🔬 | **India Innovates 2026** | Advanced to the **finals track** after two selection rounds |
+| 🌟 | **GeeksforGeeks Campus Mantri** | Served as Student Ambassador *(Jan–Jul 2026)*, ran workshops & events |
 | 🎯 | **Fun Quest — Symposium Event Coordinator** | Managed 150+ participants across two event slots · **9.8/10** average rating |
 
 </div>
@@ -225,15 +232,14 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
   | 1 | 🎓 Infosys Internship Completion Certificate | Infosys Springboard | 2024 | [View ↗](https://drive.google.com/file/d/1Q9M6APOGYKO0_jYrKBAO4fAwTFEZJigy/view?usp=drive_link) |
   | 2 | 📊 Tata GenAI Powered Data Analytics Job Simulation | Forage | Jun 2025 | [View ↗](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_RxeDd9TgPqW92wdDx_1750820862922_completion_certificate.pdf) |
   | 3 | 💻 Dynamic Programming Camp Participation Certificate | AlgoUniversity | May 2026 | [View ↗](https://d3uam8jk4sa4y4.cloudfront.net/static/certificates/Dynamic_Programming_camp/tharunkumar-k.png) |
-  | 4 | 🛡️ Responsible AI: Applying AI Principles with Google Cloud | Google Cloud | Aug 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907581?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
-  | 5 | 🤖 Prompt Design in Agent Platform | Google | Jun 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/16663518?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
-  | 6 | 🧠 Introduction to Large Language Models | Google | Aug 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907465?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) |
+  | 4 | 🛡️ Responsible AI: Applying AI Principles with Google Cloud | Google Cloud | Aug 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907581) |
+  | 5 | 🤖 Prompt Design in Agent Platform | Google | Jun 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/16663518) |
+  | 6 | 🧠 Introduction to Large Language Models | Google | Aug 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb/badges/17907465) |
   | 7 | ✨ Prompt Design in Vertex AI Skill Badge | Google | Jun 2025 | [View Badge ↗](https://www.skills.google/public_profiles/180f5b3d-e9b7-448b-8a76-0347666076bb) |
   | 8 | 🌐 Introduction to IoT | Cisco | Nov 2025 | [View Badge ↗](https://www.credly.com/badges/e0e38f42-909d-46a0-8a23-4cbb658ceb2b/linked_in_profile) |
   | 9 | ☁️ Salesforce Administrator Explorer | Trailhead by Salesforce | Aug 2025 | [View ↗](https://drive.google.com/file/d/1IgkTkYQ-dfhashY-7-R6soyY7YQhw4zI/view?usp=drive_link) |
   | 10 | 🏆 TCS iON Career Edge — Young Professional | TCS iON | 2025 | — |
-  | 11 | 🐍 Python Foundation | Certification | 2024 | — |
-  | 12 | 🔌 Introduction to IoT and Digital Transformation | Certification | 2024 | — |
+  | 11 | 🔌 Introduction to IoT and Digital Transformation | Certification | 2024 | — |
 
 </details>
 
@@ -244,8 +250,6 @@ I'm a **second-year B.Tech student** who genuinely loves building real products 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </div>
 
