@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Neura%20Global%20Intern%20%7C%20Tech%20Innovator&descAlignY=58&descSize=17&descColor=b3d9ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Building%20Intelligent%20Software%20Solutions&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Tharunkumar%20K%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Winner%20-%20Code%20Thugs%202K26&descAlignY=58&descSize=15&descColor=b3d9ff" width="100%" />
 </div>
 
 <!-- Typing Animation -->
@@ -23,6 +23,23 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Tharun4743&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+### Hi, I'm <ins>Tharunkumar K</ins>.
+I build intelligent web applications, desktop software, and safety IoT systems that solve real-world problems.
+
+</td>
+<td width="45%" align="center">
+<img src="https://tharunkumark4743.netlify.app/assets/profile-DY5f1L9w.png" width="260" style="border-radius:16px" /><br/>
+<img src="https://img.shields.io/badge/🏅_HACKATHON_WINNER-Code_Thugs_2k26-38BDF8?style=for-the-badge&labelColor=1a1b27" height="35"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -188,7 +205,7 @@ I'm a **third-year B.Tech student** who genuinely loves building real products �
           <img src="https://img.shields.io/badge/Demo%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
         </a>
       </p>
-      <p>An IoT safety helmet that detects alcohol, drowsiness, and whether the helmet is worn — cutting the bike's ignition via RF signal if the rider is in an unsafe state. <strong>SIH 2025 national Top 50 qualifier.</strong></p>
+      <p>An IoT safety helmet that detects alcohol, drowsiness, and whether the helmet is worn — cutting the bike's ignition via RF signal if the rider is in an unsafe state. <strong>SIH 2025 internal Top 50 qualifier (VSB Engineering College).</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
@@ -250,9 +267,9 @@ I'm a **third-year B.Tech student** who genuinely loves building real products �
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTharun4743&label=Repos&query=%24.public_repos&color=38BDF8&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Tharun4743?style=for-the-badge&logo=github&logoColor=white&color=38BDF8&labelColor=1a1b27&label=Followers" height="45"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTharun4743&label=REPOS&query=%24.public_repos&color=0e1420&style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=f5f7fa&logoWidth=25" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Tharun4743?style=for-the-badge&logo=github&logoColor=38BDF8&color=0e1420&labelColor=f5f7fa&label=FOLLOWERS&logoWidth=25" height="60"/>
 </div>
 
 <br/>
