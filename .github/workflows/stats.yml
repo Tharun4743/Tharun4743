@@ -33,6 +33,7 @@ jobs:
           if not matches:
               pattern2 = r"data-level=\"(\d+)\"[^>]*data-date=\"(\d{4}-\d{2}-\d{2})\""
               matches = [(m[1], m[0]) for m in re.findall(pattern2, html)]
+          matches.sort(key=lambda x: x[0])
           months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
           colors = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
           box_size, gap, step = 11, 3, 14
@@ -41,27 +42,30 @@ jobs:
           width = left_offset + weeks_count * step + 15
           height = top_offset + 7 * step + 25
           lines = [f"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"{width}\" height=\"{height}\" viewBox=\"0 0 {width} {height}\" fill=\"none\">", "<style>.month-text { font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif; font-size: 10px; fill: #8b949e; font-weight: 500; } .wday-text { font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif; font-size: 9px; fill: #8b949e; } .day-rect { rx: 2px; ry: 2px; }</style>", "<rect width=\"100%\" height=\"100%\" fill=\"#0d1117\" rx=\"6\" />"]
-          col_months = []
-          col = row = 0
-          for date_str, _ in matches:
-              if row == 0: col_months.append(int(date_str.split("-")[1]))
-              row += 1
-              if row > 6: row = 0; col += 1
-          last_m, last_x = None, -100
-          for c_idx, m_num in enumerate(col_months):
+          columns = []
+          curr_col = []
+          for item in matches:
+              curr_col.append(item)
+              if len(curr_col) == 7: columns.append(curr_col); curr_col = []
+          if curr_col: columns.append(curr_col)
+          month_headers = []
+          last_m = None
+          for c_idx, col_days in enumerate(columns):
+              first_date = col_days[0][0]
+              m_num = int(first_date.split("-")[1])
               if m_num != last_m:
                   x_pos = left_offset + c_idx * step
-                  if x_pos - last_x >= 28:
-                      lines.append(f"<text x=\"{x_pos}\" y=\"18\" class=\"month-text\">{months[m_num - 1]}</text>")
-                      last_m, last_x = m_num, x_pos
-          col = row = 0
-          for date_str, lvl_str in matches:
-              l = int(lvl_str)
-              c = colors[min(l, 4)]
-              x, y = left_offset + col * step, top_offset + row * step
-              lines.append(f"<rect class=\"day-rect\" x=\"{x}\" y=\"{y}\" width=\"{box_size}\" height=\"{box_size}\" fill=\"{c}\"><title>{l} contributions on {date_str}</title></rect>")
-              row += 1
-              if row > 6: row = 0; col += 1
+                  if not month_headers or (x_pos - month_headers[-1][0] >= 25):
+                      month_headers.append((x_pos, months[m_num - 1]))
+                      last_m = m_num
+          for x_pos, m_name in month_headers:
+              lines.append(f"<text x=\"{x_pos}\" y=\"18\" class=\"month-text\">{m_name}</text>")
+          for c_idx, col_days in enumerate(columns):
+              for r_idx, (date_str, lvl_str) in enumerate(col_days):
+                  l = int(lvl_str)
+                  c = colors[min(l, 4)]
+                  x, y = left_offset + c_idx * step, top_offset + r_idx * step
+                  lines.append(f"<rect class=\"day-rect\" x=\"{x}\" y=\"{y}\" width=\"{box_size}\" height=\"{box_size}\" fill=\"{c}\"><title>{l} contributions on {date_str}</title></rect>")
           lines.append(f"<text x=\"10\" y=\"{top_offset + 1 * step + 9}\" class=\"wday-text\">Mon</text>")
           lines.append(f"<text x=\"10\" y=\"{top_offset + 3 * step + 9}\" class=\"wday-text\">Wed</text>")
           lines.append(f"<text x=\"10\" y=\"{top_offset + 5 * step + 9}\" class=\"wday-text\">Fri</text>")
