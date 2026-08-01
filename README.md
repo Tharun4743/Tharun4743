@@ -231,15 +231,36 @@ An intelligent IoT helmet system that proactively prevents accidents by monitori
 
 ## 📊 GitHub Analytics & Contributions
 
+<!-- Animated Snake Contribution Eating Grid -->
 <div align="center">
-  <h3>📅 Contribution Calendar</h3>
-  <img src="https://ghchart.rshah.org/38BDF8/Tharun4743" width="100%" alt="Tharunkumar K's Contribution Calendar" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharun4743/Tharun4743/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tharun4743/Tharun4743/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Tharun4743/Tharun4743/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
 
+<!-- Colorful Heatmap Contribution Calendar -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tharun4743&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" height="165"/>
+  <h3>📅 Contribution Calendar</h3>
+  <img src="https://ghchart.rshah.org/00C7B7/Tharun4743" width="100%" alt="Tharunkumar K's Contribution Calendar" />
+</div>
+
+<br/>
+
+<!-- Stats Badges & Top Languages Cards -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- Streak & Activity Graph -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Tharun4743&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" height="165" alt="Streak Stats"/>
 </div>
 
 <br/>
