@@ -2,11 +2,7 @@
 <!-- HERO -->
 <!-- ============================================= -->
 <div>
-<img src="./assets/cyberpunk-banner.png" width="100%" alt="Tharun Kumar Cyberpunk Developer Workspace Banner" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharunkumar%20K&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=15" width="100%" /><img src="./assets/programmer.gif" align="right" width="260" alt="Programmer Coding GIF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%" /><img src="./assets/programmer.gif" align="right" width="260" alt="Programmer Coding GIF" />
 
 <h3>👋 Hi, I'm <strong>Tharunkumar K</strong></h3>
 
