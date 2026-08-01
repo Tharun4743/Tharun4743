@@ -46,12 +46,6 @@
 *The tools and languages I use to bring ideas to life.*
 
 <div align="center">
-  <img src="./assets/tech-matrix.gif" width="450" alt="Technical Matrix Coding GIF" />
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
