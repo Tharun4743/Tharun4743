@@ -242,18 +242,18 @@ An intelligent IoT helmet system that proactively prevents accidents by monitori
 
 <br/>
 
-<!-- Colorful Heatmap Contribution Calendar -->
+<!-- Native Dark GitHub Contribution Calendar -->
 <div align="center">
   <h3>📅 Contribution Calendar</h3>
-  <img src="https://ghchart.rshah.org/00C7B7/Tharun4743" width="100%" alt="Tharunkumar K's Contribution Calendar" />
+  <img src="./assets/contribution-calendar-dark.svg" width="100%" alt="Tharunkumar K's GitHub Contribution Calendar" />
 </div>
 
 <br/>
 
 <!-- Stats Badges & Top Languages Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="./assets/stats.svg" height="165" alt="GitHub Stats"/>
+  <img src="./assets/top-langs.svg" height="165" alt="Top Languages"/>
 </div>
 
 <br/>
