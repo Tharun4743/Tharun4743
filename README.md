@@ -2,7 +2,7 @@
 <!-- HERO -->
 <!-- ============================================= -->
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%" /><img src="https://raw.githubusercontent.com/ahmedhosna95/upload-data/main/Animated%20GIFs/Developer.gif" align="right" width="280" alt="Tech Coding Developer GIF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%" /><img src="./assets/programmer.gif" align="right" width="260" alt="Programmer Coding GIF" />
 
 <h3>👋 Hi, I'm <strong>Tharunkumar K</strong></h3>
 
@@ -30,15 +30,11 @@
 
 ## 👤 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-42e5-8805-ee8a02b747f9.gif" align="right" width="340" alt="Technical Developer Coding GIF" />
-
 > Full stack developer passionate about building scalable web applications. Currently interning at **Neura Global** (a startup), working with React, Node.js, TypeScript, and PostgreSQL. Thrives on learning, collaborating with teams, and solving complex challenges.
 
 | 📍 Location | ✉️ Email | 🔗 LeetCode | 🌐 GeeksforGeeks |
 |:---:|:---:|:---:|:---:|
 | Dharapuram, Tamil Nadu | tharunkumark42007@gmail.com | [Tharunkumar\_\_K](https://leetcode.com/u/Tharunkumar__K/) | [tharunkumark4743](https://www.geeksforgeeks.org/profile/tharunkumark4743) |
-
-<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
@@ -50,7 +46,7 @@
 *The tools and languages I use to bring ideas to life.*
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a912b-825f-4d04-926d-4588ac05d48c.gif" width="450" alt="Technical Development GIF" />
+  <img src="./assets/tech-matrix.gif" width="450" alt="Technical Matrix Coding GIF" />
 </div>
 
 <br/>
