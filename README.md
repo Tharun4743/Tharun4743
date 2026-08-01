@@ -232,10 +232,17 @@ An intelligent IoT helmet system that proactively prevents accidents by monitori
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
 
 <!-- ============================================= -->
-<!-- 8. GITHUB ANALYTICS -->
+<!-- 8. GITHUB ANALYTICS & CONTRIBUTIONS -->
 <!-- ============================================= -->
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Contributions
+
+<div align="center">
+  <h3>📅 Contribution Calendar</h3>
+  <img src="https://ghchart.rshah.org/38BDF8/Tharun4743" width="100%" alt="Tharunkumar K's Contribution Calendar" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Tharun4743&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" height="165"/>
