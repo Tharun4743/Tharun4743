@@ -2,7 +2,7 @@
 <!-- HERO -->
 <!-- ============================================= -->
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%" /><img src="https://raw.githubusercontent.com/Tharun4743/TharunkumarK_Portfolio/main/public/avatar.png" align="right" width="220" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharunkumar%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%" /><img src="https://github.com/Tharun4743.png" align="right" width="180" style="border-radius: 50%;" />
 
 <h3>👋 Hi, I'm <strong>Tharunkumar K</strong></h3>
 
