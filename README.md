@@ -231,17 +231,6 @@ An intelligent IoT helmet system that proactively prevents accidents by monitori
 
 ## 📊 GitHub Analytics & Contributions
 
-<!-- Animated Snake Contribution Eating Grid -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharun4743/Tharun4743/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tharun4743/Tharun4743/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Tharun4743/Tharun4743/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
-<br/>
-
 <!-- Native Dark GitHub Contribution Calendar -->
 <div align="center">
   <h3>📅 Contribution Calendar</h3>
