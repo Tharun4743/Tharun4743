@@ -129,6 +129,20 @@
 ## 🚀 Projects
 *Real-world applications built with cutting-edge tech.*
 
+### 📋 VSBEC Academic Task Manager — Role-Based Workflow Platform
+**`Production Deployed`** &nbsp;·&nbsp; *Role: Full-Stack Architect & Lead Developer*
+
+[![Production Deployed](https://img.shields.io/badge/Production-Deployed-00C7B7?style=flat-square&logo=render&logoColor=white)](https://github.com/Tharun4743) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharun4743)
+
+A centralized academic workflow platform engineered to modernize manual task collection, proof submission, and verification processes with multi-tier Role-Based Access Control (Supreme Admin, HOD, Class Advisor, Student Coordinator, and Student) and strict data isolation.
+
+- **Impact:** Actively implemented and deployed in the department for real-world academic task collection and management, transforming fragmented manual workflows into a secure, structured digital platform.
+- **Key Learnings:** Engineered multi-tier RBAC authorization middleware, implemented secure media submission pipelines with Cloudinary, and built production-grade REST APIs enforcing strict class/department data isolation and IDOR protection.
+
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Cloudinary` `Render`
+
+---
+
 ### 🎓 Campus Connect — College Placement Cell Platform
 **`Jun 2026`** &nbsp;·&nbsp; *Role: Lead Full Stack Developer*
 
