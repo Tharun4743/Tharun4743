@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="./assets/programmer.gif" width="180" alt="Programmer Coding GIF" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" alt="Developer Animation"/>
 
 # Tharunkumar K
 **Full Stack Developer · IoT Engineer · AI Builder**
@@ -18,9 +19,9 @@ Building intelligent web applications, desktop software, and safety IoT systems 
 
 ## About
 
-Full stack developer who enjoys building end-to-end — frontend, backend, and everything in between. Currently interning at **Neura Global**, working with React, Node.js, TypeScript, and PostgreSQL.
+Full stack developer who enjoys building end-to-end — frontend, backend, and everything in between. Recently interned at **Neura Global**, working with React, Node.js, TypeScript, and PostgreSQL.
 
-**Location:** Dharapuram, Tamil Nadu · **Email:** tharunkumark42007@gmail.com · **GeeksforGeeks:** [tharunkumark4743](https://www.geeksforgeeks.org/profile/tharunkumark4743)
+**Location:** Dharapuram, Tamil Nadu · **Email:** tharunkumark42007@gmail.com · **Phone:** +91 87609 64830
 
 ---
 
@@ -36,7 +37,7 @@ Full stack developer who enjoys building end-to-end — frontend, backend, and e
 
 ## Experience
 
-**Fullstack Development Intern — Neura Global** *(Jun 2026 – Present)*
+**Fullstack Development Intern — Neura Global** *(Jun 2026 – Jul 2026)*
 Built Campus Connect, a placement portal for the college's TPO cell, using React, Node.js, TypeScript, and Supabase.
 
 **Software Development Intern — Infosys Springboard** *(Nov 2025 – Jan 2026)*
@@ -98,6 +99,7 @@ Completed Infosys Springboard 6.0; built StarWall, an employee recognition dashb
 ## Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tharunkumark42007@gmail.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tharunkumark4743)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharun4743)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunkumark4743/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharunkumar__K/)
