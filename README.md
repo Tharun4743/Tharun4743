@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/programmer.gif" width="540" alt="Tharunkumar K - Full Stack Developer · AI Builder · IoT Engineer" />
+<img src="assets/programmer.gif" width="100%" style="max-width: 680px;" alt="Tharunkumar K - Full Stack Developer · AI Builder · IoT Engineer" />
 
 # Tharunkumar K
 
