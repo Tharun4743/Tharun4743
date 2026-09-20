@@ -112,7 +112,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * 🏛️ **[Public CRM](https://github.com/Tharun4743/Public-CRM)**: Citizen grievance redressal portal with automated SLA tracking, geo-tagging, and administrative escalation workflows.
 * 🏢 **[Work Suite HRMS](https://github.com/Tharun4743/odoohackathon)**: Enterprise employee management portal handling automated payroll tax calculations, role permissions, and leave lifecycles.
 * 🤝 **[CampusLink](https://github.com/Tharun4743/Campuslink)**: University peer-learning network facilitating cross-year mentorship, lab archive sharing, and hackathon team matching.
-* 📄 **[TK Office](https://github.com/Tharun4743/TK-Office)**: Zero-cloud offline Android office suite for local document generation and PDF rendering with zero external telemetry.
+* 📄 **[TK Office (TK Suite)](https://github.com/Tharun4743/TK-Office)** *(Personal Daily-Driver Productivity Suite)*: 100% air-gapped, zero-telemetry offline Android office and PDF document tool engineered in Flutter/Dart for personal daily document signing, PDF manipulation, and text processing without cloud dependencies or subscriptions.
 * ☕ **[Java LeetCode Enterprise Suite](https://github.com/Tharun4743/Java_Leetcode)**: 150+ rigorously tested algorithmic implementations in Java 17 with 100% JUnit 5 coverage and time/space complexity proofs.
 * 📊 **[LeetCode Progress Daemon](https://github.com/Tharun4743/Leetcode_progress)**: Continuous integration daemon syncing LeetCode GraphQL metrics nightly to generate dynamic SVG streak telemetry.
 
