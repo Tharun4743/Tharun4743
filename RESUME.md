@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Professional Summary
-High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven experience architecting and deploying real-world software actively used daily by **365+ enrolled students across 6 academic sections**. Two-time **Smart India Hackathon (SIH 2026 & SIH 2025) Top 50 Finalist** (Official Central SIH Portal Nominee) and **1st Place National Winner at Code Thugs 2K26**. Expert across React 19, Next.js 15, Node.js, Express, TypeScript, isolated compiler execution sandboxes, WebRTC/SSE streaming, and embedded Arduino/RF 433MHz hardware systems. Maintainer of an interconnected ecosystem of 25 standardized engineering repositories spanning institutional governance, collaborative cloud IDEs, cyber-physical safety, and applied AI.
+High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven experience architecting and deploying real-world software actively used daily by **365+ enrolled students across 6 academic sections**. Two-time **Smart India Hackathon (SIH 2026 & SIH 2025) Top 50 Finalist** (Official Central SIH Portal Nominee) and **1st Place National Winner at Code Thugs 2K26**. Expert across React 19, Next.js 15, Node.js, Express, TypeScript, isolated compiler execution sandboxes, WebRTC/SSE streaming, embedded Arduino/RF 433MHz systems, and enterprise Pega low-code case lifecycles. Maintainer of an interconnected ecosystem of 25 standardized engineering repositories spanning institutional governance, collaborative cloud IDEs, cyber-physical safety, and applied AI.
 
 ---
 
@@ -26,6 +26,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * **Databases & Persistence:** PostgreSQL (35+ relational tables), Supabase, Neon Serverless Postgres, In-Memory RAM Caching, Redis, MongoDB Atlas, SQLite, ChromaDB
 * **AI & Machine Learning:** Groq LPU (LLaMA 3 70B), Google Gemini AI SDK, Hugging Face Transformers, FinBERT, MobileNet, YOLO Vision, RAG Pipelines
 * **Embedded IoT & Hardware:** Arduino Nano/Core, ESP32, RF 433MHz Wireless Telemetry, MQ-3 Alcohol Sensor, MQ-2/MQ-135 Gas Sensors, IR Proximity, IR Eye-Blink Sensor, 5V Relays, I²C LCD
+* **Enterprise BPM & Low-Code:** Pega Infinity '24.1, Pega Guardrails, Enterprise Case Lifecycle Management, SLA Timers, Declarative Rules, Skill-Based Routing
 * **DevOps & Cloud:** Git, GitHub Actions (CI/CD), Vercel, Render, Netlify Edge CDN, Docker (Piston Sandbox), Cloudinary CDN, Postman
 
 ---
@@ -38,6 +39,13 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * Implemented real-time multi-stage interview funnels using **React 19, Vite, Node.js, Express, Socket.IO**, and **Supabase PostgreSQL**.
 * Integrated **Google Gemini AI** to automate semantic resume screening and skill-gap matching against corporate job specifications.
 * Cut administrative manual roster auditing by **70%** and managed application timelines for 500+ student profiles with zero scheduling collisions.
+
+### 🚗 Enterprise Systems Intern — Pegasystems (Pega) Enterprise Architecture
+*Jan 2026 – Feb 2026*
+* Engineered **Vehicle Service Management** ([Vehicle-Service](https://github.com/Tharun4743/Vehicle-Service)), an enterprise automotive case lifecycle automation platform on **Pega Infinity '24.1**.
+* Built formal multi-stage case flows (Check-in → Diagnostic Inspection → Cost Estimation → Customer Approval SLA → Technician Repair → Invoicing).
+* Configured automated SLA Goal and Deadline escalation timers to prevent repair turnarounds from breaching customer service guarantees.
+* Implemented declarative pricing logic and skill-based work queue routing to match specialized diagnostic jobs with certified master mechanics.
 
 ### 💻 Software Development Intern — Infosys Springboard
 *Nov 2025 – Jan 2026*
@@ -92,6 +100,8 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 
 ## 📦 Additional Enterprise & Applied Engineering Systems
 
+* 🚗 **[Vehicle Service Management](https://github.com/Tharun4743/Vehicle-Service)** *(Pega Internship Project)*: Enterprise automotive workflow and case lifecycle management platform engineered on Pega Infinity '24.1, featuring automated SLA timers, skill-based technician queues, and declarative billing logic.
+* 🎬 **[Encodr Lite](https://github.com/Tharun4743/encodr-lite-take-home)** *(Mactores Company Technical Assessment)*: Strictly typed Next.js 19 media transcoding and BullMQ/FFmpeg job queue monitoring dashboard built for the Mactores technical assessment with zero runtime typing errors.
 * 🛡️ **[Mailtrace AI](https://github.com/Tharun4743/Mailtrace-ai)**: Email forensics platform validating SPF/DKIM/DMARC headers with Hugging Face transformer intent classification to neutralize zero-day spear phishing.
 * 💳 **[MuleGuard](https://github.com/Tharun4743/Muleguard)**: Financial crime detection engine using Neo4j and D3.js graph topologies to identify money mule smurfing rings via velocity heuristics.
 * 🔍 **[RiskLens AI](https://github.com/Tharun4743/RiskLens-AI)**: Quantitative banking risk platform executing FinBERT NLP sentiment extraction over SEC 10-K filings paired with Monte Carlo VaR models.
@@ -102,9 +112,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * 🏛️ **[Public CRM](https://github.com/Tharun4743/Public-CRM)**: Citizen grievance redressal portal with automated SLA tracking, geo-tagging, and administrative escalation workflows.
 * 🏢 **[Work Suite HRMS](https://github.com/Tharun4743/odoohackathon)**: Enterprise employee management portal handling automated payroll tax calculations, role permissions, and leave lifecycles.
 * 🤝 **[CampusLink](https://github.com/Tharun4743/Campuslink)**: University peer-learning network facilitating cross-year mentorship, lab archive sharing, and hackathon team matching.
-* 🚗 **[Vehicle Service Management](https://github.com/Tharun4743/Vehicle-Service)**: Automotive workshop service management system tracking digital job cards, spare parts inventory, and billing.
 * 📄 **[TK Office](https://github.com/Tharun4743/TK-Office)**: Zero-cloud offline Android office suite for local document generation and PDF rendering with zero external telemetry.
-* 🎬 **[Encodr Lite](https://github.com/Tharun4743/encodr-lite-take-home)**: Distributed media transcoding dashboard utilizing FFmpeg, BullMQ, and Redis to process multi-resolution video pipelines.
 * ☕ **[Java LeetCode Enterprise Suite](https://github.com/Tharun4743/Java_Leetcode)**: 150+ rigorously tested algorithmic implementations in Java 17 with 100% JUnit 5 coverage and time/space complexity proofs.
 * 📊 **[LeetCode Progress Daemon](https://github.com/Tharun4743/Leetcode_progress)**: Continuous integration daemon syncing LeetCode GraphQL metrics nightly to generate dynamic SVG streak telemetry.
 
