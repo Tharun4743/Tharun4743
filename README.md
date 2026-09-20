@@ -227,11 +227,11 @@ Every repository in this engineering ecosystem is standardized with comprehensiv
 * **Tech Stack**: Python, PostgreSQL, REST APIs, Role-Based Access Control.
 * **Key Innovations**: Automated payroll calculation with statutory tax compliance; leave accrual finite-state engine; performance appraisal review pipelines.
 
-#### 📄 [TK Office Offline Document Suite (TK-Office)](https://github.com/Tharun4743/TK-Office)
-**100% Offline Android Office & PDF Document Suite**
-* [GitHub Repository](https://github.com/Tharun4743/TK-Office)
-* **Tech Stack**: Android Java, SQLite, Android Jetpack, PDF Rendering Core.
-* **Key Innovations**: Zero cloud dependency ensuring total data privacy; in-memory document parsing and local encryption; low-footprint APK installation.
+#### 📄 [TK Office (TK Suite) — Personal Daily Driver](https://github.com/Tharun4743/TK-Office)
+**100% Offline Android Office & PDF Document Suite Built for Personal Daily-Driver Productivity**
+* 📱 **Custom-Engineered for Personal Use** • [GitHub Repository](https://github.com/Tharun4743/TK-Office)
+* **Tech Stack**: Flutter 3.x, Dart, Android Jetpack, Scoped Storage API, PDF Core.
+* **Key Innovations**: Zero-telemetry air-gapped personal privacy eliminating subscriptions and intrusive ads; on-device PDF merging, page splitting, and watermarking; rich text document editor; lightweight APK storage footprint.
 
 ---
 
