@@ -51,6 +51,7 @@ I am a software engineer and hardware developer driven by building **fault-toler
 | **Databases & Caching** | **PostgreSQL 14/15/16 (35+ Relational Tables)**, **Supabase**, **Neon Serverless Postgres**, **In-Memory RAM Cache**, **MongoDB Atlas**, **SQLite**, **ChromaDB** |
 | **Artificial Intelligence & Vision** | **Groq LPU (Sub-200ms LLaMA 3 70B)**, **Google Gemini AI SDK**, **Hugging Face Transformers**, **FinBERT**, **MobileNet / YOLO Vision**, **OpenRouter AI** |
 | **Embedded Hardware & IoT** | **Arduino Nano / Core (C/C++)**, **ESP32-WROOM**, **RF 433MHz Telemetry**, **MQ-3 Alcohol Sensor**, **MQ-2/MQ-135 Gas Sensors**, **IR Proximity**, **IR Eye-Blink Sensor**, **Relays**, **I²C LCD** |
+| **Low-Code & Enterprise BPM** | **Pega Infinity '24.1**, **Case Lifecycle Management**, **Declarative Rules**, **SLA Timers**, **Work Queue Skill-Based Routing** |
 | **Cloud, DevOps & Tooling** | **GitHub Actions (CI/CD)**, **Vercel Edge Platform**, **Render Cloud**, **Netlify Global CDN**, **Docker Sandboxes (Piston API)**, **Cloudinary CDN**, **Git**, **Postman** |
 
 ---
@@ -64,6 +65,13 @@ I am a software engineer and hardware developer driven by building **fault-toler
 * Integrated **Google Gemini AI** for semantic resume scoring against recruiter job descriptions, generating skill-gap recommendations.
 * Implemented real-time bi-directional status pipelines via **Socket.IO** and secure resume hosting via **Cloudinary CDN**.
 * Reduced administrative roster auditing overhead by **70%** and eliminated scheduling conflicts across multi-stage interview drives.
+
+### 🚗 Enterprise Systems Intern — Pega Systems (Pega) Enterprise Architecture
+**Jan 2026 – Feb 2026**
+* Engineered **Vehicle Service Management**, an enterprise automotive case lifecycle automation platform on **Pega Infinity '24.1**.
+* Built formal multi-stage case flows (Check-in → Diagnostic Inspection → Cost Estimation → Customer Approval SLA → Technician Repair → Invoicing).
+* Configured automated SLA Goal and Deadline escalation timers to prevent repair turnarounds from breaching customer service guarantees.
+* Implemented declarative pricing logic and skill-based work queue routing to match specialized diagnostic jobs with certified master mechanics.
 
 ### 💻 Software Development Intern — Infosys Springboard
 **Nov 2025 – Jan 2026**
@@ -177,6 +185,18 @@ Every repository in this engineering ecosystem is standardized with comprehensiv
 
 ### 🛡️ 4. Cybersecurity, FinTech & Enterprise Systems
 
+#### 🚗 [Vehicle Service Management — Pega Internship (Vehicle-Service)](https://github.com/Tharun4743/Vehicle-Service)
+**Enterprise Low-Code Automotive Workflow & Case Lifecycle Architecture**
+* 💼 **Engineered for the Pega Systems (Pega) Internship** • [GitHub Repository](https://github.com/Tharun4743/Vehicle-Service)
+* **Tech Stack**: Pega Infinity '24.1, Pega Guardrails, Enterprise Case Lifecycle, SLA Goal/Deadline Timers, Declarative Rules.
+* **Key Innovations**: End-to-end multi-stage case governance (Intake → Diagnostic Inspection → Cost Estimation → Customer Approval SLA → Technician Repair → Invoicing); skill-based mechanic work queue dispatching; declarative parts & labor pricing; automated SLA escalation alerts.
+
+#### 🎬 [Encodr Lite — Mactores Assessment (encodr-lite-take-home)](https://github.com/Tharun4743/encodr-lite-take-home)
+**High-Performance Media Transcoding & Job Queue Dashboard**
+* 💼 **Engineered for the Mactores Technical Company Assessment** • [GitHub Repository](https://github.com/Tharun4743/encodr-lite-take-home)
+* **Tech Stack**: Next.js 19 (App Router), React 19, TypeScript 5.8 Strict Compiler, Tailwind CSS, FFmpeg Worker Queue Simulation.
+* **Key Innovations**: Strictly typed end-to-end payload contracts eliminating runtime crashes; asynchronous job state machine (Queued → Transcoding → Verifying → Completed); multi-format codec controls (H.264, H.265, AV1); embedded HTML5 video preview inspector.
+
 #### 🛡️ [Mailtrace AI (Mailtrace-ai)](https://github.com/Tharun4743/Mailtrace-ai)
 **Intelligent Phishing Detection, Email Forensics & Header Threat Analyzer**
 * [GitHub Repository](https://github.com/Tharun4743/Mailtrace-ai)
@@ -207,23 +227,11 @@ Every repository in this engineering ecosystem is standardized with comprehensiv
 * **Tech Stack**: Python, PostgreSQL, REST APIs, Role-Based Access Control.
 * **Key Innovations**: Automated payroll calculation with statutory tax compliance; leave accrual finite-state engine; performance appraisal review pipelines.
 
-#### 🚗 [Vehicle Service Management (Vehicle-Service)](https://github.com/Tharun4743/Vehicle-Service)
-**Enterprise Low-Code Automotive Workflow Platform**
-* [GitHub Repository](https://github.com/Tharun4743/Vehicle-Service)
-* **Tech Stack**: Low-Code Framework, SQL Database, Customer Notification Service.
-* **Key Innovations**: Automated job card lifecycle from intake to delivery; parts inventory deduction; automated SMS service status updates.
-
 #### 📄 [TK Office Offline Document Suite (TK-Office)](https://github.com/Tharun4743/TK-Office)
 **100% Offline Android Office & PDF Document Suite**
 * [GitHub Repository](https://github.com/Tharun4743/TK-Office)
 * **Tech Stack**: Android Java, SQLite, Android Jetpack, PDF Rendering Core.
 * **Key Innovations**: Zero cloud dependency ensuring total data privacy; in-memory document parsing and local encryption; low-footprint APK installation.
-
-#### 🎬 [Encodr Lite (encodr-lite-take-home)](https://github.com/Tharun4743/encodr-lite-take-home)
-**High-Performance Media Transcoding & Job Queue Dashboard**
-* [GitHub Repository](https://github.com/Tharun4743/encodr-lite-take-home)
-* **Tech Stack**: Node.js, Express, FFmpeg, BullMQ, Redis, React.
-* **Key Innovations**: Asynchronous distributed video transcoding pipeline; adaptive bitrate streaming profiles; live percentage progress reporting via WebSockets.
 
 ---
 
