@@ -31,12 +31,12 @@
 
 I am a software engineer and hardware developer driven by building **fault-tolerant, production-grade applications that solve real-world problems**:
 
-* 🏛️ **Real-World Institutional Implementation**: Architected **VSBEC IT Vault**, actively adopted by **365+ enrolled students across 6 academic sections** at VSB Engineering College for centralized departmental task tracking, LeetCode habit cultivation, and sandboxed multi-language corporate coding assessments.
+* 🏛️ **Real-World Institutional Implementation**: Architected **VSBEC IT Vault**, actively adopted by **365+ enrolled students across 6 academic sections** (II IT-A/B/C & III IT-A/B/C) at VSB Engineering College for centralized departmental task tracking, LeetCode habit cultivation, and sandboxed multi-language corporate coding assessments.
 * 🏆 **Dual Smart India Hackathon (SIH) National Honors**:
   * **SIH 2026 Internal Hackathon Top 50 (Official Central SIH Portal Nominee)** — Full-Stack Architect & Lead Developer for **VSBEC IT Vault**.
   * **SIH 2025 Internal Hackathon Top 50 (Official Central SIH Portal Nominee)** — Lead Embedded Developer for the **Smart Helmet IoT Safety System** (Sep 2025 – Oct 2025).
-* 🥇 **National Hackathon Winner**: **1st Place Winner** at *Code Thugs 2K26* for architecting the **GOAT Code Editor**, an in-browser multiplayer IDE with zero-SDK WebRTC peer-to-peer voice calling.
-* 👨‍💼 **Departmental Leadership**: Appointed IT Department Student Coordinator & SIH 2026 Coordinator at VSB Engineering College, mentoring 15+ student teams.
+* 🥇 **National Hackathon Winner**: **1st Place Winner** at *Code Thugs 2K26* (₹5,000 cash prize) for architecting the **GOAT Code Editor**, an in-browser multiplayer IDE with zero-SDK WebRTC peer-to-peer voice calling.
+* 👨‍💼 **Departmental Leadership**: Appointed IT Department Student Coordinator & SIH 2026 Coordinator at VSB Engineering College, mentoring 15+ student teams on national tracks.
 * 🔭 **Core Technical Focus**: Real-time collaborative synchronization, compiler process isolation, edge AI computer vision, low-latency RF hardware protocols, and resilient multi-cloud architectures.
 
 ---
@@ -73,38 +73,46 @@ I am a software engineer and hardware developer driven by building **fault-toler
 
 ---
 
-## 🚀 Flagship Engineering Ecosystems & Production Repositories
+## 🚀 Complete Engineering Ecosystems & Repositories Index (All 25 Repositories)
 
-### 🏛️ Institutional Governance, EdTech & Compiler Sandboxes
+Every repository in this engineering ecosystem is standardized with comprehensive technical documentation, dual Mermaid architecture schematics, quantifiable impact metrics, and strict proprietary licensing.
+
+### 🏛️ 1. Institutional Governance, EdTech & Academic Workflows
 
 #### 🏛️ [VSBEC IT Vault (taskmanager)](https://github.com/Tharun4743/taskmanager)
 **Enterprise Institutional Governance, Daily Streak Tracking & Sandboxed Assessment Engine**
 * 🏆 **SIH 2026 Internal Hackathon Top 50 (Official SIH Portal Nominee)** • 🌐 [Production Live Demo](https://it-taskmanager.vercel.app/)
 * **Real-World Campus Adoption**: Actively adopted by **365+ enrolled students across 6 academic sections** (II IT-A/B/C & III IT-A/B/C) at VSB Engineering College.
 * **Tech Stack**: React 19, Vite 6, Tailwind CSS, Node.js 20+, Express, PostgreSQL (35 Tables), In-Memory Cache, Monaco Editor.
-* **Key Innovations**: Isolated child process compiler sandbox (**C, C++, Java 17, Python 3**) with execution timeouts and infinite loop traps; nightly LeetCode GraphQL & GitHub REST streak sync daemons; 3-tier proof approval chain (Coordinator → Advisor → HOD); PIP webcam proctoring; sub-0.01ms directory lookups.
+* **Key Innovations**: Isolated child process compiler sandbox (**C, C++, Java 17, Python 3**) with execution timeouts; nightly LeetCode GraphQL & GitHub REST streak sync daemons; 3-tier proof approval chain (Coordinator → Advisor → HOD); PIP webcam proctoring; sub-0.01ms directory lookups.
 
 #### 🎓 [CampusConnect](https://github.com/Tharun4743/CampusConnect)
 **Automated Campus Placement & Corporate Recruitment Ecosystem**
-* 🌐 [Production Live Demo](https://campusconnect-yg4h.onrender.com)
+* 🌐 [Production Live Demo](https://campusconnect-yg4h.onrender.com) • [GitHub Repository](https://github.com/Tharun4743/CampusConnect)
 * **Tech Stack**: React 19, Vite 6.2, Node.js, Express, Socket.IO, Supabase (PostgreSQL 15), Google Gemini AI, Cloudinary.
 * **Key Innovations**: Live 5-state WebSocket funnel (Applied → Shortlisted → Interviewing → Offered); automated CGPA/backlog eligibility gates; semantic AI resume scoring with Gemini AI; triple failover transactional email dispatches.
 
-#### 📋 [IT Task Manager Core Backend](https://github.com/Tharun4743/IT_taskmanager)
+#### 📋 [IT Task Manager Core Backend (IT_taskmanager)](https://github.com/Tharun4743/IT_taskmanager)
 **Modular Microservice Architecture for Departmental Workflow Orchestration**
 * 🏆 **SIH 2026 Top 50 Backing Engine** • [GitHub Repository](https://github.com/Tharun4743/IT_taskmanager)
 * **Tech Stack**: Node.js 20+, TypeScript 5.8+, PostgreSQL, JWT, Parameterized SQL.
 * **Key Innovations**: Layered Service-Repository architecture; deterministic 3-tier finite state machine; accreditation-ready audit trails for NAAC/NBA compliance; connection pooling absorbing deadline traffic bursts.
 
-#### 🚌 [VSBEC Transit Fleet Attendance System](https://github.com/Tharun4743/bus-attendance)
+#### 🚌 [VSBEC Transit Fleet Attendance System (bus-attendance)](https://github.com/Tharun4743/bus-attendance)
 **Automated Transit Attendance & Parent Telemetry Gateway**
 * [GitHub Repository](https://github.com/Tharun4743/bus-attendance)
 * **Tech Stack**: Node.js, Express, PostgreSQL, Mobile Camera/RFID Scanner, Geo-Fencing.
 * **Key Innovations**: Sub-second RFID/QR attendance logging; student transit route authorization; automated parent SMS & Telegram alerts upon bus boarding.
 
+#### 🤝 [CampusLink (Campuslink)](https://github.com/Tharun4743/Campuslink)
+**Internal University Learning & Peer Talent Development Ecosystem**
+* [GitHub Repository](https://github.com/Tharun4743/Campuslink)
+* **Tech Stack**: React 19, Vite, Express, PostgreSQL, Role-Based Access Control.
+* **Key Innovations**: Cross-year peer tutoring networks; verified course notes and lab solution repository; student skill matchmaking for hackathon team formation.
+
 ---
 
-### ⚡ Collaborative Systems, Cloud IDEs & Real-Time AI Engines
+### ⚡ 2. Collaborative Systems, Cloud IDEs & Developer Tooling
 
 #### ⚡ [GOAT Code Editor (GOAT-CE)](https://github.com/Tharun4743/GOAT-CE)
 **Real-Time Collaborative IDE with Pure WebRTC Voice Mesh & Sandboxed Execution**
@@ -112,80 +120,132 @@ I am a software engineer and hardware developer driven by building **fault-toler
 * **Tech Stack**: React 19.2, TypeScript, Monaco Editor, Socket.IO 4.8, WebRTC, Express, PostgreSQL 16, Piston API, OpenRouter LLaMA 3.1 70B.
 * **Key Innovations**: Pure browser-native WebRTC audio mesh with zero third-party SDK fees; Web Audio API AnalyserNode voice activity pulses; sub-pixel operational transformation cursor streaming; 13+ language sandboxed compiler; instant room creation via URL.
 
-#### 💬 [Techy Tharun's Chatbox](https://github.com/Tharun4743/Tharun-s-Chatbox)
-**High-Performance AI Streaming Assistant with Multi-Provider Auto-Failover**
-* 🌐 [Production Live Demo](https://tharunchatbox.onrender.com)
-* **Tech Stack**: Next.js 15 (App Router), React 18, Tailwind CSS, Neon Serverless PostgreSQL, Groq LPU, Cohere SDK.
-* **Key Innovations**: Sub-200ms Server-Sent Events (SSE) token streaming; cyclic token-aware API key rotation pool; automatic failover cascading from Groq to secondary LLM endpoints; persistent chat sessions.
-
-#### 🚀 [DevPilot Browser Code Playground](https://github.com/Tharun4743/Dev-Pilot)
+#### 🚀 [DevPilot Browser Code Playground (Dev-Pilot)](https://github.com/Tharun4743/Dev-Pilot)
 **Ultra-Lightweight In-Browser Compiler Sandbox with Groq LPU AI Insights**
-* 🌐 [Production Live Demo](https://devpilot-editor.vercel.app/)
+* 🌐 [Production Live Demo](https://devpilot-editor.vercel.app/) • [GitHub Repository](https://github.com/Tharun4743/Dev-Pilot)
 * **Tech Stack**: React, TypeScript, Monaco Editor, Piston Sandbox, Groq LPU (LLaMA 3 70B), Vercel.
 * **Key Innovations**: Instant sub-second browser startup (<50MB RAM); sandboxed multi-language execution via `Ctrl+Enter`; sub-200ms AI compiler error explanations and Big-O audits.
 
-#### ⚡ [TharunSpeed Network Diagnostics](https://github.com/Tharun4743/TharunSpeed)
+#### 💬 [Techy Tharun's Chatbox (Tharun-s-Chatbox)](https://github.com/Tharun4743/Tharun-s-Chatbox)
+**High-Performance AI Streaming Assistant with Multi-Provider Auto-Failover**
+* 🌐 [Production Live Demo](https://tharunchatbox.onrender.com) • [GitHub Repository](https://github.com/Tharun4743/Tharun-s-Chatbox)
+* **Tech Stack**: Next.js 15 (App Router), React 18, Tailwind CSS, Neon Serverless PostgreSQL, Groq LPU, Cohere SDK.
+* **Key Innovations**: Sub-200ms Server-Sent Events (SSE) token streaming; cyclic token-aware API key rotation pool; automatic failover cascading from Groq to secondary LLM endpoints; persistent chat sessions.
+
+#### ⚡ [TharunSpeed Network Diagnostics (TharunSpeed)](https://github.com/Tharun4743/TharunSpeed)
 **Ultra-Low Latency Network Performance & Bandwidth Telemetry Suite**
-* 🌐 [Production Live Demo](https://tharunspeed.netlify.app)
+* 🌐 [Production Live Demo](https://tharunspeed.netlify.app) • [GitHub Repository](https://github.com/Tharun4743/TharunSpeed)
 * **Tech Stack**: Vanilla HTML5, Modern CSS3, ES6+ JavaScript, W3C Performance API, Netlify Edge.
 * **Key Innovations**: 100% ad-free testing environment; real-time jitter, packet variance, and bufferbloat under load; smooth 60FPS canvas speedometer gauge; sub-5s test completion.
 
+#### ⏳ [Desktop Countdown Timer (countdown_timer)](https://github.com/Tharun4743/countdown_timer)
+**Precision Multi-Unit Time Management & Productivity Engine**
+* [GitHub Repository](https://github.com/Tharun4743/countdown_timer)
+* **Tech Stack**: Python, Tkinter GUI, Precision Timestamp Event Loop.
+* **Key Innovations**: Drift-free millisecond countdown timer; persistent task alarms and multi-interval notifications; resource-efficient background execution.
+
 ---
 
-### ⛑️ Embedded Hardware, IoT & Cyber-Physical Safety
+### ⛑️ 3. Cyber-Physical Systems, Embedded IoT & Disaster Response
 
-#### ⛑️ [Smart Helmet IoT Safety System](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-)
+#### ⛑️ [Smart Helmet IoT Safety System (AGILE-INNOVATORS-smart-helmet-)](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-)
 **Dual-Unit Rider Safety System: IR Wear Detection, Alcohol Sensing & Ignition Interlock**
 * 🏆 **SIH 2025 Internal Hackathon Top 50 (Official Central SIH Portal Nominee)** • 📁 [Project Resources & Drive Dossier](https://drive.google.com/drive/folders/1kYhyoOx9-Tr4WyOJkmUz7K4PDDpmaHEr?usp=drive_link)
 * **Timeline & Role**: **Sep 2025 – Oct 2025** • Lead Embedded Developer (Dual-Unit System).
 * **Hardware Stack**: Arduino Nano/Core, C/C++ firmware, RF 433MHz Transceiver, Optical IR Proximity Sensor, MQ-3 Alcohol Sensor, IR Eye-Blink Sensor, 5V SPDT Relay, 16x2 I²C LCD.
 * **Key Innovations**: Dual-unit wireless architecture linking helmet to motorcycle ignition; optical IR helmet wear compliance lockout; sub-500ms automated engine ignition cut-off upon detecting rider intoxication or micro-sleep drowsiness; 5-second RF fail-safe signal protection.
 
-#### 🛡️ [EdgeGuard — Automotive CAN Bus IDS](https://github.com/Tharun4743/EdgeGuard)
+#### 🛡️ [EdgeGuard Automotive CAN Bus IDS (EdgeGuard)](https://github.com/Tharun4743/EdgeGuard)
 **Offline Edge-AI Intrusion Detection System for Vehicle Controller Area Networks**
 * [GitHub Repository](https://github.com/Tharun4743/EdgeGuard)
 * **Tech Stack**: Python, SocketCAN, MCP2515 Transceiver, Quantized LightGBM, React NSOC Dashboard.
 * **Key Innovations**: Sub-5ms real-time edge anomaly inference; microsecond inter-arrival delta and payload entropy analysis; 100% offline tunnel protection detecting DoS bus floods, fuzzing, and spoofing attacks.
 
-#### 🌊 [AI FloodGuard Emergency Evacuation System](https://github.com/Tharun4743/Floodguard)
+#### 🌊 [AI FloodGuard Emergency Evacuation System (Floodguard)](https://github.com/Tharun4743/Floodguard)
 **Autonomous Flood Early Warning & Multi-Agent Evacuation Decision Platform**
-* 🌐 [Production Live Demo](https://floodguard-ai.vercel.app/)
+* 🌐 [Production Live Demo](https://floodguard-ai.vercel.app/) • [GitHub Repository](https://github.com/Tharun4743/Floodguard)
 * **Tech Stack**: React 19, TypeScript, Tailwind CSS, Leaflet GIS, Turf.js, Multi-Agent Node.js Pipeline.
 * **Key Innovations**: Tri-agent AI orchestrator (Sensor Validator, Hydrological DEM Runoff Model, Dynamic Evacuation Router); 2–6 hour predictive early warning; Human-in-the-Loop municipal disaster commander gate before mass citizen alerting.
 
+#### 🇮🇳 [SIH25231 AgriTech Market Linkage Platform (SIH25231)](https://github.com/Tharun4743/SIH25231)
+**Smart India Hackathon Automated Agricultural Intelligence & Market Linkage Platform**
+* [GitHub Repository](https://github.com/Tharun4743/SIH25231)
+* **Tech Stack**: Python, FastAPI, React 19, Scikit-learn, Weather API Telemetry.
+* **Key Innovations**: Crop disease diagnosis from leaf imagery; localized commodity mandi price forecasting; direct farmer-to-buyer disintermediation portal.
+
 ---
 
-### 🛡️ Cybersecurity, FinTech & Algorithmic Foundations
+### 🛡️ 4. Cybersecurity, FinTech & Enterprise Systems
 
-#### 🛡️ [Mailtrace AI](https://github.com/Tharun4743/Mailtrace-ai)
+#### 🛡️ [Mailtrace AI (Mailtrace-ai)](https://github.com/Tharun4743/Mailtrace-ai)
 **Intelligent Phishing Detection, Email Forensics & Header Threat Analyzer**
 * [GitHub Repository](https://github.com/Tharun4743/Mailtrace-ai)
 * **Tech Stack**: Python 3.10+, MIME Parser, dnspython, Hugging Face Transformers, PyTorch.
 * **Key Innovations**: Cryptographic SPF/DKIM/DMARC alignment validation; multi-hop MIME relay forensic tracing; NLP transformer psychological intent classifier (urgency, panic, wire fraud); URL unshortener and homograph domain inspection.
 
-#### 💳 [MuleGuard Financial Crime Platform](https://github.com/Tharun4743/Muleguard)
+#### 💳 [MuleGuard Financial Crime Platform (Muleguard)](https://github.com/Tharun4743/Muleguard)
 **Money Mule Account Intelligence & Circular Laundering Detection**
 * [GitHub Repository](https://github.com/Tharun4743/Muleguard)
 * **Tech Stack**: Node.js, Express, D3.js Graph Topology, Neo4j, AML Behavioral Heuristics.
 * **Key Innovations**: Rapid pass-through influx-to-drain velocity metrics; interactive graph topology visualization exposing smurfing rings; automated dormancy reactivation anomaly detection.
 
-#### 📊 [RiskLens AI](https://github.com/Tharun4743/RiskLens-AI)
-**Multimodal Financial Risk Intelligence & Regulatory Scoring Platform**
+#### 🔍 [RiskLens AI (RiskLens-AI)](https://github.com/Tharun4743/RiskLens-AI)
+**Evidence-First Banking Transaction Risk Investigation Assistant**
 * [GitHub Repository](https://github.com/Tharun4743/RiskLens-AI)
 * **Tech Stack**: Python, FastAPI, FinBERT NLP, Value-at-Risk (VaR) Quantitative Engine, React.
 * **Key Innovations**: Domain-specific sentiment extraction from 10-K filings and earnings transcripts; quantitative VaR simulation; automated ESG compliance risk indexing.
 
-#### ☕ [Java LeetCode & Enterprise Data Structures](https://github.com/Tharun4743/Java_Leetcode)
+#### 🏛️ [Public CRM Citizen Redressal Portal (Public-CRM)](https://github.com/Tharun4743/Public-CRM)
+**Citizen Relationship Management & Public Grievance Redressal Portal**
+* [GitHub Repository](https://github.com/Tharun4743/Public-CRM)
+* **Tech Stack**: React 19, Node.js, Express, PostgreSQL, SLA Escalation Engine.
+* **Key Innovations**: Geotagged civic grievance reporting; automated SLA breach escalation to municipal commissioners; citizen SMS ticket status alerts.
+
+#### 🏢 [Work Suite HRMS (odoohackathon)](https://github.com/Tharun4743/odoohackathon)
+**Enterprise Workforce Operations & Compliance Platform**
+* [GitHub Repository](https://github.com/Tharun4743/odoohackathon)
+* **Tech Stack**: Python, PostgreSQL, REST APIs, Role-Based Access Control.
+* **Key Innovations**: Automated payroll calculation with statutory tax compliance; leave accrual finite-state engine; performance appraisal review pipelines.
+
+#### 🚗 [Vehicle Service Management (Vehicle-Service)](https://github.com/Tharun4743/Vehicle-Service)
+**Enterprise Low-Code Automotive Workflow Platform**
+* [GitHub Repository](https://github.com/Tharun4743/Vehicle-Service)
+* **Tech Stack**: Low-Code Framework, SQL Database, Customer Notification Service.
+* **Key Innovations**: Automated job card lifecycle from intake to delivery; parts inventory deduction; automated SMS service status updates.
+
+#### 📄 [TK Office Offline Document Suite (TK-Office)](https://github.com/Tharun4743/TK-Office)
+**100% Offline Android Office & PDF Document Suite**
+* [GitHub Repository](https://github.com/Tharun4743/TK-Office)
+* **Tech Stack**: Android Java, SQLite, Android Jetpack, PDF Rendering Core.
+* **Key Innovations**: Zero cloud dependency ensuring total data privacy; in-memory document parsing and local encryption; low-footprint APK installation.
+
+#### 🎬 [Encodr Lite (encodr-lite-take-home)](https://github.com/Tharun4743/encodr-lite-take-home)
+**High-Performance Media Transcoding & Job Queue Dashboard**
+* [GitHub Repository](https://github.com/Tharun4743/encodr-lite-take-home)
+* **Tech Stack**: Node.js, Express, FFmpeg, BullMQ, Redis, React.
+* **Key Innovations**: Asynchronous distributed video transcoding pipeline; adaptive bitrate streaming profiles; live percentage progress reporting via WebSockets.
+
+---
+
+### 📊 5. Algorithmic Velocity, Portfolios & Telemetry
+
+#### ☕ [Java LeetCode & Enterprise Data Structures (Java_Leetcode)](https://github.com/Tharun4743/Java_Leetcode)
 **Production-Grade Algorithmic Solutions with Comprehensive Unit Test Suites**
 * [GitHub Repository](https://github.com/Tharun4743/Java_Leetcode)
 * **Tech Stack**: Java 17 (LTS), JUnit 5, Mockito, Maven, Git.
 * **Key Innovations**: 150+ LeetCode problems implemented with idiomatic modern Java; 100% test coverage with edge-case test harnesses; pattern classification (DP, Monotonic Stacks, Sliding Windows); Big-O space/time complexity documentation.
 
-#### 📈 [LeetCode Progress Automation Daemon](https://github.com/Tharun4743/Leetcode_progress)
+#### 📈 [LeetCode Progress Automation Daemon (Leetcode_progress)](https://github.com/Tharun4743/Leetcode_progress)
 **Automated Personal Problem-Solving Velocity Monitor**
 * [GitHub Repository](https://github.com/Tharun4743/Leetcode_progress)
 * **Tech Stack**: GitHub Actions, LeetCode GraphQL API, Node.js, SVG Badge Generator.
 * **Key Innovations**: Nightly automated cron trigger; dynamic SVG progression badge rendering; historical streak tracking committed directly to Git.
+
+#### 🌐 [Tharunkumar K Production Portfolio (TharunkumarK_Portfolio)](https://github.com/Tharun4743/TharunkumarK_Portfolio)
+**Interactive Cloud Engineering Showcase & System Demonstrator**
+* 🌐 [Production Live Demo](https://tharunkumark4743.netlify.app/) • [GitHub Repository](https://github.com/Tharun4743/TharunkumarK_Portfolio)
+* **Tech Stack**: React, Modern CSS, Netlify Edge CDN, Responsive Glassmorphism.
+* **Key Innovations**: Interactive system demo launcher; real-time performance telemetry display; responsive mobile-first architecture.
 
 ---
 
