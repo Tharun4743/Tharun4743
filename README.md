@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="assets/programmer.gif" width="100%" style="max-width: 680px;" alt="Tharunkumar K - Full Stack Developer · AI Builder · IoT Engineer" />
+<img src="assets/programmer.gif" width="100%" style="max-width: 680px;" alt="Tharunkumar K - Full Stack Architect · AI Engineer · IoT Developer" />
 
 # Tharunkumar K
 
-### Full Stack Developer · AI Builder · IoT Engineer
+### Full-Stack Systems Architect · AI / ML Engineer · IoT Hardware Developer
 
 <p>
-  Building <b>intelligent software solutions</b> spanning full-stack web applications, AI/RAG workflows, and IoT safety systems.
+  Building <b>high-reliability, production-grade software ecosystems</b> spanning enterprise full-stack web applications, isolated compiler sandboxes, real-time WebRTC/SSE architectures, edge AI inference, and IoT rider safety hardware.
 </p>
 
 <p>
-  📍 Dharapuram, Tamil Nadu, India &nbsp;•&nbsp; 🎓 B.Tech IT @ VSB Engineering College <i>(CGPA: 8.5/10)</i>
+  📍 Dharapuram, Tamil Nadu, India &nbsp;•&nbsp; 🎓 B.Tech Information Technology @ VSB Engineering College <i>(CGPA: 8.5/10)</i>
 </p>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tharunkumark4743.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tharunkumark4743.netlify.app/)
-[![Resume](https://img.shields.io/badge/Resume-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tharunkumark4743.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://tharunkumark4743.netlify.app/)
+[![ATS Resume](https://img.shields.io/badge/ATS_Resume-Markdown_View-10b981?style=for-the-badge&logo=googledocs&logoColor=white)](./RESUME.md)
+[![Resume Drive](https://img.shields.io/badge/Resume-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tharunkumark4743-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunkumark4743/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Tharunkumar__K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharunkumar__K/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-tharunkumark4743-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tharunkumark4743)
@@ -26,93 +27,183 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Executive Summary & Engineering Philosophy
 
-I am a software engineer focused on building end-to-end applications that bridge intuitive user interfaces with robust distributed backends, generative AI pipelines, and embedded hardware.
+I am a software engineer and hardware developer driven by building **fault-tolerant, production-grade applications that solve real-world problems**:
 
-* 🎓 **Education**: B.Tech in Information Technology at **VSB Engineering College** (2024 – 2028, **CGPA: 8.5/10**)
-* 💼 **Work Experience**: Fullstack Development Intern at **Neura Global** & Software Development Intern at **Infosys Springboard**
-* 🏆 **Hackathons**: **1st Place Winner** at *Code Thugs 2K26* & **Top 50 / 300+ Teams** in *Smart India Hackathon 2025*
-* 👨‍💼 **Leadership**: Department Student Coordinator & SIH 2026 Coordinator for the IT Department
-* 🔭 **Current Focus**: Real-time collaborative systems, local multimodal RAG architectures, and edge IoT devices
+* 🏛️ **Real-World Institutional Implementation**: Architected **VSBEC IT Vault**, actively adopted by **365+ enrolled students across 6 academic sections** at VSB Engineering College for centralized departmental task tracking, LeetCode habit cultivation, and sandboxed multi-language corporate coding assessments.
+* 🏆 **Dual Smart India Hackathon (SIH) National Honors**:
+  * **SIH 2026 Internal Hackathon Top 50 (Official Central SIH Portal Nominee)** — Full-Stack Architect & Lead Developer for **VSBEC IT Vault**.
+  * **SIH 2025 Internal Hackathon Top 50 (Official Central SIH Portal Nominee)** — Lead Embedded Developer for the **Smart Helmet IoT Safety System** (Sep 2025 – Oct 2025).
+* 🥇 **National Hackathon Winner**: **1st Place Winner** at *Code Thugs 2K26* for architecting the **GOAT Code Editor**, an in-browser multiplayer IDE with zero-SDK WebRTC peer-to-peer voice calling.
+* 👨‍💼 **Departmental Leadership**: Appointed IT Department Student Coordinator & SIH 2026 Coordinator at VSB Engineering College, mentoring 15+ student teams.
+* 🔭 **Core Technical Focus**: Real-time collaborative synchronization, compiler process isolation, edge AI computer vision, low-latency RF hardware protocols, and resilient multi-cloud architectures.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Comprehensive Technical Skills Matrix
 
-| Domain | Technologies |
+| Engineering Discipline | Core Technologies, Frameworks & Toolchains |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, Java, C, C++, SQL |
-| **Frontend** | React 19, Next.js 15, Tailwind CSS, Framer Motion, Vite, HTML5, CSS3 |
-| **Backend & APIs** | Node.js, Express, Prisma ORM, Spring Boot, REST APIs, Socket.IO, NextAuth.js |
-| **Databases & Vector** | PostgreSQL, Supabase, Neon Serverless, MongoDB Atlas, MySQL, SQLite, ChromaDB |
-| **AI, IoT & Cloud** | Ollama, GPT-4o, Arduino IDE, RF 433MHz, Git, GitHub, Render, Netlify, Cloudinary |
+| **Programming Languages** | **TypeScript**, **JavaScript (ES6+)**, **Java (JDK 17)**, **Python 3.10+**, **C**, **C++ (Embedded)**, **SQL** |
+| **Frontend & UI Engineering** | **React 19**, **Next.js 15 (App Router)**, **Vite 6**, **Tailwind CSS v4**, **Monaco Editor (VS Code Kernel)**, **Framer Motion**, **HTML5 Canvas**, **Web Audio API** |
+| **Backend & Distributed Systems** | **Node.js 20+**, **Express.js**, **Socket.IO (WebSockets)**, **Pure WebRTC (P2P Mesh)**, **Server-Sent Events (SSE)**, **Child Process Jails**, **RESTful APIs** |
+| **Databases & Caching** | **PostgreSQL 14/15/16 (35+ Relational Tables)**, **Supabase**, **Neon Serverless Postgres**, **In-Memory RAM Cache**, **MongoDB Atlas**, **SQLite**, **ChromaDB** |
+| **Artificial Intelligence & Vision** | **Groq LPU (Sub-200ms LLaMA 3 70B)**, **Google Gemini AI SDK**, **Hugging Face Transformers**, **FinBERT**, **MobileNet / YOLO Vision**, **OpenRouter AI** |
+| **Embedded Hardware & IoT** | **Arduino Nano / Core (C/C++)**, **ESP32-WROOM**, **RF 433MHz Telemetry**, **MQ-3 Alcohol Sensor**, **MQ-2/MQ-135 Gas Sensors**, **IR Proximity**, **IR Eye-Blink Sensor**, **Relays**, **I²C LCD** |
+| **Cloud, DevOps & Tooling** | **GitHub Actions (CI/CD)**, **Vercel Edge Platform**, **Render Cloud**, **Netlify Global CDN**, **Docker Sandboxes (Piston API)**, **Cloudinary CDN**, **Git**, **Postman** |
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### 🚀 Fullstack Development Intern — Neura Global *(Startup)*
+### 🚀 Full-Stack Engineering Intern — Neura Global *(Startup)*
 **Jun 2026 – Jul 2026**
-* Built **Campus Connect**, an automated placement platform for the college Training & Placement Office (TPO) using **React, TypeScript, Node.js, and Supabase**.
-* Integrated real-time application updates via **Socket.IO** and secure resume uploads using **Cloudinary**.
-* Rolled out to **500+ students**, reducing administrative paperwork by **80%** and preventing interview scheduling conflicts.
+* Architected **CampusConnect**, an enterprise placement governance and corporate recruitment platform serving the Training & Placement Office (TPO).
+* Built a high-concurrency client with **React 19, Vite 6.2, and Tailwind CSS v4** backed by **Node.js, Express, Socket.IO, and Supabase PostgreSQL**.
+* Integrated **Google Gemini AI** for semantic resume scoring against recruiter job descriptions, generating skill-gap recommendations.
+* Implemented real-time bi-directional status pipelines via **Socket.IO** and secure resume hosting via **Cloudinary CDN**.
+* Reduced administrative roster auditing overhead by **70%** and eliminated scheduling conflicts across multi-stage interview drives.
 
 ### 💻 Software Development Intern — Infosys Springboard
 **Nov 2025 – Jan 2026**
-* Completed the **Infosys Springboard 6.0** program focusing on enterprise development workflows.
-* Developed **StarWall**, a peer-recognition and team analytics dashboard.
-* Practiced production-grade version control, modular architecture, and structured debugging in an agile environment.
+* Completed the **Infosys Springboard 6.0** enterprise software development curriculum with distinction.
+* Developed **StarWall**, a full-stack peer-recognition, milestone tracking, and team performance analytics portal.
+* Mastered enterprise architectural patterns, modular component design, agile team sprints, and structured debugging workflows.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Engineering Ecosystems & Production Repositories
 
-### 💻 [GOAT Code Editor](https://github.com/Tharun4743/GOAT-CE)
-**Real-Time Collaborative IDE with In-Browser Compilation** · 🏆 *1st Place Winner @ Code Thugs 2K26*
-* Built with **React 19, TypeScript, Monaco Editor, Socket.IO, Node.js, Express, MongoDB Atlas**, and the **Piston API**.
-* Enables multi-user pair programming with real-time cursor presence and live code execution across 13+ languages.
+### 🏛️ Institutional Governance, EdTech & Compiler Sandboxes
 
-### 🎓 [Campus Connect](https://github.com/Tharun4743/CampusConnect)
-**College Placement Management Platform** · *Deployed for 500+ students*
-* Built with **React, TypeScript, Tailwind CSS, Node.js, Express, Supabase, Socket.IO**, and **Cloudinary**.
-* Automates student placement pipelines, document verification, and recruiter interview coordination.
+#### 🏛️ [VSBEC IT Vault (taskmanager)](https://github.com/Tharun4743/taskmanager)
+**Enterprise Institutional Governance, Daily Streak Tracking & Sandboxed Assessment Engine**
+* 🏆 **SIH 2026 Internal Hackathon Top 50 (Official SIH Portal Nominee)** • 🌐 [Production Live Demo](https://it-taskmanager.vercel.app/)
+* **Real-World Campus Adoption**: Actively adopted by **365+ enrolled students across 6 academic sections** (II IT-A/B/C & III IT-A/B/C) at VSB Engineering College.
+* **Tech Stack**: React 19, Vite 6, Tailwind CSS, Node.js 20+, Express, PostgreSQL (35 Tables), In-Memory Cache, Monaco Editor.
+* **Key Innovations**: Isolated child process compiler sandbox (**C, C++, Java 17, Python 3**) with execution timeouts and infinite loop traps; nightly LeetCode GraphQL & GitHub REST streak sync daemons; 3-tier proof approval chain (Coordinator → Advisor → HOD); PIP webcam proctoring; sub-0.01ms directory lookups.
 
-### 🎯 [VSBEC Academic Task Manager](https://github.com/Tharun4743/IT_taskmanager)
-**Role-Based Academic Workflow Platform** · *Implemented in VSBEC IT Department*
-* Built with **React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Cloudinary**, and **Render**.
-* Centralizes assignment distribution, proof submission, and class-level progress verification.
+#### 🎓 [CampusConnect](https://github.com/Tharun4743/CampusConnect)
+**Automated Campus Placement & Corporate Recruitment Ecosystem**
+* 🌐 [Production Live Demo](https://campusconnect-yg4h.onrender.com)
+* **Tech Stack**: React 19, Vite 6.2, Node.js, Express, Socket.IO, Supabase (PostgreSQL 15), Google Gemini AI, Cloudinary.
+* **Key Innovations**: Live 5-state WebSocket funnel (Applied → Shortlisted → Interviewing → Offered); automated CGPA/backlog eligibility gates; semantic AI resume scoring with Gemini AI; triple failover transactional email dispatches.
 
-### 🧠 [AURA — AI Unified Retrieval Assistant](https://github.com/Tharun4743/SIH25231)
-**Offline Multimodal RAG System for Air-Gapped Environments**
-* Built with **React, Spring Boot, Java, SQLite, ChromaDB, Ollama**, and **Electron**.
-* Indexes local documents, vision assets, and voice recordings without internet dependency.
+#### 📋 [IT Task Manager Core Backend](https://github.com/Tharun4743/IT_taskmanager)
+**Modular Microservice Architecture for Departmental Workflow Orchestration**
+* 🏆 **SIH 2026 Top 50 Backing Engine** • [GitHub Repository](https://github.com/Tharun4743/IT_taskmanager)
+* **Tech Stack**: Node.js 20+, TypeScript 5.8+, PostgreSQL, JWT, Parameterized SQL.
+* **Key Innovations**: Layered Service-Repository architecture; deterministic 3-tier finite state machine; accreditation-ready audit trails for NAAC/NBA compliance; connection pooling absorbing deadline traffic bursts.
 
-### 🤖 [Techy Tharun's Chatbox](https://github.com/Tharun4743/Tharun-s-Chatbox)
-**Low-Latency AI Assistant with Serverless Context Retention**
-* Built with **Next.js 15, TypeScript, Tailwind CSS, Prisma ORM, Neon PostgreSQL**, and **GPT-4o**.
-* Features real-time token streaming and serverless multi-session chat history.
-
-### 🪖 [Smart Helmet IoT Safety System](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-)
-**Intelligent Accident Prevention & Rider Safety System** · 🚀 *SIH 2025 Top 50*
-* Built with **Arduino, C, RF 433MHz**, and **embedded sensors**.
-* Proactively locks vehicle ignition on alcohol detection or lack of helmet wear, transmitting emergency RF distress alerts.
+#### 🚌 [VSBEC Transit Fleet Attendance System](https://github.com/Tharun4743/bus-attendance)
+**Automated Transit Attendance & Parent Telemetry Gateway**
+* [GitHub Repository](https://github.com/Tharun4743/bus-attendance)
+* **Tech Stack**: Node.js, Express, PostgreSQL, Mobile Camera/RFID Scanner, Geo-Fencing.
+* **Key Innovations**: Sub-second RFID/QR attendance logging; student transit route authorization; automated parent SMS & Telegram alerts upon bus boarding.
 
 ---
 
-## 🏆 Key Achievements & Leadership
+### ⚡ Collaborative Systems, Cloud IDEs & Real-Time AI Engines
 
-* 🥇 **1st Place Winner (National)** — *Code Thugs 2K26* (Won ₹5,000 cash prize for GOAT Code Editor)
-* 🚀 **Top 50 / 300+ Teams** — *Smart India Hackathon 2025* (Lead developer for IoT Smart Helmet)
-* 🔬 **National Finalist** — *India Innovates 2026* (National innovation showcase)
-* 👨‍💼 **Department Student Coordinator** — *VSB Engineering College IT Dept* (2024 – Present)
+#### ⚡ [GOAT Code Editor (GOAT-CE)](https://github.com/Tharun4743/GOAT-CE)
+**Real-Time Collaborative IDE with Pure WebRTC Voice Mesh & Sandboxed Execution**
+* 🥇 **1st Place National Winner @ Code Thugs 2K26** • 🌐 [Production Live Demo](https://goatcode-editor.onrender.com)
+* **Tech Stack**: React 19.2, TypeScript, Monaco Editor, Socket.IO 4.8, WebRTC, Express, PostgreSQL 16, Piston API, OpenRouter LLaMA 3.1 70B.
+* **Key Innovations**: Pure browser-native WebRTC audio mesh with zero third-party SDK fees; Web Audio API AnalyserNode voice activity pulses; sub-pixel operational transformation cursor streaming; 13+ language sandboxed compiler; instant room creation via URL.
+
+#### 💬 [Techy Tharun's Chatbox](https://github.com/Tharun4743/Tharun-s-Chatbox)
+**High-Performance AI Streaming Assistant with Multi-Provider Auto-Failover**
+* 🌐 [Production Live Demo](https://tharunchatbox.onrender.com)
+* **Tech Stack**: Next.js 15 (App Router), React 18, Tailwind CSS, Neon Serverless PostgreSQL, Groq LPU, Cohere SDK.
+* **Key Innovations**: Sub-200ms Server-Sent Events (SSE) token streaming; cyclic token-aware API key rotation pool; automatic failover cascading from Groq to secondary LLM endpoints; persistent chat sessions.
+
+#### 🚀 [DevPilot Browser Code Playground](https://github.com/Tharun4743/Dev-Pilot)
+**Ultra-Lightweight In-Browser Compiler Sandbox with Groq LPU AI Insights**
+* 🌐 [Production Live Demo](https://devpilot-editor.vercel.app/)
+* **Tech Stack**: React, TypeScript, Monaco Editor, Piston Sandbox, Groq LPU (LLaMA 3 70B), Vercel.
+* **Key Innovations**: Instant sub-second browser startup (<50MB RAM); sandboxed multi-language execution via `Ctrl+Enter`; sub-200ms AI compiler error explanations and Big-O audits.
+
+#### ⚡ [TharunSpeed Network Diagnostics](https://github.com/Tharun4743/TharunSpeed)
+**Ultra-Low Latency Network Performance & Bandwidth Telemetry Suite**
+* 🌐 [Production Live Demo](https://tharunspeed.netlify.app)
+* **Tech Stack**: Vanilla HTML5, Modern CSS3, ES6+ JavaScript, W3C Performance API, Netlify Edge.
+* **Key Innovations**: 100% ad-free testing environment; real-time jitter, packet variance, and bufferbloat under load; smooth 60FPS canvas speedometer gauge; sub-5s test completion.
+
+---
+
+### ⛑️ Embedded Hardware, IoT & Cyber-Physical Safety
+
+#### ⛑️ [Smart Helmet IoT Safety System](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-)
+**Dual-Unit Rider Safety System: IR Wear Detection, Alcohol Sensing & Ignition Interlock**
+* 🏆 **SIH 2025 Internal Hackathon Top 50 (Official Central SIH Portal Nominee)** • 📁 [Project Resources & Drive Dossier](https://drive.google.com/drive/folders/1kYhyoOx9-Tr4WyOJkmUz7K4PDDpmaHEr?usp=drive_link)
+* **Timeline & Role**: **Sep 2025 – Oct 2025** • Lead Embedded Developer (Dual-Unit System).
+* **Hardware Stack**: Arduino Nano/Core, C/C++ firmware, RF 433MHz Transceiver, Optical IR Proximity Sensor, MQ-3 Alcohol Sensor, IR Eye-Blink Sensor, 5V SPDT Relay, 16x2 I²C LCD.
+* **Key Innovations**: Dual-unit wireless architecture linking helmet to motorcycle ignition; optical IR helmet wear compliance lockout; sub-500ms automated engine ignition cut-off upon detecting rider intoxication or micro-sleep drowsiness; 5-second RF fail-safe signal protection.
+
+#### 🛡️ [EdgeGuard — Automotive CAN Bus IDS](https://github.com/Tharun4743/EdgeGuard)
+**Offline Edge-AI Intrusion Detection System for Vehicle Controller Area Networks**
+* [GitHub Repository](https://github.com/Tharun4743/EdgeGuard)
+* **Tech Stack**: Python, SocketCAN, MCP2515 Transceiver, Quantized LightGBM, React NSOC Dashboard.
+* **Key Innovations**: Sub-5ms real-time edge anomaly inference; microsecond inter-arrival delta and payload entropy analysis; 100% offline tunnel protection detecting DoS bus floods, fuzzing, and spoofing attacks.
+
+#### 🌊 [AI FloodGuard Emergency Evacuation System](https://github.com/Tharun4743/Floodguard)
+**Autonomous Flood Early Warning & Multi-Agent Evacuation Decision Platform**
+* 🌐 [Production Live Demo](https://floodguard-ai.vercel.app/)
+* **Tech Stack**: React 19, TypeScript, Tailwind CSS, Leaflet GIS, Turf.js, Multi-Agent Node.js Pipeline.
+* **Key Innovations**: Tri-agent AI orchestrator (Sensor Validator, Hydrological DEM Runoff Model, Dynamic Evacuation Router); 2–6 hour predictive early warning; Human-in-the-Loop municipal disaster commander gate before mass citizen alerting.
+
+---
+
+### 🛡️ Cybersecurity, FinTech & Algorithmic Foundations
+
+#### 🛡️ [Mailtrace AI](https://github.com/Tharun4743/Mailtrace-ai)
+**Intelligent Phishing Detection, Email Forensics & Header Threat Analyzer**
+* [GitHub Repository](https://github.com/Tharun4743/Mailtrace-ai)
+* **Tech Stack**: Python 3.10+, MIME Parser, dnspython, Hugging Face Transformers, PyTorch.
+* **Key Innovations**: Cryptographic SPF/DKIM/DMARC alignment validation; multi-hop MIME relay forensic tracing; NLP transformer psychological intent classifier (urgency, panic, wire fraud); URL unshortener and homograph domain inspection.
+
+#### 💳 [MuleGuard Financial Crime Platform](https://github.com/Tharun4743/Muleguard)
+**Money Mule Account Intelligence & Circular Laundering Detection**
+* [GitHub Repository](https://github.com/Tharun4743/Muleguard)
+* **Tech Stack**: Node.js, Express, D3.js Graph Topology, Neo4j, AML Behavioral Heuristics.
+* **Key Innovations**: Rapid pass-through influx-to-drain velocity metrics; interactive graph topology visualization exposing smurfing rings; automated dormancy reactivation anomaly detection.
+
+#### 📊 [RiskLens AI](https://github.com/Tharun4743/RiskLens-AI)
+**Multimodal Financial Risk Intelligence & Regulatory Scoring Platform**
+* [GitHub Repository](https://github.com/Tharun4743/RiskLens-AI)
+* **Tech Stack**: Python, FastAPI, FinBERT NLP, Value-at-Risk (VaR) Quantitative Engine, React.
+* **Key Innovations**: Domain-specific sentiment extraction from 10-K filings and earnings transcripts; quantitative VaR simulation; automated ESG compliance risk indexing.
+
+#### ☕ [Java LeetCode & Enterprise Data Structures](https://github.com/Tharun4743/Java_Leetcode)
+**Production-Grade Algorithmic Solutions with Comprehensive Unit Test Suites**
+* [GitHub Repository](https://github.com/Tharun4743/Java_Leetcode)
+* **Tech Stack**: Java 17 (LTS), JUnit 5, Mockito, Maven, Git.
+* **Key Innovations**: 150+ LeetCode problems implemented with idiomatic modern Java; 100% test coverage with edge-case test harnesses; pattern classification (DP, Monotonic Stacks, Sliding Windows); Big-O space/time complexity documentation.
+
+#### 📈 [LeetCode Progress Automation Daemon](https://github.com/Tharun4743/Leetcode_progress)
+**Automated Personal Problem-Solving Velocity Monitor**
+* [GitHub Repository](https://github.com/Tharun4743/Leetcode_progress)
+* **Tech Stack**: GitHub Actions, LeetCode GraphQL API, Node.js, SVG Badge Generator.
+* **Key Innovations**: Nightly automated cron trigger; dynamic SVG progression badge rendering; historical streak tracking committed directly to Git.
+
+---
+
+## 🏆 Honors, Awards & Academic Leadership
+
+* 🥇 **1st Place Winner (National)** — *Code Thugs 2K26 Hackathon* (Awarded top national honors and ₹5,000 cash prize for GOAT Collaborative IDE)
+* 🚀 **Top 50 / 300+ Teams (SIH Central Portal Nominee)** — *Smart India Hackathon 2026* (Full-Stack Architect & Lead Developer for VSBEC IT Vault)
+* ⛑️ **Top 50 / 300+ Teams (SIH Central Portal Nominee)** — *Smart India Hackathon 2025* (Lead Embedded Developer for Dual-Unit Smart Helmet IoT Safety System)
+* 🔬 **National Finalist** — *India Innovates 2026* (National technical innovation showcase)
+* 🏛️ **Institutional Campus Deployment** — Engineered platform adopted across **365+ enrolled students & 6 sections** in V.S.B. Engineering College
+* 👨‍💼 **Department Student Coordinator** — *Department of IT, VSB Engineering College* (2024 – Present)
 * ⚡ **SIH 2026 IT Department Coordinator** — Mentoring 15+ student teams on national hackathon tracks
-* 🌟 **GeeksforGeeks Campus Mantri** — Hosted campus coding bootcamps and CP workshops for 200+ students
-* 🎯 **Symposium Event Coordinator** — Managed technical events for 150+ participants (9.8/10 rating)
+* 🌟 **GeeksforGeeks Campus Mantri** — Organized campus coding bootcamps, workshops, and algorithmic challenges for 200+ students
+* 🎯 **Technical Symposium Event Coordinator** — Directed institutional technical competitions for 150+ participants (Rated 9.8/10)
 
 ---
 
-## 📜 Verified Certifications & Badges
+## 📜 Verified Professional Certifications & Credentials
 
 * 📄 [**Infosys Springboard Internship Completion Certificate**](https://drive.google.com/file/d/1Q9M6APOGYKO0_jYrKBAO4fAwTFEZJigy/view?usp=drive_link) — *Infosys Springboard*
 * 📄 [**Tata - GenAI Powered Data Analytics Job Simulation**](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_RxeDd9TgPqW92wdDx_1750820862922_completion_certificate.pdf) — *Forage*
@@ -127,7 +218,7 @@ I am a software engineer focused on building end-to-end applications that bridge
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Real-Time GitHub Analytics & Contribution Telemetry
 
 <div align="center">
 
@@ -144,30 +235,30 @@ I am a software engineer focused on building end-to-end applications that bridge
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
-I'm always open to discussing new software projects, AI innovations, startup ideas, or internship/full-time opportunities.
+I am actively open to discussing technical internships, full-stack architectural roles, AI/ML engineering opportunities, and open-source collaborations.
 
 <p align="center">
   <a href="mailto:tharunkumark42007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tharunkumark42007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-tharunkumark42007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/tharunkumark4743/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tharunkumar_K-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Tharunkumar_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/Tharun4743">
-    <img src="https://img.shields.io/badge/GitHub-Tharun4743-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Tharun4743-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  📞 <b>Phone:</b> <a href="tel:+918760964830">+91 87609 64830</a> &nbsp;•&nbsp; 🌐 <b>Portfolio:</b> <a href="https://tharunkumark4743.netlify.app/">tharunkumark4743.netlify.app</a>
+  📞 <b>Phone:</b> <a href="tel:+918760964830">+91 87609 64830</a> &nbsp;•&nbsp; 🌐 <b>Personal Portfolio:</b> <a href="https://tharunkumark4743.netlify.app/">tharunkumark4743.netlify.app</a>
 </p>
 
 <br/>
 
-<sub>© 2026 Tharunkumar K • Built with passion & precision</sub>
+<sub>© 2026 Tharunkumar K • All Rights Reserved • Lead Full-Stack Architect & AI Engineer</sub>
 
 </div>
