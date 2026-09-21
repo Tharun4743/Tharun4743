@@ -148,30 +148,54 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 ## 🛠️ Technical Competencies & Tech Stack
 
 ### Languages
-`Java (JDK 17)` · `TypeScript` · `JavaScript (ES6+)` · `Python 3` · `C` · `C++` · `SQL`
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frontend
-`React 19` · `Next.js 15` · `Vite` · `Tailwind CSS` · `Framer Motion` · `Monaco Editor`
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Backend
-`Node.js 20+` · `Express.js` · `RESTful APIs` · `Socket.IO` · `Spring Boot` · `Prisma`
+![Node.js](https://img.shields.io/badge/Node.js_20+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Databases & Storage
-`PostgreSQL 14/15/16` · `Supabase` · `Neon Serverless` · `MongoDB` · `MySQL` · `SQLite`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon Serverless](https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### AI & Developer Tools
-`Google Gemini AI SDK` · `Ollama` · `ChromaDB` · `Judge0 Compiler` · `Piston API`
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white)
+![Judge0](https://img.shields.io/badge/Judge0-0052CC?style=for-the-badge&logo=codeforces&logoColor=white)
+![Piston API](https://img.shields.io/badge/Piston_API-333333?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Tools & Platforms
-`Git` · `GitHub Actions (CI/CD)` · `Docker` · `Cloudinary CDN` · `Render` · `Netlify` · `Vercel` · `Arduino`
-
-<br/>
-
-<div align="center">
-
-![Skill Icons](https://skillicons.dev/icons?i=java,cpp,ts,js,py,c,postgres,mongodb,react,nextjs,vite,tailwind,nodejs,express,spring,prisma,supabase,mysql,sqlite,docker,git,github,netlify,render,vercel,arduino&perline=14)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
@@ -216,8 +240,6 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 
 <div align="center">
 
-### 🧊 3D Animated Contribution Calendar
-
 <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Tharun4743's 3D Animated Contribution Calendar" />
 
 <br/><br/>
@@ -237,7 +259,7 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://leetcode.com/u/Tharunkumar__K/">
-        <img src="https://leetcard.jacoblin.cool/Tharunkumar__K?theme=tokyonight&font=Inter" width="100%" alt="LeetCode Problem Solving Card" />
+        <img src="https://leetcard.jacoblin.cool/Tharunkumar__K?ext=heatmap&theme=tokyonight" width="100%" alt="LeetCode Calendar & Streak" />
       </a>
     </td>
   </tr>
