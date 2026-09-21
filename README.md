@@ -90,17 +90,17 @@ Full-stack recruitment workflow engine and placement governance platform built f
 
 ---
 
-### 🧠 [SIH25231 — Agritech & Computer Vision AI Platform](https://github.com/Tharun4743/SIH25231)
-**Decentralized Agricultural Intelligence, Crop Pathology Vision & Direct Escrow Marketplace**
+### 🧠 [Aura — AI Unified Retrieval Assistant (SIH25231)](https://github.com/Tharun4743/SIH25231)
+**Offline Multimodal RAG Engine & Local AI Assistant (Desktop & Web)**
 
-All-in-one agritech ecosystem engineered for the Smart India Hackathon to protect rural farmers against crop diseases and exploitative market markups.
+Air-gapped, privacy-first local multimodal Retrieval-Augmented Generation (RAG) system engineered for high-security, low-bandwidth, and confidential enterprise environments.
 
-* 🌿 **Computer Vision Crop Pathology:** Deep learning model (MobileNet / YOLO with OpenCV and TensorFlow Lite) analyzing leaf imagery to diagnose 20+ common agricultural infections with automated remediation advisories.
-* 📈 **Predictive Mandi Price Forecasting:** Machine learning regression engine analyzing historical arrival volumes to predict commodity prices 7–14 days in advance.
-* 🛒 **Direct Farm-to-Buyer Escrow Marketplace:** Disintermediates agricultural commerce, allowing farmers to sell directly to urban retailers and bulk processors without 3–4 layer middleman markups.
-* 🗣️ **Vernacular Voice-First Navigation:** Multi-regional language interface with voice input and text-to-speech audio guidance tailored for low-literacy agricultural communities.
+* 🔒 **100% Offline Air-Gapped Inference:** Eliminates cloud data leaks and recurring API costs by executing quantized local LLMs (`llama3`) and dense embeddings (`nomic-embed-text`) entirely on-device via Ollama.
+* 📄 **Local Document Pipeline & Vector Search:** Ingests and processes complex PDFs locally using Apache PDFBox, chunking text and performing low-latency semantic vector similarity search stored in an embedded SQLite database.
+* ⚡ **High-Throughput Spring Boot Backend:** Powered by Java 17 and Spring Boot 3 with JPA, HikariCP connection pooling, and bi-directional WebSocket streaming (`/ws/chat`) for real-time token-by-token answer generation.
+* 💻 **Dual Distribution Architecture:** Single codebase supporting both a fast React + Vite web interface (with reverse proxy configurations) and a standalone cross-platform Electron desktop application bundling a self-contained JRE.
 
-**Tech Stack:** React · Node.js · Express · TensorFlow Lite · Python · OpenCV · Scikit-Learn · PostgreSQL  
+**Tech Stack:** Java (JDK 17) · Spring Boot 3 · React · Vite · Electron · SQLite · Apache PDFBox · Ollama (LLaMA 3, Nomic Embed) · WebSockets  
 🔗 [GitHub Repository](https://github.com/Tharun4743/SIH25231)
 
 ---
