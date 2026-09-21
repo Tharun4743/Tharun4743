@@ -163,6 +163,14 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 
 ## 🛠️ Technical Competencies & Tech Stack
 
+<div align="center">
+  <a href="https://github.com/Tharun4743/github-profile-visualizer">
+    <img src="assets/skills-radar.svg" width="467" alt="Engineering Competency Radar" />
+  </a>
+</div>
+
+<br/>
+
 ### Languages
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)

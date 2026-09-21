@@ -39,6 +39,7 @@ jobs:
           visualizers: 'all'
           theme: 'cyberpunk'
           leetcode-username: 'Tharunkumar__K'
+          radar-skills: 'Algorithms:0.94,Full Stack:0.96,Distributed:0.88,System Design:0.90,APIs & DBs:0.95'
           output-dir: 'assets'
           filename: 'profile-3d-city.svg'
           generate-all: 'true'
