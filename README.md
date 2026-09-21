@@ -274,12 +274,10 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 
 <br/><br/>
 
-<!-- 3D Contribution Calendar (Official Yoshi389111 Style) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Tharun4743's 3D Contribution Calendar" />
-</picture>
+<!-- 3D Contribution City (High-Fidelity Yoshi Engine) -->
+<a href="https://github.com/marketplace/actions/github-profile-visualizer">
+  <img src="assets/profile-3d-city.svg" width="100%" alt="Tharun4743's 3D Contribution City" />
+</a>
 
 <br/><br/>
 
