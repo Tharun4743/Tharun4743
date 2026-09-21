@@ -68,7 +68,7 @@ High-performance in-browser collaborative engineering workspace unifying multi-u
 * 🎙️ **Pure WebRTC Audio Mesh (Zero SDKs):** Custom peer-to-peer audio mesh handling SDP handshakes, ICE candidates, hardware echo cancellation, and Web Audio `AnalyserNode` Voice Activity Detection (VAD) without paid 3rd-party SDK dependencies.
 * ⚡ **Sub-Pixel Operational Diff Streaming:** Socket.IO pipeline streaming operational transformations, remote colored carets, and live user selection across a native Monaco (VS Code kernel) editor.
 * 🚀 **Instant <2s Workspace Provisioning:** Dual-persistence architecture utilizing in-memory room state with PostgreSQL persistence, spinning up active collaborative workspaces in under 2 seconds.
-* ⚙️ **13+ Language Sandboxed Execution:** Multi-language code runner supporting JavaScript, TypeScript, Python, Java, C++, Go, and Rust via Piston API v2.
+* ⚙️ **Multi-Language Sandboxed Execution:** In-browser execution engine supporting JavaScript, TypeScript, Python, Java, C++, and Go via Piston API v2.
 
 **Tech Stack:** React 19.2 · TypeScript · Node.js · Express · Socket.IO 4.8 · Pure WebRTC · Monaco Editor · PostgreSQL 16 · Piston API  
 🔗 [Live Production Demo](https://goatcode-editor.onrender.com) · [GitHub Repository](https://github.com/Tharun4743/GOAT-CE)
