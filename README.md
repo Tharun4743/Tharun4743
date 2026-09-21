@@ -1,6 +1,21 @@
+<div align="center">
+
 # Hi, I'm Tharunkumar K 👋
 
 ### Full Stack Developer | AI Application Developer
+
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+AI+Systems+Builder;B.Tech+IT+Student+@+VSB+Engineering+College;1st+Place+Winner+at+Code+Thugs+2K26;Actively+Interviewing+for+SDE+%26+SWE+Roles">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+AI+Systems+Builder;B.Tech+IT+Student+@+VSB+Engineering+College;1st+Place+Winner+at+Code+Thugs+2K26;Actively+Interviewing+for+SDE+%26+SWE+Roles" alt="Typing Animation" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/Tharun4743"><img src="https://komarev.com/ghpvc/?username=Tharun4743&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <img src="https://img.shields.io/badge/Placement_Status-Actively_Interviewing-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech_IT_%7C_CGPA_8.5-6366f1?style=for-the-badge&logo=googleacademic&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Location-Tamil_Nadu%2C_India-ff4757?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+</div>
 
 B.Tech Information Technology student building full-stack applications, AI-powered systems, and developer tools.
 
@@ -14,7 +29,7 @@ I enjoy turning real-world problems into practical software using modern fronten
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 - 🥇 **Code Thugs 2K26** — 1st Place / National Winner
 - 🇮🇳 **India Innovates 2026** — National Finalist
@@ -25,7 +40,7 @@ I enjoy turning real-world problems into practical software using modern fronten
 
 ---
 
-## Featured Projects
+## 💻 Featured Projects
 
 *Selected projects demonstrating full-stack, AI, and systems development.*
 
@@ -103,16 +118,16 @@ Dual-unit rider safety system using helmet detection, alcohol sensing, drowsines
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Full Stack Development Intern — Neura Global
+### 🚀 Full Stack Development Intern — Neura Global
 **Jun 2026 – Jul 2026**
 
 - Built **CampusConnect** using React, TypeScript, Node.js and Supabase.
 - Developed REST APIs, real-time status updates and Cloudinary-based document management.
 - Worked on a production deployment used across the college placement workflow.
 
-### Software Development Intern — Infosys Springboard
+### 💻 Software Development Intern — Infosys Springboard
 **Nov 2025 – Jan 2026**
 
 - Completed the **Infosys Springboard 6.0** program.
@@ -121,7 +136,7 @@ Dual-unit rider safety system using helmet detection, alcohol sensing, drowsines
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 `TypeScript` · `JavaScript` · `Python` · `Java` · `C` · `C++` · `SQL`
@@ -151,7 +166,7 @@ Dual-unit rider safety system using helmet detection, alcohol sensing, drowsines
 
 ---
 
-## Currently Learning
+## 📖 Currently Learning
 
 - 🐧 Linux & system administration
 - 🧠 Data Structures & Algorithms
@@ -162,7 +177,7 @@ Dual-unit rider safety system using helmet detection, alcohol sensing, drowsines
 
 ---
 
-## Certifications & Badges
+## 🏅 Certifications & Badges
 
 - 🏅 [Infosys Springboard Internship Completion](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
 - 🏅 [Tata — GenAI Powered Data Analytics Job Simulation](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
@@ -175,17 +190,21 @@ Dual-unit rider safety system using helmet detection, alcohol sensing, drowsines
 
 ---
 
-## Coding & Professional Profiles
+## 🌐 Coding & Professional Profiles
 
-- 🌐 **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
-- 💼 **LinkedIn:** [tharunkumark4743](https://www.linkedin.com/in/tharunkumark4743)
-- 🧩 **LeetCode:** [Tharunkumar__K](https://leetcode.com/u/Tharunkumar__K/)
-- 🎓 **GeeksforGeeks:** [tharunkumark4743](https://www.geeksforgeeks.org/profile/tharunkumark4743)
-- 💻 **GitHub:** [Tharun4743](https://github.com/Tharun4743)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tharunkumark4743.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://tharunkumark4743.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharunkumar_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunkumark4743)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Tharunkumar__K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharunkumar__K/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-tharunkumark4743-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tharunkumark4743)
+[![GitHub](https://img.shields.io/badge/GitHub-Tharun4743-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743)
+
+</div>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics & Engineering Velocity
 
 <div align="center">
 
@@ -195,18 +214,32 @@ Dual-unit rider safety system using helmet detection, alcohol sensing, drowsines
 
 <br/><br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true" alt="Tharun4743's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Tharun4743&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="97%" />
+<table border="0" cellpadding="0" cellspacing="4" align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Overall Stats" />
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=Tharun4743&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages Breakdown" />
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://leetcode.com/u/Tharunkumar__K/">
+        <img src="https://leetcard.jacoblin.cool/Tharunkumar__K?theme=tokyonight&font=Inter" width="100%" alt="LeetCode Problem Solving Card" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## Let's Connect
+## 📬 Let's Connect
 
 I'm open to software engineering opportunities, technical collaborations, and interesting projects.
 
