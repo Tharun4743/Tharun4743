@@ -16,7 +16,7 @@
           Commit Titan
         </text>
         <text x="42" y="36" fill="#00f0ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">
-          2,494+ commits • Diamond
+          2,496+ commits • Diamond
         </text>
       </g>
       <g transform="translate(234, 55)">
@@ -49,4 +49,9 @@
           26+ Repositories • Silver
         </text>
       </g>
+
+  <!-- Personal Branding Watermark -->
+  <a href="https://github.com/Tharun4743/github-profile-visualizer" target="_blank">
+    <text x="443" y="185" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="600" opacity="0.85">⚡ by @Tharun4743</text>
+  </a>
 </svg>

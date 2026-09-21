@@ -106,6 +106,9 @@ function renderStatsSvg(gh) {
       <text class="stat bold" x="224" y="12.5">${gh.publicRepos}</text>
     </g>
   </g>
+  <a href="https://github.com/Tharun4743/github-profile-visualizer" target="_blank">
+    <text x="443" y="183" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="600" opacity="0.85">⚡ by @Tharun4743</text>
+  </a>
 </svg>`;
 }
 

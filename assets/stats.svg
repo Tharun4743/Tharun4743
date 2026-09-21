@@ -15,7 +15,7 @@
     </g>
     <g transform="translate(25, 25)">
       <text class="stat bold" x="25" y="12.5">Total Commits:</text>
-      <text class="stat bold" x="224" y="12.5">2,828</text>
+      <text class="stat bold" x="224" y="12.5">2,830</text>
     </g>
     <g transform="translate(25, 50)">
       <text class="stat bold" x="25" y="12.5">Total PRs:</text>
@@ -30,4 +30,7 @@
       <text class="stat bold" x="224" y="12.5">27</text>
     </g>
   </g>
+  <a href="https://github.com/Tharun4743/github-profile-visualizer" target="_blank">
+    <text x="443" y="183" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="600" opacity="0.85">⚡ by @Tharun4743</text>
+  </a>
 </svg>
