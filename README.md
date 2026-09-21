@@ -39,9 +39,24 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 
 ---
 
-## 💻 Featured Production Projects
+## 💻 Featured Production Projects & Developer Tools
 
 *Selected projects demonstrating full-stack engineering, real-world adoption, and measurable architectural impact.*
+
+### ⚡ [GitHub Profile Visualizer](https://github.com/Tharun4743/github-profile-visualizer)
+**All-in-One Multi-Platform Developer Activity & 3D Isometric Telemetry Suite (GitHub Action & CLI)**
+
+Next-generation developer telemetry visualizer generating dynamic 3D isometric city skylines, real-time activity streams, executive velocity banners, and multi-metric coding competency cards for GitHub profiles.
+
+* 🚀 **GitHub Marketplace Action:** Published, reusable CI/CD Action (`uses: Tharun4743/github-profile-visualizer@v1`) powering dynamic profile automation across developer communities.
+* 🏙️ **9-in-1 Complete Visualizer Suite:** Generates 3D Contribution City, Executive Summary Banner, Developer Achievements & Medals, Commit Velocity Wave, Engineering Competency Radar, Productive Coding Habits, Language Matrix, Live Event Timeline, and LeetCode Telemetry in a single execution pass.
+* 🎨 **Universal Theming & Glassmorphism:** 10 curated color themes (Cyberpunk, Tokyo Night, Dracula, Nord, Matrix, Synthwave, Monokai, Sunset, Emerald, GitHub Dark), user-defined 5-color palettes, configurable border radius, and transparent glassmorphism rendering.
+* 📐 **Pure SVG Mathematical Projection Engine:** Zero headless-browser dependencies (no Puppeteer/Playwright overhead); renders 365 days of contribution depth using deterministic isometric math (`isoX = (x - y) * cos(30°)`, `isoY = (x + y) * sin(30°) - height`) compiled into an ultra-fast Node.js bundle.
+
+**Tech Stack:** Node.js 20+ · SVG Vector Math Engine · GitHub GraphQL & REST APIs · LeetCode Public GraphQL · @vercel/ncc  
+🔗 [GitHub Repository](https://github.com/Tharun4743/github-profile-visualizer) · [Releases & Changelog](https://github.com/Tharun4743/github-profile-visualizer/releases)
+
+---
 
 ### 🏛️ [VSBEC IT Vault](https://github.com/Tharun4743/taskmanager)
 **Enterprise Institutional Governance, Streak Tracking & Sandboxed Assessment Engine**
@@ -241,14 +256,21 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 
 <div align="center">
 
-<img src="assets/executive-summary.svg" width="100%" alt="Executive Velocity Summary" />
+<!-- Executive Summary Banner -->
+<a href="https://github.com/Tharun4743/github-profile-visualizer">
+  <img src="assets/executive-summary.svg" width="100%" alt="Executive Velocity Summary" />
+</a>
 
 <br/><br/>
 
-<img src="assets/profile-3d-city.svg" width="100%" alt="Tharun4743's 3D Contribution City" />
+<!-- 3D Contribution City Skyline -->
+<a href="https://github.com/Tharun4743/github-profile-visualizer">
+  <img src="assets/profile-3d-city.svg" width="100%" alt="Tharun4743's 3D Contribution City" />
+</a>
 
 <br/><br/>
 
+<!-- Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
@@ -257,10 +279,11 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 
 <br/><br/>
 
+<!-- Complete Multi-Metric Visualizer Suite -->
 <table border="0" cellpadding="0" cellspacing="4" align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="middle">
-      <img src="assets/achievements.svg" width="100%" alt="Developer Achievements" />
+      <img src="assets/achievements.svg" width="100%" alt="Developer Achievements & Medals" />
     </td>
     <td align="center" width="50%" valign="middle">
       <img src="assets/commit-velocity.svg" width="100%" alt="Commit Velocity Wave" />
@@ -276,7 +299,15 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
   </tr>
   <tr>
     <td align="center" width="50%" valign="middle">
-      <img src="assets/activity-timeline.svg" width="100%" alt="Recent Activity Stream" />
+      <img src="assets/languages-matrix.svg" width="100%" alt="Most Used Languages Matrix" />
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <img src="assets/activity-timeline.svg" width="100%" alt="Live Recent Activity Stream" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img src="assets/leetcode-card.svg" width="100%" alt="LeetCode Problem Solving Card" />
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://leetcode.com/u/Tharunkumar__K/">
@@ -285,6 +316,10 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <sub>⚡ Visualizers dynamically generated and synced every 6 hours via <a href="https://github.com/Tharun4743/github-profile-visualizer"><b>GitHub Profile Visualizer</b></a> by <a href="https://github.com/Tharun4743"><b>@Tharun4743</b></a></sub>
+</p>
 
 </div>
 
