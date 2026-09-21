@@ -11,11 +11,11 @@
   <g transform="translate(0, 55)">
     <g transform="translate(25, 0)">
       <text class="stat bold" x="25" y="12.5">Total Stars Earned:</text>
-      <text class="stat bold" x="224" y="12.5">0</text>
+      <text class="stat bold" x="224" y="12.5">5</text>
     </g>
     <g transform="translate(25, 25)">
       <text class="stat bold" x="25" y="12.5">Total Commits:</text>
-      <text class="stat bold" x="224" y="12.5">3,113</text>
+      <text class="stat bold" x="224" y="12.5">2,822</text>
     </g>
     <g transform="translate(25, 50)">
       <text class="stat bold" x="25" y="12.5">Total PRs:</text>
@@ -27,7 +27,7 @@
     </g>
     <g transform="translate(25, 100)">
       <text class="stat bold" x="25" y="12.5">Contributed to (last year):</text>
-      <text class="stat bold" x="224" y="12.5">0</text>
+      <text class="stat bold" x="224" y="12.5">27</text>
     </g>
   </g>
 </svg>
