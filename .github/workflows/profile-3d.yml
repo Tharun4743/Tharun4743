@@ -30,5 +30,6 @@ jobs:
             echo "No 3D changes to commit."
           else
             git commit -m "chore: dynamically update 3D contribution graph with latest telemetry"
+            git pull --rebase origin main
             git push
           fi

@@ -37,5 +37,6 @@ jobs:
             echo "No 3D city changes to commit."
           else
             git commit -m "chore: update 3D contribution city skyline [skip ci]"
+            git pull --rebase origin main
             git push
           fi
