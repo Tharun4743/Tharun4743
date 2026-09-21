@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Professional Summary
-High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven experience architecting and deploying real-world software actively used daily by **365+ enrolled students across 6 academic sections**. Two-time **Smart India Hackathon (SIH 2026 & SIH 2025) Top 50 Finalist** (Official Central SIH Portal Nominee) and **1st Place National Winner at Code Thugs 2K26**. Expert across React 19, Next.js 15, Node.js, Express, TypeScript, isolated compiler execution sandboxes, WebRTC/SSE streaming, embedded Arduino/RF 433MHz systems, and enterprise Pega low-code case lifecycles. Maintainer of an interconnected ecosystem of 25 standardized engineering repositories spanning institutional governance, collaborative cloud IDEs, cyber-physical safety, and applied AI.
+High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven experience architecting and deploying real-world software actively used daily by **365+ enrolled students**. Two-time **Smart India Hackathon (SIH 2026 & SIH 2025) Top 50 Finalist** (Official Central SIH Portal Nominee) and **1st Place National Winner at Code Thugs 2K26**. Expert across React 19, Next.js 15, Node.js, Express, TypeScript, isolated compiler execution sandboxes, WebRTC/SSE streaming, embedded Arduino/RF 433MHz systems, and enterprise Pega low-code case lifecycles. Maintainer of an interconnected ecosystem of 25 standardized engineering repositories spanning institutional governance, collaborative cloud IDEs, cyber-physical safety, and applied AI.
 
 ---
 
@@ -59,7 +59,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 
 ### 🏛️ [VSBEC IT Vault (taskmanager)](https://github.com/Tharun4743/taskmanager) | *React 19, Node.js, PostgreSQL, Monaco IDE, Docker*
 * **SIH 2026 Top 50 Finalist (Official SIH Portal Nominee)** • [Live Production Platform](https://it-taskmanager.vercel.app/)
-* Deployed in production and actively adopted by **365+ enrolled students across 6 academic sections** (II IT-A/B/C & III IT-A/B/C) at VSB Engineering College.
+* Deployed in production and actively adopted by **365+ enrolled students** at VSB Engineering College.
 * Engineered an isolated multi-language compiler sandbox (**C, C++, Java 17, Python 3**) with memory caps and 4-second timeout traps.
 * Automated nightly LeetCode GraphQL and GitHub REST telemetry syncing to measure daily student algorithmic velocity and commit streaks.
 * Built a 3-tier hierarchical verification pipeline (Coordinator → Advisor → HOD) with PIP webcam anti-cheat proctoring and sub-0.01ms directory caching.
@@ -123,7 +123,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * 🚀 **Top 50 / 300+ Teams** — *Smart India Hackathon 2026* (Official Central SIH Portal Nominee for VSBEC IT Vault)
 * ⛑️ **Top 50 / 300+ Teams** — *Smart India Hackathon 2025* (Official Central SIH Portal Nominee for Smart Helmet IoT System)
 * 🔬 **National Finalist** — *India Innovates 2026* (National Innovation Showcase)
-* 🏛️ **Institutional Campus Deployment** — Engineered platform adopted across **365+ students across 6 departmental sections** at VSBEC
+* 🏛️ **Institutional Campus Deployment** — Engineered platform adopted across **365+ students** at VSBEC
 * 👨‍💼 **Department Student Coordinator** — *Department of Information Technology, VSB Engineering College* (2024 – Present)
 * ⚡ **SIH 2026 IT Department Coordinator** — Mentoring 15+ student teams on national hackathon tracks
 * 🌟 **GeeksforGeeks Campus Mantri** — Led campus competitive programming bootcamps and algorithmic workshops for 200+ students

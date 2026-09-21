@@ -22,7 +22,7 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 - 🎓 **Education:** B.Tech Information Technology — VSB Engineering College (**CGPA: 8.5 / 10**)
 - 🎯 **Target Roles:** Software Development Engineer (SDE I), Full Stack Engineer, Backend Systems Engineer
 - 🧠 **Core Competencies:** Data Structures & Algorithms, Object-Oriented Design, System Design, RESTful APIs, Concurrency & State Machines
-- 📚 **Currently learning:** Linux Kernel Internals, Distributed System Design & Cloud Native Architecture
+- 📚 **Currently learning:** Distributed System Design & Cloud Native Architecture
 - 🌐 **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
 
 ---
@@ -48,7 +48,7 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 
 Role-based academic governance and technical assessment ecosystem engineered for the Department of Information Technology.
 
-* 👥 **Real-World Campus Adoption:** Actively adopted and used daily by **365+ enrolled students across 6 departmental sections** (II IT-A/B/C & III IT-A/B/C) at VSB Engineering College.
+* 👥 **Real-World Campus Adoption:** Actively adopted and used daily by **365+ enrolled students** at VSB Engineering College.
 * 🔐 **Isolated Compiler Sandbox:** Multi-language execution runtime (**C, C++, Java 17, Python 3**) with isolated child-process jails, execution timeout traps, and automated server-side hidden test case evaluation.
 * ⚡ **High-Performance Architecture:** PostgreSQL cluster with 35 relational tables, row-level security policies, and sub-0.01ms student lookups.
 * 📊 **Algorithmic Momentum Schedulers:** Automated nightly background daemons polling LeetCode GraphQL and GitHub REST APIs to track student solve velocity and streaks.
@@ -163,13 +163,13 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 `Google Gemini AI SDK` · `Ollama` · `ChromaDB` · `Judge0 Compiler` · `Piston API`
 
 ### Tools & Platforms
-`Git` · `GitHub Actions (CI/CD)` · `Linux` · `Docker` · `Cloudinary CDN` · `Render` · `Netlify` · `Vercel` · `Arduino`
+`Git` · `GitHub Actions (CI/CD)` · `Docker` · `Cloudinary CDN` · `Render` · `Netlify` · `Vercel` · `Arduino`
 
 <br/>
 
 <div align="center">
 
-![Skill Icons](https://skillicons.dev/icons?i=java,cpp,ts,js,py,c,postgres,mongodb,react,nextjs,vite,tailwind,nodejs,express,spring,prisma,supabase,mysql,sqlite,linux,docker,git,github,netlify,render,vercel,arduino&perline=14)
+![Skill Icons](https://skillicons.dev/icons?i=java,cpp,ts,js,py,c,postgres,mongodb,react,nextjs,vite,tailwind,nodejs,express,spring,prisma,supabase,mysql,sqlite,docker,git,github,netlify,render,vercel,arduino&perline=14)
 
 </div>
 
@@ -177,7 +177,6 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 
 ## 📖 Currently Learning (SDE Interview Focus)
 
-- 🐧 **Linux Kernel & System Administration** (process management, file descriptors, shell scripting)
 - 🧠 **Data Structures & Algorithms** (advanced graph theory, dynamic programming, algorithmic optimization)
 - 📐 **Low-Level & High-Level System Design** (distributed caches, database sharding, microservice patterns)
 - 🏗️ **Backend Concurrency & Architecture** (event-driven microservices, connection pooling, rate limiters)
