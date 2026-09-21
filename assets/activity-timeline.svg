@@ -1,9 +1,17 @@
 <svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+<<<<<<< Updated upstream
   <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#282a36" stroke="#6272a4" stroke-width="1.5" />
   
   <!-- Header -->
   <g transform="translate(24, 30)">
     <text fill="#bd93f9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">
+=======
+  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  
+  <!-- Header -->
+  <g transform="translate(24, 30)">
+    <text fill="#39d353" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">
+>>>>>>> Stashed changes
       ⚡ Recent GitHub Activity • @Tharun4743
     </text>
   </g>
@@ -24,7 +32,11 @@
           Published release v1.0 in <tspan fill="#ff79c6" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
+<<<<<<< Updated upstream
           10m ago
+=======
+          11m ago
+>>>>>>> Stashed changes
         </text>
       </g>
       <g transform="translate(24, 102)">
