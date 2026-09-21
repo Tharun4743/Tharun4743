@@ -37,31 +37,21 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           visualizers: '3d-city,activity,languages,leetcode,duolingo,achievements,velocity,radar,summary'
-          theme: 'random'
+          theme: 'night-view'
           leetcode-username: 'Tharunkumar__K'
           duolingo-username: 'Tharunkumar4743'
           radar-skills: 'Algorithms:0.94,Full Stack:0.96,Distributed:0.88,System Design:0.90,APIs & DBs:0.95'
           output-dir: 'assets'
           filename: 'profile-3d-city.svg'
-          generate-all: 'true'
 
-      # 2. Generate Authentic 3D Contribution Calendar (Yoshi389111 Engine)
-      - name: 🧊 Generate Authentic 3D Contribution Calendar
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      # 3. Generate Multi-Platform GitHub Telemetry
+      # 2. Generate Multi-Platform GitHub Telemetry
       - name: 📊 Generate Multi-Platform Telemetry
-        run: |
-          cp profile-3d-contrib/profile-night-view.svg assets/profile-3d-city.svg || true
-          node scripts/generate-telemetry.js
+        run: node scripts/generate-telemetry.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
 
-      # 4. Generate GitHub Contribution Grid Snake Animation
+      # 3. Generate GitHub Contribution Grid Snake Animation
       - name: 🐍 Generate GitHub Contribution Grid Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -70,18 +60,17 @@ jobs:
             assets/github-contribution-grid-snake.svg
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 5. Single Atomic Commit & Push
+      # 4. Single Atomic Commit & Push
       - name: 🚀 Commit & Push All Visualizers
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          cp profile-3d-contrib/profile-night-view.svg assets/profile-3d-city.svg || true
-          git stash -- assets/ profile-3d-contrib/
+          git stash -- assets/
           git pull origin main --rebase
           git stash pop || true
-          git add assets/ profile-3d-contrib/
+          git add assets/
           if ! git diff --cached --quiet; then
-            git commit -m "chore(telemetry): sync profile visualizers and 3D calendar [skip ci]"
+            git commit -m "chore(telemetry): sync profile visualizers via marketplace action [skip ci]"
             git push origin main
           else
             echo "No visualizer changes detected."
