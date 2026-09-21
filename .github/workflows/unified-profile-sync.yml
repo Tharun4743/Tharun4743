@@ -1,0 +1,79 @@
+name: Unified Profile & Telemetry Sync
+
+on:
+  schedule:
+    - cron: "0 0,6,12,18 * * *" # Runs every 6 hours
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/unified-profile-sync.yml'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [profile_sync, webhook]
+
+permissions:
+  contents: write
+
+jobs:
+  sync-visualizers:
+    name: Generate All Multi-Platform Visualizers
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # 1. Generate Tharun's Custom 3D Contribution City
+      - name: 🏙️ Generate 3D Contribution City
+        uses: Tharun4743/github-profile-3d-city@v1
+        with:
+          username: ${{ github.repository_owner }}
+          theme: 'cyberpunk'
+          output-dir: 'profile-3d-contrib'
+          filename: 'profile-3d-city.svg'
+          generate-all: 'true'
+
+      # 2. Generate 3D Animated Contribution Calendar
+      - name: 🧊 Generate 3D Contribution Calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 3. Generate Retro Snake Contribution Game
+      - name: 🐍 Generate Snake Game SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 4. Generate Multi-Platform GitHub Telemetry
+      - name: 📊 Generate Multi-Platform Telemetry
+        run: node scripts/generate-telemetry.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+
+      # 5. Single Atomic Commit & Push
+      - name: 🚀 Commit & Push All Visualizers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/ assets/
+          if git diff --cached --quiet; then
+            echo "No visualizer changes detected."
+          else
+            git commit -m "chore(telemetry): unified multi-platform visualizer sync [skip ci]"
+            git pull --rebase origin main
+            git push
+          fi

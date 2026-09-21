@@ -246,9 +246,9 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharun4743/Tharun4743/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tharun4743/Tharun4743/output/github-contribution-grid-snake.svg">
-  <img alt="Tharun4743's Contribution Snake Animation" src="https://raw.githubusercontent.com/Tharun4743/Tharun4743/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+  <img alt="Tharun4743's Contribution Snake Animation" src="assets/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 <br/><br/>
