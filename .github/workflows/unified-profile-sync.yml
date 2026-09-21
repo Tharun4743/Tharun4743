@@ -36,11 +36,9 @@ jobs:
         uses: Tharun4743/github-profile-visualizer@v1
         with:
           username: ${{ github.repository_owner }}
-          visualizers: 'all'
-          theme: 'cyberpunk'
+          visualizers: '3d-city,activity,habits,languages,leetcode,duolingo,achievements,velocity,radar,summary'
+          theme: 'random'
           leetcode-username: 'Tharunkumar__K'
-          gfg-username: 'tharunkumark4743'
-          hackerrank-username: 'tharunkumark4743'
           duolingo-username: 'Tharunkumar4743'
           radar-skills: 'Algorithms:0.94,Full Stack:0.96,Distributed:0.88,System Design:0.90,APIs & DBs:0.95'
           output-dir: 'assets'
