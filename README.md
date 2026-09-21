@@ -359,9 +359,19 @@ I'm open to software engineering opportunities, technical collaborations, and in
 - 🦉 **Duolingo:** [Tharunkumar4743](https://www.duolingo.com/profile/Tharunkumar4743)
 - 🌐 **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
 
-<br/>
+---
 
 <div align="center">
+
+### 🐍 365-Day Contribution Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+  <img alt="Tharun's GitHub Contribution Grid Snake" src="assets/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tharun4743&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Tharun4743)
 

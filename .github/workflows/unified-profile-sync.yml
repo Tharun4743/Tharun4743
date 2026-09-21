@@ -52,7 +52,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
 
-      # 3. Single Atomic Commit & Push
+      # 3. Generate GitHub Contribution Grid Snake Animation
+      - name: 🐍 Generate GitHub Contribution Grid Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 4. Single Atomic Commit & Push
       - name: 🚀 Commit & Push All Visualizers
         run: |
           git config user.name "github-actions[bot]"
