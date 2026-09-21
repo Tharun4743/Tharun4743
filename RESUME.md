@@ -33,19 +33,19 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 
 ## 💼 Professional Experience
 
+### 🚗 Enterprise Systems Intern — Pegasystems (Pega) Enterprise Architecture
+*Jul 2026 – Aug 2026*
+* Engineered **Vehicle Service Management** ([Vehicle-Service](https://github.com/Tharun4743/Vehicle-Service)), an enterprise automotive case lifecycle automation platform on **Pega Infinity '24.1** (Pega Next-Gen Innovators Program).
+* Built formal multi-stage case flows (Intake → Diagnostic Inspection → Cost Estimation → Customer Approval SLA → Technician Repair → Invoicing).
+* Configured automated SLA Goal and Deadline escalation timers to prevent repair turnarounds from breaching customer service guarantees.
+* Implemented declarative pricing logic and skill-based work queue routing (`HeavyVehicleQueue` vs. `LightVehicleQueue`) to match specialized diagnostic jobs with certified mechanics.
+
 ### 🚀 Full-Stack Engineering Intern — Neura Global *(Startup)*
 *Jun 2026 – Jul 2026*
 * Architected and deployed **CampusConnect**, an enterprise placement governance platform for collegiate Training & Placement Offices (TPOs).
 * Implemented real-time multi-stage interview funnels using **React 19, Vite, Node.js, Express, Socket.IO**, and **Supabase PostgreSQL**.
 * Integrated **Google Gemini AI** to automate semantic resume screening and skill-gap matching against corporate job specifications.
 * Cut administrative manual roster auditing by **70%** and managed application timelines for 500+ student profiles with zero scheduling collisions.
-
-### 🚗 Enterprise Systems Intern — Pegasystems (Pega) Enterprise Architecture
-*Jan 2026 – Feb 2026*
-* Engineered **Vehicle Service Management** ([Vehicle-Service](https://github.com/Tharun4743/Vehicle-Service)), an enterprise automotive case lifecycle automation platform on **Pega Infinity '24.1**.
-* Built formal multi-stage case flows (Check-in → Diagnostic Inspection → Cost Estimation → Customer Approval SLA → Technician Repair → Invoicing).
-* Configured automated SLA Goal and Deadline escalation timers to prevent repair turnarounds from breaching customer service guarantees.
-* Implemented declarative pricing logic and skill-based work queue routing to match specialized diagnostic jobs with certified master mechanics.
 
 ### 💻 Software Development Intern — Infosys Springboard
 *Nov 2025 – Jan 2026*

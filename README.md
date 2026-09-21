@@ -123,6 +123,13 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 
 ## 💼 Industry Experience
 
+### 🚗 Enterprise Systems Intern — Pega Systems
+**Jul 2026 – Aug 2026**
+
+- Engineered **[Vehicle Service Management](https://github.com/Tharun4743/Vehicle-Service)** automotive case lifecycle automation platform on Pega Infinity '24.1 (Pega Next-Gen Innovators Program).
+- Built multi-stage case flows (`Intake` → `Diagnostic Inspection` → `Cost Estimation` → `Customer Approval SLA` → `Technician Repair` → `Automated Invoicing`).
+- Configured automated SLA Goal and Deadline escalation timers, declarative pricing rules, and skill-based work queue routing (`HeavyVehicleQueue` vs. `LightVehicleQueue`).
+
 ### 🚀 Full Stack Development Intern — Neura Global
 **Jun 2026 – Jul 2026**
 
@@ -130,12 +137,6 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 - Engineered high-concurrency RESTful APIs and real-time Socket.IO pipelines backed by Supabase (PostgreSQL 15).
 - Integrated Google Gemini AI for semantic resume scoring against recruiter requirements, generating skill-gap recommendations.
 - Optimized query execution plans and frontend bundle sizes, significantly improving page load performance.
-
-### 🚗 Enterprise Systems Intern — Pega Systems
-**Jan 2026 – Feb 2026**
-
-- Engineered **Vehicle Service Management** automotive case lifecycle automation platform on Pega Infinity '24.1.
-- Built multi-stage case flows, SLA escalation timers, and skill-based work queue routing.
 
 ### 💻 Software Development Intern — Infosys Springboard
 **Nov 2025 – Jan 2026**
