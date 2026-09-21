@@ -1,9 +1,9 @@
 <svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#0d110d" stroke="#00ff66" stroke-width="1.5" />
   
   <!-- Header -->
   <g transform="translate(24, 30)">
-    <text fill="#39d353" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">
+    <text fill="#00ff66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">
       ⚡ Recent GitHub Activity • @Tharun4743
     </text>
   </g>
@@ -15,7 +15,7 @@
           Published release v1.5.0 in <tspan fill="#ff79c6" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          2m ago
+          5m ago
         </text>
       </g>
       <g transform="translate(24, 76)">
@@ -24,7 +24,7 @@
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          19m ago
+          23m ago
         </text>
       </g>
       <g transform="translate(24, 102)">
@@ -33,7 +33,7 @@
           Published release v1.0 in <tspan fill="#ff79c6" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          23m ago
+          26m ago
         </text>
       </g>
       <g transform="translate(24, 128)">
@@ -42,7 +42,7 @@
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          25m ago
+          28m ago
         </text>
       </g>
       <g transform="translate(24, 154)">
@@ -51,7 +51,7 @@
           Published release v1.4.0 in <tspan fill="#ff79c6" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          26m ago
+          29m ago
         </text>
       </g>
 
