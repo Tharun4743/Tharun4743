@@ -10,6 +10,15 @@
 
   
       <g transform="translate(24, 50)">
+        <text x="0" y="12" font-size="12">🚀</text>
+        <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
+          Published release V1 in <tspan fill="#ff79c6" font-weight="600">github-profile-visualizer</tspan>
+        </text>
+        <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
+          2m ago
+        </text>
+      </g>
+      <g transform="translate(24, 76)">
         <text x="0" y="12" font-size="12">⚡</text>
         <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
@@ -18,7 +27,7 @@
           9h ago
         </text>
       </g>
-      <g transform="translate(24, 76)">
+      <g transform="translate(24, 102)">
         <text x="0" y="12" font-size="12">⚡</text>
         <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">github-profile-visualizer</tspan>
@@ -27,31 +36,22 @@
           6h ago
         </text>
       </g>
-      <g transform="translate(24, 102)">
+      <g transform="translate(24, 128)">
         <text x="0" y="12" font-size="12">⚡</text>
         <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
-        </text>
-        <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          6h ago
-        </text>
-      </g>
-      <g transform="translate(24, 128)">
-        <text x="0" y="12" font-size="12">📦</text>
-        <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
-          Created branch in <tspan fill="#50fa7b" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
           7h ago
         </text>
       </g>
       <g transform="translate(24, 154)">
-        <text x="0" y="12" font-size="12">⚡</text>
+        <text x="0" y="12" font-size="12">📦</text>
         <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
-          Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
+          Created branch in <tspan fill="#50fa7b" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          8h ago
+          7h ago
         </text>
       </g>
 
