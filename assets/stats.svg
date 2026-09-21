@@ -15,11 +15,7 @@
     </g>
     <g transform="translate(25, 25)">
       <text class="stat bold" x="25" y="12.5">Total Commits:</text>
-<<<<<<< Updated upstream
-      <text class="stat bold" x="224" y="12.5">2,854</text>
-=======
-      <text class="stat bold" x="224" y="12.5">2,855</text>
->>>>>>> Stashed changes
+      <text class="stat bold" x="224" y="12.5">2,856</text>
     </g>
     <g transform="translate(25, 50)">
       <text class="stat bold" x="25" y="12.5">Total PRs:</text>
