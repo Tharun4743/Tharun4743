@@ -164,6 +164,20 @@ Full-stack recruitment and placement governance platform built for Training & Pl
 
 ---
 
+## 🧊 3D Animated Contribution & Streak Calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Tharun4743's 3D Animated Contribution Calendar" />
+</picture>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics & Engineering Velocity
 
 <div align="center">
