@@ -31,14 +31,15 @@ jobs:
         with:
           node-version: 20
 
-      # 1. Generate Tharun's Custom 3D Contribution City & Visualizer Suite
+      # 1. Generate All Profile Visualizers (3D City, Achievements, Velocity Wave, Radar, Summary, Habits, Activity, Languages, LeetCode)
       - name: 🏙️ Generate Profile Visualizer Suite
         uses: Tharun4743/github-profile-visualizer@v1
         with:
           username: ${{ github.repository_owner }}
           visualizers: 'all'
           theme: 'cyberpunk'
-          output-dir: 'profile-3d-contrib'
+          leetcode-username: 'Tharunkumar__K'
+          output-dir: 'assets'
           filename: 'profile-3d-city.svg'
           generate-all: 'true'
 
