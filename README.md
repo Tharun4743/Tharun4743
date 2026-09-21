@@ -286,12 +286,12 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
   <tr>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/achievements.svg" width="100%" alt="Developer Achievements & Medals" />
+        <img src="assets/commit-velocity.svg" width="100%" alt="Commit Velocity Wave" />
       </a>
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/commit-velocity.svg" width="100%" alt="Commit Velocity Wave" />
+        <img src="assets/activity-timeline.svg" width="100%" alt="Live Recent Activity Stream" />
       </a>
     </td>
   </tr>
@@ -303,7 +303,7 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/coding-habits.svg" width="100%" alt="Productive Coding Habits" />
+        <img src="assets/achievements.svg" width="100%" alt="Developer Achievements & Medals" />
       </a>
     </td>
   </tr>
@@ -315,7 +315,7 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/activity-timeline.svg" width="100%" alt="Live Recent Activity Stream" />
+        <img src="assets/stats.svg" width="100%" alt="GitHub Core Analytics" />
       </a>
     </td>
   </tr>
@@ -328,13 +328,6 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
         <img src="assets/duolingo-card.svg" width="100%" alt="Duolingo Learning Streak Card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="middle">
-      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/stats.svg" width="100%" alt="GitHub Core Analytics" />
       </a>
     </td>
   </tr>
