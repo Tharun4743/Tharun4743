@@ -36,7 +36,7 @@ jobs:
         uses: Tharun4743/github-profile-visualizer@v1
         with:
           username: ${{ github.repository_owner }}
-          visualizers: '3d-city,activity,habits,languages,leetcode,duolingo,achievements,velocity,radar,summary'
+          visualizers: '3d-city,activity,languages,leetcode,duolingo,achievements,velocity,radar,summary'
           theme: 'random'
           leetcode-username: 'Tharunkumar__K'
           duolingo-username: 'Tharunkumar4743'
