@@ -248,7 +248,7 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 <table border="0" cellpadding="0" cellspacing="4" align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=Tharun4743&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Overall Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharun4743&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Overall Stats" />
     </td>
     <td align="center" width="50%" valign="middle">
       <img src="https://streak-stats.demolab.com/?user=Tharun4743&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
