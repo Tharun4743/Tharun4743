@@ -1,9 +1,9 @@
 <svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#2e3440" stroke="#4c566a" stroke-width="1.5" />
+  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#282a36" stroke="#6272a4" stroke-width="1.5" />
   
   <!-- Header -->
   <g transform="translate(24, 30)">
-    <text fill="#88c0d0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">
+    <text fill="#bd93f9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">
       ⚡ Recent GitHub Activity • @Tharun4743
     </text>
   </g>
@@ -15,7 +15,7 @@
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          6m ago
+          7m ago
         </text>
       </g>
       <g transform="translate(24, 76)">
@@ -24,7 +24,7 @@
           Published release v1.0 in <tspan fill="#ff79c6" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          9m ago
+          10m ago
         </text>
       </g>
       <g transform="translate(24, 102)">
@@ -33,7 +33,7 @@
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          11m ago
+          12m ago
         </text>
       </g>
       <g transform="translate(24, 128)">
@@ -42,7 +42,7 @@
           Published release v1.4.0 in <tspan fill="#ff79c6" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          12m ago
+          13m ago
         </text>
       </g>
       <g transform="translate(24, 154)">
@@ -51,7 +51,7 @@
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Java_Leetcode</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
-          36m ago
+          37m ago
         </text>
       </g>
 

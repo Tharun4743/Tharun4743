@@ -8,7 +8,7 @@
     }
     .card-border { animation: duoGlowPulse 6s ease-in-out infinite; }
   </style>
-  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#2e3440" stroke="#4c566a" stroke-width="1.5" class="card-border" />
+  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#282a36" stroke="#6272a4" stroke-width="1.5" class="card-border" />
 
   <!-- Header -->
   <g transform="translate(24, 30)">
