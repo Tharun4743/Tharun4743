@@ -8,11 +8,7 @@
     }
     .card-border { animation: liveThemePulse 7s ease-in-out infinite; }
   </style>
-<<<<<<< Updated upstream
-  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#282a36" stroke="#6272a4" stroke-width="1.5" class="card-border" />
-=======
   <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5" class="card-border" />
->>>>>>> Stashed changes
 
   <!-- Header -->
   <g transform="translate(24, 32)">
