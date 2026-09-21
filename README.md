@@ -23,7 +23,6 @@ I enjoy turning real-world problems into practical software using modern fronten
 
 - 🎓 **Education:** B.Tech Information Technology — VSB Engineering College
 - 💻 **Focus:** Full Stack Development, AI Applications, DSA & Backend Engineering
-- 🚀 **Building:** VSBEC IT Vault
 - 📚 **Currently learning:** Linux, System Design & Cloud
 - 🌐 **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
 
