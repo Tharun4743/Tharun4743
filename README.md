@@ -50,11 +50,11 @@ Role-based academic governance and technical assessment ecosystem engineered for
 
 * 👥 **Real-World Campus Adoption:** Actively adopted and used daily by **365+ enrolled students** at VSB Engineering College.
 * 🔐 **Isolated Compiler Sandbox:** Multi-language execution runtime (**C, C++, Java 17, Python 3**) with isolated child-process jails, execution timeout traps, and automated server-side hidden test case evaluation.
-* ⚡ **High-Performance Architecture:** PostgreSQL cluster with 35 relational tables, row-level security policies, and sub-0.01ms student lookups.
+* ⚡ **Relational Data Architecture:** Normalized PostgreSQL database with 13 relational schemas, foreign-key integrity constraints, and optimized indexed queries.
 * 📊 **Algorithmic Momentum Schedulers:** Automated nightly background daemons polling LeetCode GraphQL and GitHub REST APIs to track student solve velocity and streaks.
-* 🛡️ **3-Tier Audit FSM & Anti-Cheat:** Deterministic 3-tier approval chain (Coordinator → Advisor → HOD) with NAAC/NBA compliance audit trails, fullscreen lockdown, and PIP webcam assessment proctoring.
+* 🛡️ **3-Tier Audit FSM & Anti-Cheat:** Deterministic 3-tier approval chain (Coordinator → Advisor → HOD) with verifiable submission audit logs, fullscreen lockdown, and PIP webcam assessment proctoring.
 
-**Tech Stack:** React 19 · TypeScript 5.8 · Vite 6 · Tailwind CSS · Node.js 20+ · Express · PostgreSQL 14 (35 Tables) · Monaco Editor · Supabase · Cloudinary  
+**Tech Stack:** React 19 · TypeScript 5.8 · Vite 6 · Tailwind CSS · Node.js 20+ · Express · PostgreSQL 14 (13 Relational Tables) · Monaco Editor · Supabase · Cloudinary  
 🔗 [Live Production Demo](https://it-taskmanager.vercel.app/) · [GitHub Repository](https://github.com/Tharun4743/taskmanager)
 
 ---
@@ -67,7 +67,7 @@ High-performance in-browser collaborative engineering workspace unifying multi-u
 * 🏆 **Code Thugs 2K26 1st Place Winner:** Awarded 1st place in state-level hackathon for real-time systems engineering.
 * 🎙️ **Pure WebRTC Audio Mesh (Zero SDKs):** Custom peer-to-peer audio mesh handling SDP handshakes, ICE candidates, hardware echo cancellation, and Web Audio `AnalyserNode` Voice Activity Detection (VAD) without paid 3rd-party SDK dependencies.
 * ⚡ **Sub-Pixel Operational Diff Streaming:** Socket.IO pipeline streaming operational transformations, remote colored carets, and live user selection across a native Monaco (VS Code kernel) editor.
-* 🚀 **Instant <2s Workspace Provisioning:** Dual-persistence engine on PostgreSQL 16 with in-memory fallback cache spinning up collaborative rooms in under 2 seconds (versus 30s+ heavy virtual machines).
+* 🚀 **Instant <2s Workspace Provisioning:** Dual-persistence architecture utilizing in-memory room state with PostgreSQL persistence, spinning up active collaborative workspaces in under 2 seconds.
 * ⚙️ **13+ Language Sandboxed Execution:** Multi-language code runner supporting JavaScript, TypeScript, Python, Java, C++, Go, and Rust via Piston API v2.
 
 **Tech Stack:** React 19.2 · TypeScript · Node.js · Express · Socket.IO 4.8 · Pure WebRTC · Monaco Editor · PostgreSQL 16 · Piston API  
@@ -83,7 +83,7 @@ Full-stack recruitment workflow engine and placement governance platform built f
 * 📈 **Live 5-State WebSocket Recruitment Funnel:** Bi-directional Socket.IO pipeline (Applied → Shortlisted → Technical Rounds → Interviewing → Offered) eliminating manual email lag and status confusion.
 * 🧠 **Google Gemini AI Resume Intelligence:** Semantic analysis engine parsing student resumes against recruiter job specifications, computing fit scorecards and actionable skill-gap recommendations.
 * 🚪 **Automated Database Guardrails:** Database-enforced CGPA and active backlog eligibility gating, eliminating manual eligibility verification errors.
-* 📦 **Cloud Document Vault & Resilient Mail:** Cloudinary CDN integration for secure academic transcripts and a multi-provider transactional email pool with automatic SMTP failover.
+* 📦 **Cloud Document Vault & Transactional Email:** Cloudinary CDN integration for secure academic transcripts and multi-provider transactional email delivery supporting Nodemailer SMTP, SendGrid, and Resend.
 
 **Tech Stack:** React 19 · Vite 6.2 · TypeScript · Node.js 20+ · Express · Socket.IO · Supabase (PostgreSQL 15) · Google Gemini AI · Cloudinary CDN  
 🔗 [Live Production Demo](https://campusconnect-yg4h.onrender.com) · [GitHub Repository](https://github.com/Tharun4743/CampusConnect)

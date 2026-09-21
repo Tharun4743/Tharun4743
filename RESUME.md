@@ -62,7 +62,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * Deployed in production and actively adopted by **365+ enrolled students** at VSB Engineering College.
 * Engineered an isolated multi-language compiler sandbox (**C, C++, Java 17, Python 3**) with memory caps and 4-second timeout traps.
 * Automated nightly LeetCode GraphQL and GitHub REST telemetry syncing to measure daily student algorithmic velocity and commit streaks.
-* Built a 3-tier hierarchical verification pipeline (Coordinator → Advisor → HOD) with PIP webcam anti-cheat proctoring and sub-0.01ms directory caching.
+* Built a 3-tier hierarchical verification pipeline (Coordinator → Advisor → HOD) with PIP webcam anti-cheat proctoring and high-concurrency directory caching.
 
 ### ⚡ [GOAT Code Editor (GOAT-CE)](https://github.com/Tharun4743/GOAT-CE) | *React 19.2, TypeScript, WebRTC, Socket.IO, Piston API*
 * **1st Place National Winner at Code Thugs 2K26** • [Live Production App](https://goatcode-editor.onrender.com)
