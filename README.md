@@ -43,8 +43,11 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 
 *Selected projects demonstrating full-stack engineering, real-world adoption, and measurable architectural impact.*
 
-### ⚡ [GitHub Profile Visualizer](https://github.com/Tharun4743/github-profile-visualizer)
+### ⚡ [GitHub Profile Visualizer](https://github.com/marketplace/actions/github-profile-visualizer)
 **All-in-One Multi-Platform Developer Activity & 3D Isometric Telemetry Suite (GitHub Action & CLI)**
+
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-GitHub%20Profile%20Visualizer-purple?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/github-profile-visualizer)
+[![Version: v1](https://img.shields.io/badge/Release-v1.3.1-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/github-profile-visualizer/releases)
 
 Next-generation developer telemetry visualizer generating dynamic 3D isometric city skylines, real-time activity streams, executive velocity banners, and multi-metric coding competency cards for GitHub profiles.
 
@@ -54,7 +57,7 @@ Next-generation developer telemetry visualizer generating dynamic 3D isometric c
 * 📐 **Pure SVG Mathematical Projection Engine:** Zero headless-browser dependencies (no Puppeteer/Playwright overhead); renders 365 days of contribution depth using deterministic isometric math (`isoX = (x - y) * cos(30°)`, `isoY = (x + y) * sin(30°) - height`) compiled into an ultra-fast Node.js bundle.
 
 **Tech Stack:** Node.js 20+ · SVG Vector Math Engine · GitHub GraphQL & REST APIs · LeetCode Public GraphQL · @vercel/ncc  
-🔗 [GitHub Repository](https://github.com/Tharun4743/github-profile-visualizer) · [Releases & Changelog](https://github.com/Tharun4743/github-profile-visualizer/releases)
+🔗 [GitHub Marketplace Listing](https://github.com/marketplace/actions/github-profile-visualizer) · [Source Repository](https://github.com/Tharun4743/github-profile-visualizer) · [Releases & Changelog](https://github.com/Tharun4743/github-profile-visualizer/releases)
 
 ---
 
@@ -265,25 +268,16 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 <div align="center">
 
 <!-- Executive Summary Banner -->
-<a href="https://github.com/Tharun4743/github-profile-visualizer">
+<a href="https://github.com/marketplace/actions/github-profile-visualizer">
   <img src="assets/executive-summary.svg" width="100%" alt="Executive Velocity Summary" />
 </a>
 
 <br/><br/>
 
 <!-- 3D Contribution City Skyline -->
-<a href="https://github.com/Tharun4743/github-profile-visualizer">
+<a href="https://github.com/marketplace/actions/github-profile-visualizer">
   <img src="assets/profile-3d-city.svg" width="100%" alt="Tharun4743's 3D Contribution City" />
 </a>
-
-<br/><br/>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
-  <img alt="Tharun4743's Contribution Snake Animation" src="assets/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 <br/><br/>
 
@@ -291,42 +285,56 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 <table border="0" cellpadding="0" cellspacing="4" align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="middle">
-      <img src="assets/achievements.svg" width="100%" alt="Developer Achievements & Medals" />
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/achievements.svg" width="100%" alt="Developer Achievements & Medals" />
+      </a>
     </td>
     <td align="center" width="50%" valign="middle">
-      <img src="assets/commit-velocity.svg" width="100%" alt="Commit Velocity Wave" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="middle">
-      <img src="assets/skills-radar.svg" width="100%" alt="Engineering Competency Radar" />
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <img src="assets/coding-habits.svg" width="100%" alt="Productive Coding Habits" />
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/commit-velocity.svg" width="100%" alt="Commit Velocity Wave" />
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="middle">
-      <img src="assets/languages-matrix.svg" width="100%" alt="Most Used Languages Matrix" />
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/skills-radar.svg" width="100%" alt="Engineering Competency Radar" />
+      </a>
     </td>
     <td align="center" width="50%" valign="middle">
-      <img src="assets/activity-timeline.svg" width="100%" alt="Live Recent Activity Stream" />
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/coding-habits.svg" width="100%" alt="Productive Coding Habits" />
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="middle">
-      <img src="assets/leetcode-card.svg" width="100%" alt="LeetCode Problem Solving Card" />
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/languages-matrix.svg" width="100%" alt="Most Used Languages Matrix" />
+      </a>
     </td>
     <td align="center" width="50%" valign="middle">
-      <a href="https://leetcode.com/u/Tharunkumar__K/">
-        <img src="https://leetcard.jacoblin.cool/Tharunkumar__K?ext=heatmap&theme=tokyonight" width="100%" alt="LeetCode Calendar & Streak" />
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/activity-timeline.svg" width="100%" alt="Live Recent Activity Stream" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/leetcode-card.svg" width="100%" alt="LeetCode Problem Solving Card" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/stats.svg" width="100%" alt="GitHub Core Analytics" />
       </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>⚡ Visualizers dynamically generated and synced every 6 hours via <a href="https://github.com/Tharun4743/github-profile-visualizer"><b>GitHub Profile Visualizer</b></a> by <a href="https://github.com/Tharun4743"><b>@Tharun4743</b></a></sub>
+  <sub>⚡ 100% Self-Contained Telemetry powered by <a href="https://github.com/marketplace/actions/github-profile-visualizer"><b>GitHub Profile Visualizer</b></a> by <a href="https://github.com/Tharun4743"><b>@Tharun4743</b></a></sub>
 </p>
 
 </div>

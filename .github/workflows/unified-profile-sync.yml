@@ -31,7 +31,7 @@ jobs:
         with:
           node-version: 20
 
-      # 1. Generate All Profile Visualizers (3D City, Achievements, Velocity Wave, Radar, Summary, Habits, Activity, Languages, LeetCode)
+      # 1. Generate Complete Profile Visualizer Suite (Official Marketplace Action)
       - name: 🏙️ Generate Profile Visualizer Suite
         uses: Tharun4743/github-profile-visualizer@v1
         with:
@@ -44,39 +44,23 @@ jobs:
           filename: 'profile-3d-city.svg'
           generate-all: 'true'
 
-      # 2. Generate 3D Animated Contribution Calendar
-      - name: 🧊 Generate 3D Contribution Calendar
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      # 3. Generate Retro Snake Contribution Game
-      - name: 🐍 Generate Snake Game SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/github-contribution-grid-snake.svg
-            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # 4. Generate Multi-Platform GitHub Telemetry
+      # 2. Generate Multi-Platform GitHub Telemetry
       - name: 📊 Generate Multi-Platform Telemetry
         run: node scripts/generate-telemetry.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
 
-      # 5. Single Atomic Commit & Push
+      # 3. Single Atomic Commit & Push
       - name: 🚀 Commit & Push All Visualizers
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/ assets/
+          git add assets/
           if git diff --cached --quiet; then
             echo "No visualizer changes detected."
           else
-            git commit -m "chore(telemetry): unified multi-platform visualizer sync [skip ci]"
+            git commit -m "chore(telemetry): sync profile visualizers via marketplace action [skip ci]"
             git pull --rebase origin main
             git push
           fi
