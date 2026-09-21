@@ -47,12 +47,12 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 **All-in-One Multi-Platform Developer Activity & 3D Isometric Telemetry Suite (GitHub Action & CLI)**
 
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-GitHub%20Profile%20Visualizer-purple?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/github-profile-visualizer)
-[![Version: v1](https://img.shields.io/badge/Release-v1.3.1-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/github-profile-visualizer/releases)
+[![Version: v1](https://img.shields.io/badge/Release-v1.4.0-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/github-profile-visualizer/releases)
 
 Next-generation developer telemetry visualizer generating dynamic 3D isometric city skylines, real-time activity streams, executive velocity banners, and multi-metric coding competency cards for GitHub profiles.
 
 * 🚀 **GitHub Marketplace Action:** Published, reusable CI/CD Action (`uses: Tharun4743/github-profile-visualizer@v1`) powering dynamic profile automation across developer communities.
-* 🏙️ **9-in-1 Complete Visualizer Suite:** Generates 3D Contribution City, Executive Summary Banner, Developer Achievements & Medals, Commit Velocity Wave, Engineering Competency Radar, Productive Coding Habits, Language Matrix, Live Event Timeline, and LeetCode Telemetry in a single execution pass.
+* 🏙️ **12-in-1 Complete Visualizer Suite:** Generates 3D Contribution City, Executive Summary Banner, Developer Achievements & Medals, Commit Velocity Wave, Engineering Competency Radar, Productive Coding Habits, Language Matrix, Live Event Timeline, LeetCode, GeeksforGeeks, HackerRank, and Duolingo Telemetry in a single execution pass.
 * 🎨 **Universal Theming & Glassmorphism:** 10 curated color themes (Cyberpunk, Tokyo Night, Dracula, Nord, Matrix, Synthwave, Monokai, Sunset, Emerald, GitHub Dark), user-defined 5-color palettes, configurable border radius, and transparent glassmorphism rendering.
 * 📐 **Pure SVG Mathematical Projection Engine:** Zero headless-browser dependencies (no Puppeteer/Playwright overhead); renders 365 days of contribution depth using deterministic isometric math (`isoX = (x - y) * cos(30°)`, `isoY = (x + y) * sin(30°) - height`) compiled into an ultra-fast Node.js bundle.
 
@@ -257,6 +257,8 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharunkumar_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunkumark4743)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Tharunkumar__K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharunkumar__K/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-tharunkumark4743-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tharunkumark4743)
+[![HackerRank](https://img.shields.io/badge/HackerRank-tharunkumark4743-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/tharunkumark4743)
+[![Duolingo](https://img.shields.io/badge/Duolingo-Tharunkumar4743-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/Tharunkumar4743)
 [![GitHub](https://img.shields.io/badge/GitHub-Tharun4743-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743)
 
 </div>
@@ -327,6 +329,25 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/gfg-card.svg" width="100%" alt="GeeksforGeeks Telemetry Card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/hackerrank-card.svg" width="100%" alt="HackerRank Achievements Card" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/duolingo-card.svg" width="100%" alt="Duolingo Learning Streak Card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="middle">
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
         <img src="assets/stats.svg" width="100%" alt="GitHub Core Analytics" />
       </a>
     </td>
@@ -350,6 +371,8 @@ I'm open to software engineering opportunities, technical collaborations, and in
 - 💻 **GitHub:** [Tharun4743](https://github.com/Tharun4743)
 - 🧩 **LeetCode:** [Tharunkumar__K](https://leetcode.com/u/Tharunkumar__K/)
 - 🎓 **GeeksforGeeks:** [tharunkumark4743](https://www.geeksforgeeks.org/profile/tharunkumark4743)
+- 🎖️ **HackerRank:** [tharunkumark4743](https://www.hackerrank.com/profile/tharunkumark4743)
+- 🦉 **Duolingo:** [Tharunkumar4743](https://www.duolingo.com/profile/Tharunkumar4743)
 - 🌐 **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
 
 <br/>
