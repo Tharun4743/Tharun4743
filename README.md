@@ -9,8 +9,6 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/Tharun4743"><img src="https://komarev.com/ghpvc/?username=Tharun4743&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-  <img src="https://img.shields.io/badge/Placement_Status-Actively_Interviewing-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Degree-B.Tech_IT_%7C_CGPA_8.5-6366f1?style=for-the-badge&logo=googleacademic&logoColor=white" alt="Education" />
   <img src="https://img.shields.io/badge/Location-Tamil_Nadu%2C_India-ff4757?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
@@ -29,13 +27,14 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 
 ---
 
-## 🏆 Hackathon & Competitive Honors
+## 🏆 Achievements
 
-- 🥇 **Code Thugs 2K26** — 1st Place / National Winner *(State-level Hackathon with Cash Prize for Zero-SDK WebRTC Collaborative IDE)*
+- 🥇 **Code Thugs 2K26** — 1st Place / National Winner
 - 🇮🇳 **India Innovates 2026** — National Finalist
-- 🏆 **Odoo × NMIT Bangalore Hackathon 2026** — National On-site Finalist
-- 🚀 **Smart India Hackathon 2025 & 2026** — Top 50 Internal *(Dual Official SIH National Portal Nominee out of 300+ Campus Teams)*
-- 👨‍💻 **IT Department Student Coordinator** — VSB Engineering College *(Mentoring 15+ student teams on national engineering tracks)*
+- 🏆 **Odoo × NMIT 2026** — National Finalist
+- 🚀 **Smart India Hackathon** — National Finalist
+- 🌟 **SIH 2025 & 2026 Top 50**
+- 👨‍💻 **IT Department Student Coordinator** — VSB Engineering College
 - 🎓 **GeeksforGeeks Campus Mantri** — 2026
 
 ---
@@ -158,7 +157,7 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 `Node.js 20+` · `Express.js` · `RESTful APIs` · `Socket.IO` · `Spring Boot` · `Prisma`
 
 ### Databases & Storage
-`PostgreSQL 14/15/16` · `Supabase` · `Neon Serverless` · `MongoDB` · `MySQL` · `SQLite` · `ChromaDB`
+`PostgreSQL 14/15/16` · `Supabase` · `Neon Serverless` · `MongoDB` · `MySQL` · `SQLite`
 
 ### AI & Developer Tools
 `Google Gemini AI SDK` · `Ollama` · `ChromaDB` · `Judge0 Compiler` · `Piston API`
@@ -259,3 +258,11 @@ I'm open to software engineering opportunities, technical collaborations, and in
 - 🧩 **LeetCode:** [Tharunkumar__K](https://leetcode.com/u/Tharunkumar__K/)
 - 🎓 **GeeksforGeeks:** [tharunkumark4743](https://www.geeksforgeeks.org/profile/tharunkumark4743)
 - 🌐 **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
+
+<br/>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Tharun4743&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Tharun4743)
+
+</div>
