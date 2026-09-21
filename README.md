@@ -241,7 +241,11 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Tharun4743's 3D Animated Contribution Calendar" />
+<img src="assets/executive-summary.svg" width="100%" alt="Executive Velocity Summary" />
+
+<br/><br/>
+
+<img src="assets/profile-3d-city.svg" width="100%" alt="Tharun4743's 3D Contribution City" />
 
 <br/><br/>
 
@@ -256,15 +260,23 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 <table border="0" cellpadding="0" cellspacing="4" align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharun4743&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Overall Stats" />
+      <img src="assets/achievements.svg" width="100%" alt="Developer Achievements" />
     </td>
     <td align="center" width="50%" valign="middle">
-      <img src="https://streak-stats.demolab.com/?user=Tharun4743&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+      <img src="assets/commit-velocity.svg" width="100%" alt="Commit Velocity Wave" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="middle">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tharun4743&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages Breakdown" />
+      <img src="assets/skills-radar.svg" width="100%" alt="Engineering Competency Radar" />
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <img src="assets/coding-habits.svg" width="100%" alt="Productive Coding Habits" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img src="assets/activity-timeline.svg" width="100%" alt="Recent Activity Stream" />
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://leetcode.com/u/Tharunkumar__K/">
