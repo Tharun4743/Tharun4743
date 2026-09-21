@@ -31,11 +31,12 @@ jobs:
         with:
           node-version: 20
 
-      # 1. Generate Tharun's Custom 3D Contribution City
-      - name: 🏙️ Generate 3D Contribution City
-        uses: Tharun4743/github-profile-3d-city@v1
+      # 1. Generate Tharun's Custom 3D Contribution City & Visualizer Suite
+      - name: 🏙️ Generate Profile Visualizer Suite
+        uses: Tharun4743/github-profile-visualizer@v1
         with:
           username: ${{ github.repository_owner }}
+          visualizers: 'all'
           theme: 'cyberpunk'
           output-dir: 'profile-3d-contrib'
           filename: 'profile-3d-city.svg'
