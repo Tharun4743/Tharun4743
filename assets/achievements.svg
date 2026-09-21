@@ -1,9 +1,9 @@
 <svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#261435" stroke="#fe4450" stroke-width="1.5" />
+  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#2e3440" stroke="#4c566a" stroke-width="1.5" />
   
   <!-- Header -->
   <g transform="translate(24, 32)">
-    <text fill="#f92aad" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">
+    <text fill="#88c0d0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">
       🏆 Developer Achievements &amp; Medals • @Tharun4743
     </text>
   </g>
