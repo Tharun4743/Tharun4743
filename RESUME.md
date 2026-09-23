@@ -114,7 +114,6 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * 🤝 **[CampusLink](https://github.com/Tharun4743/Campuslink)**: University peer-learning network facilitating cross-year mentorship, lab archive sharing, and hackathon team matching.
 * 📄 **[TK Office (TK Suite)](https://github.com/Tharun4743/TK-Office)** *(Personal Daily-Driver Productivity Suite)*: 100% air-gapped, zero-telemetry offline Android office and PDF document tool engineered in Flutter/Dart for personal daily document signing, PDF manipulation, and text processing without cloud dependencies or subscriptions.
 * ☕ **[Java LeetCode Enterprise Suite](https://github.com/Tharun4743/Java_Leetcode)**: 150+ rigorously tested algorithmic implementations in Java 17 with 100% JUnit 5 coverage and time/space complexity proofs.
-* 📊 **[LeetCode Progress Daemon](https://github.com/Tharun4743/Leetcode_progress)**: Continuous integration daemon syncing LeetCode GraphQL metrics nightly to generate dynamic SVG streak telemetry.
 
 ---
 
