@@ -113,12 +113,20 @@ function renderStatsSvg(gh) {
 }
 
 async function main() {
-  console.log('⚡ Running Unified Telemetry Generator...');
+  console.log('⚡ Running Unified Telemetry & Snake Generator...');
   const gh = await fetchGitHubStats();
   const statsSvg = renderStatsSvg(gh);
   fs.writeFileSync(path.join(assetsDir, 'stats.svg'), statsSvg, 'utf8');
   console.log('✅ Generated assets/stats.svg');
+
+  try {
+    require('./generate-snake');
+  } catch (err) {
+    console.warn('⚠️ Snake generation notice:', err.message);
+  }
+
   console.log('🎉 Unified telemetry generation complete!');
 }
 
 main().catch(console.error);
+
