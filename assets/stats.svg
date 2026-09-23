@@ -15,7 +15,7 @@
     </g>
     <g transform="translate(25, 25)">
       <text class="stat bold" x="25" y="12.5">Total Commits:</text>
-      <text class="stat bold" x="224" y="12.5">2,928</text>
+      <text class="stat bold" x="224" y="12.5">2,934</text>
     </g>
     <g transform="translate(25, 50)">
       <text class="stat bold" x="25" y="12.5">Total PRs:</text>
@@ -27,7 +27,7 @@
     </g>
     <g transform="translate(25, 100)">
       <text class="stat bold" x="25" y="12.5">Contributed to (last year):</text>
-      <text class="stat bold" x="224" y="12.5">29</text>
+      <text class="stat bold" x="224" y="12.5">28</text>
     </g>
   </g>
   <a href="https://github.com/Tharun4743/github-profile-visualizer" target="_blank">
