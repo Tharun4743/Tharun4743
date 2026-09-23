@@ -122,11 +122,6 @@
   39.29%, 100% { fill: var(--c0); }
 }
 .c_23_1 { animation: c_23_1 28000ms linear infinite; }
-@keyframes c_24_0 {
-  0%, 39.72% { fill: var(--c2); }
-  39.77%, 100% { fill: var(--c0); }
-}
-.c_24_0 { animation: c_24_0 28000ms linear infinite; }
 @keyframes c_24_1 {
   0%, 39.95% { fill: var(--c2); }
   40.00%, 100% { fill: var(--c0); }
@@ -2899,7 +2894,7 @@
 <rect class="cell" x="368" y="64" width="12" height="12" rx="2" ry="2" fill="var(--c0)" />
 <rect class="cell" x="368" y="80" width="12" height="12" rx="2" ry="2" fill="var(--c0)" />
 <rect class="cell" x="368" y="96" width="12" height="12" rx="2" ry="2" fill="var(--c0)" />
-<rect class="cell c_24_0" x="384" y="0" width="12" height="12" rx="2" ry="2" fill="var(--c2)" />
+<rect class="cell" x="384" y="0" width="12" height="12" rx="2" ry="2" fill="var(--c0)" />
 <rect class="cell c_24_1" x="384" y="16" width="12" height="12" rx="2" ry="2" fill="var(--c2)" />
 <rect class="cell" x="384" y="32" width="12" height="12" rx="2" ry="2" fill="var(--c0)" />
 <rect class="cell" x="384" y="48" width="12" height="12" rx="2" ry="2" fill="var(--c0)" />
