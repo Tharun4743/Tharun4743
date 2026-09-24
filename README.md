@@ -30,8 +30,8 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 ## 🏆 Achievements
 
 - 🥇 **Code Thugs 2K26** — 1st Place / National Winner
+- 🏆 **Odoo × NMIT Bangalore Hackathon 2026** — National Finalist (Grand Finale at NMIT Bengaluru, Oct 10–11)
 - 🇮🇳 **India Innovates 2026** — National Finalist
-- 🏆 **Odoo × NMIT 2026** — National Finalist
 - 🚀 **Smart India Hackathon** — National Finalist
 - 🌟 **SIH 2025 & 2026 Top 50**
 - 👨‍💻 **IT Department Student Coordinator** — VSB Engineering College
@@ -136,6 +136,51 @@ Embedded vehicle safety platform engineered to proactively eliminate motorcycle 
 
 **Tech Stack:** Arduino Core (C/C++) · RF 433MHz Telemetry · MQ-3 Alcohol Sensor · Optical IR Sensors · Relay Control Modules  
 🔗 [GitHub Repository](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-) · [Project Dossier](https://drive.google.com/drive/folders/1kYhyoOx9-Tr4WyOJkmUz7K4PDDpmaHEr?usp=drive_link)
+
+---
+
+### 🏢 [Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS)
+**Enterprise Workforce Operations, Automated Payroll & Compliance Management Platform**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-worksuite--hrms.onrender.com-000000?style=for-the-badge&logo=render&logoColor=white)](https://worksuite-hrms.onrender.com)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Tharun4743%2FWorkSuite--HRMS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/WorkSuite-HRMS)
+[![National Finalist](https://img.shields.io/badge/Odoo_×_NMIT_2026-National_Finalist-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://hackathon.odoo.com)
+
+Production-grade Human Resource Management System engineered for enterprise workforce governance, compliance tracking, and automated employee lifecycles.
+
+* 🏆 **Odoo × NMIT Bangalore Hackathon 2026 National Finalist:** Selected nationwide for the 24-hour on-campus Grand Finale at Nitte Meenakshi Institute of Technology (NMIT), Bengaluru on October 10–11, 2026 after qualifying the virtual preliminary coding challenge.
+* 👥 **Lead Architect & Modular Branching:** Directed a 4-person engineering team (`ADMIN` role) implementing modular Git feature-branch workflows across payroll, attendance, and leave management domains.
+* 🔐 **Two-Level Auth & Granular RBAC:** Built robust role-based access control isolating Admin, HR Operations, and Employee portals with strict permission guardrails.
+* 💰 **Automated Payroll & Shift Analytics:** Automated payroll calculations, statutory deduction ledgers, real-time attendance tracking, and financial analytics.
+* 📬 **Cloud Infrastructure & Transactional Messaging:** Deployed on Render Cloud with Supabase (PostgreSQL 15), Cloudinary CDN for verified document storage, and Brevo HTTPS transactional email gateway.
+
+**Tech Stack:** React 19 · TypeScript 5 · Node.js · Express 5 · PostgreSQL (Supabase) · Tailwind CSS v4 · Cloudinary · Brevo API · Render  
+🔗 [Live Production Demo](https://worksuite-hrms.onrender.com) · [GitHub Repository](https://github.com/Tharun4743/WorkSuite-HRMS)
+
+---
+
+## 📦 Additional Enterprise & Applied Engineering Systems
+
+<details open>
+<summary><b>Expand Portfolio of 14+ Specialized Engineering & Applied Systems Repositories</b></summary>
+<br/>
+
+* 🚗 **[Vehicle Service Management](https://github.com/Tharun4743/Vehicle-Service)** *(Pega Enterprise Architecture)*: Automotive case lifecycle management platform engineered on Pega Infinity '24.1, featuring automated SLA escalation timers, skill-based technician work queues, and declarative pricing logic.
+* 🎬 **[Encodr Lite](https://github.com/Tharun4743/encodr-lite-take-home)** *(Mactores Technical Assessment)*: Strictly typed Next.js 19 media transcoding and BullMQ / FFmpeg job queue orchestration dashboard with zero runtime type errors.
+* 🛡️ **[Mailtrace AI](https://github.com/Tharun4743/Mailtrace-ai)**: Email forensics platform validating SPF/DKIM/DMARC authentication headers with Hugging Face transformer intent classification to neutralize zero-day spear phishing.
+* 💳 **[MuleGuard](https://github.com/Tharun4743/Muleguard)**: Financial crime detection engine using Neo4j and D3.js graph topologies to identify money mule smurfing rings via velocity heuristics.
+* 🔍 **[RiskLens AI](https://github.com/Tharun4743/RiskLens-AI)**: Quantitative banking risk platform executing FinBERT NLP sentiment extraction over SEC 10-K regulatory filings paired with Monte Carlo VaR models.
+* 🚀 **[DevPilot](https://github.com/Tharun4743/Dev-Pilot)**: Ultra-fast in-browser IDE sandbox featuring Monaco Editor, Piston API compiler backend, and Groq LPU Big-O complexity audits.
+* ⚡ **[TharunSpeed](https://github.com/Tharun4743/TharunSpeed)**: Ad-free, ultra-lightweight client bandwidth telemetry testing engine measuring latency, jitter, and bufferbloat at 60 FPS.
+* 🚌 **[VSBEC Transit Attendance](https://github.com/Tharun4743/bus-attendance)**: Real-time college bus telemetry and student RFID/QR check-in system with instant automated parent notifications.
+* 🇮🇳 **[SIH25231 AgriTech](https://github.com/Tharun4743/SIH25231)**: Smart India Hackathon agricultural decision-support engine providing crop disease computer vision audits and mandi price predictions.
+* 🏛️ **[Public CRM](https://github.com/Tharun4743/Public-CRM)**: Citizen grievance redressal portal with automated SLA tracking, geo-tagging, and multi-tier administrative escalation workflows.
+* 🏢 **[Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS)**: Odoo × NMIT 2026 National Finalist workforce operations suite featuring two-level RBAC, automated payroll tax calculations, and leave request state machines.
+* 🤝 **[CampusLink](https://github.com/Tharun4743/Campuslink)**: University peer-learning network facilitating cross-year mentorship, lab archive sharing, and hackathon team matching.
+* 📄 **[TK Office (TK Suite)](https://github.com/Tharun4743/TK-Office)** *(Offline Daily-Driver Tool)*: 100% air-gapped, zero-telemetry offline Android office and PDF document tool engineered in Flutter/Dart for personal document signing and text processing without cloud dependencies.
+* ☕ **[Java LeetCode Enterprise Suite](https://github.com/Tharun4743/Java_Leetcode)**: 150+ rigorously tested algorithmic implementations in Java 17 with 100% JUnit 5 test coverage and formal time/space complexity proofs.
+
+</details>
 
 ---
 
