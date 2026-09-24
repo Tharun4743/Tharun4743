@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Professional Summary
-High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven experience architecting and deploying real-world software actively used daily by **365+ enrolled students**. Two-time **Smart India Hackathon (SIH 2026 & SIH 2025) Top 50 Finalist** (Official Central SIH Portal Nominee) and **1st Place National Winner at Code Thugs 2K26**. Expert across React 19, Next.js 15, Node.js, Express, TypeScript, isolated compiler execution sandboxes, WebRTC/SSE streaming, embedded Arduino/RF 433MHz systems, and enterprise Pega low-code case lifecycles. Maintainer of an interconnected ecosystem of 25 standardized engineering repositories spanning institutional governance, collaborative cloud IDEs, cyber-physical safety, and applied AI.
+High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven experience architecting and deploying real-world software actively used daily by **365+ enrolled students**. **National Finalist at Odoo × NMIT Bangalore Hackathon 2026** (selected for 24-hour on-campus Grand Finale at NMIT Bangalore), two-time **Smart India Hackathon (SIH 2026 & SIH 2025) Top 50 Finalist** (Official Central SIH Portal Nominee), and **1st Place National Winner at Code Thugs 2K26**. Expert across React 19, Next.js 15, Node.js, Express, TypeScript, isolated compiler execution sandboxes, WebRTC/SSE streaming, embedded Arduino/RF 433MHz systems, and enterprise Pega low-code case lifecycles. Maintainer of an interconnected ecosystem of 25 standardized engineering repositories spanning institutional governance, collaborative cloud IDEs, cyber-physical safety, and applied AI.
 
 ---
 
@@ -110,7 +110,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * 🚌 **[VSBEC Transit Attendance](https://github.com/Tharun4743/bus-attendance)**: Real-time college bus telemetry and student RFID/QR check-in system with instant parent notifications.
 * 🇮🇳 **[SIH25231 AgriTech](https://github.com/Tharun4743/SIH25231)**: Smart India Hackathon agricultural decision-support engine providing crop disease vision audits and mandi price predictions.
 * 🏛️ **[Public CRM](https://github.com/Tharun4743/Public-CRM)**: Citizen grievance redressal portal with automated SLA tracking, geo-tagging, and administrative escalation workflows.
-* 🏢 **[Work Suite HRMS](https://github.com/Tharun4743/odoohackathon)**: Enterprise employee management portal handling automated payroll tax calculations, role permissions, and leave lifecycles.
+* 🏢 **[Work Suite HRMS (WorkSuite-HRMS)](https://github.com/Tharun4743/WorkSuite-HRMS)**: National Finalist entry for the Odoo × NMIT Bangalore Hackathon 2026. Enterprise workforce operations suite featuring two-level RBAC (Admin, HR, Employee), automated payroll tax calculations, biometric attendance tracking, and leave request state machines. [Live Demo](https://worksuite-hrms.onrender.com)
 * 🤝 **[CampusLink](https://github.com/Tharun4743/Campuslink)**: University peer-learning network facilitating cross-year mentorship, lab archive sharing, and hackathon team matching.
 * 📄 **[TK Office (TK Suite)](https://github.com/Tharun4743/TK-Office)** *(Personal Daily-Driver Productivity Suite)*: 100% air-gapped, zero-telemetry offline Android office and PDF document tool engineered in Flutter/Dart for personal daily document signing, PDF manipulation, and text processing without cloud dependencies or subscriptions.
 * ☕ **[Java LeetCode Enterprise Suite](https://github.com/Tharun4743/Java_Leetcode)**: 150+ rigorously tested algorithmic implementations in Java 17 with 100% JUnit 5 coverage and time/space complexity proofs.
@@ -119,6 +119,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 
 ## 🏆 Honors, Awards & Academic Leadership
 * 🥇 **1st Place National Winner** — *Code Thugs 2K26* (National Hackathon Winner for GOAT Collaborative IDE; ₹5,000 cash prize)
+* 🏆 **National Finalist** — *Odoo × NMIT Bangalore Hackathon 2026* (Selected for the 24-hour on-campus Grand Finale at NMIT Bangalore on Oct 10–11, 2026 by Odoo India after clearing the 8-hour virtual preliminary challenge; Lead Architect for [Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS))
 * 🚀 **Top 50 / 300+ Teams** — *Smart India Hackathon 2026* (Official Central SIH Portal Nominee for VSBEC IT Vault)
 * ⛑️ **Top 50 / 300+ Teams** — *Smart India Hackathon 2025* (Official Central SIH Portal Nominee for Smart Helmet IoT System)
 * 🔬 **National Finalist** — *India Innovates 2026* (National Innovation Showcase)
