@@ -588,7 +588,7 @@
 }
 .c_52_3 { animation: c_52_3 28000ms linear infinite; }
 @keyframes c_52_4 {
-  0%, 87.00% { fill: var(--c2); }
+  0%, 87.00% { fill: var(--c3); }
   87.05%, 100% { fill: var(--c0); }
 }
 .c_52_4 { animation: c_52_4 28000ms linear infinite; }
@@ -3099,7 +3099,7 @@
 <rect class="cell c_52_1" x="832" y="16" width="12" height="12" rx="2" ry="2" fill="var(--c4)" />
 <rect class="cell c_52_2" x="832" y="32" width="12" height="12" rx="2" ry="2" fill="var(--c4)" />
 <rect class="cell c_52_3" x="832" y="48" width="12" height="12" rx="2" ry="2" fill="var(--c4)" />
-<rect class="cell c_52_4" x="832" y="64" width="12" height="12" rx="2" ry="2" fill="var(--c2)" />
+<rect class="cell c_52_4" x="832" y="64" width="12" height="12" rx="2" ry="2" fill="var(--c3)" />
 <rect class="cell" x="832" y="80" width="12" height="12" rx="2" ry="2" fill="var(--c0)" />
 <rect class="cell" x="832" y="96" width="12" height="12" rx="2" ry="2" fill="var(--c0)" />
 
