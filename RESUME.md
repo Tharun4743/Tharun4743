@@ -96,6 +96,12 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * Created a tri-agent autonomous flood early warning system delivering 2–6 hour advance notice using Digital Elevation Models.
 * Enforces a Human-in-the-Loop disaster commander gate before dispatching targeted evacuation maps to citizens.
 
+### 🎓 [FINDORA AI — Autonomous Lost & Found Network](https://github.com/Tharun4743/findora-ai) | *React 19, TypeScript, Node.js, Express, Supabase, Gemini 2.5 Flash, Telegram Bot*
+* **4th Prize Winner — 8-Hour Hackathon (AIML Department, VSBEC)** (Awarded ChatGPT Go Subscription) • [Live Production Portal](https://findoravsbec.vercel.app)
+* Engineered an autonomous campus lost & found network featuring multimodal hybrid correlation (Visual 35%, Text 30%, Spatial/Temporal 35%) using Google Gemini 2.5 Flash.
+* Developed zero-knowledge blind ownership verification with Levenshtein distance scoring and anti-fraud velocity throttling to eliminate fraudulent claims.
+* Integrated live WebRTC camera capture with HTML5 Canvas GPS/timestamp watermarking, Supabase PostgreSQL, Cloudinary CDN, and real-time Telegram bot broadcasts (`@findoravsb_bot`).
+
 ---
 
 ## 📦 Additional Enterprise & Applied Engineering Systems
@@ -108,7 +114,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * 🚀 **[DevPilot](https://github.com/Tharun4743/Dev-Pilot)**: Ultra-fast in-browser IDE sandbox featuring Monaco Editor, Piston API compiler backend, and Groq LPU Big-O complexity audits.
 * ⚡ **[TharunSpeed](https://github.com/Tharun4743/TharunSpeed)**: Ad-free, ultra-lightweight client bandwidth telemetry testing engine measuring latency, jitter, and bufferbloat at 60FPS.
 * 🧠 **[AURA](https://github.com/Tharun4743/AURA)**: Air-gapped local multimodal RAG engine and offline AI knowledge assistant for desktop and web executing quantized local LLMs (LLaMA 3) and dense vector embeddings with Apache PDFBox and Spring Boot.
-* 🎓 **[FINDORA AI](https://github.com/Tharun4743/findora-ai)**: Autonomous campus lost & found intelligence with multimodal item correlation, blind-match ownership verification, and automated Telegram community broadcasts.
+* 📱 **[FieldSync](https://github.com/Tharun4743/FieldSync)**: Production-grade offline-first collaborative field inspection PWA with 4-role enterprise lifecycle, Yjs CRDTs, and Supabase sync.
 * 🏛️ **[Public CRM](https://github.com/Tharun4743/Public-CRM)**: Citizen grievance redressal portal with automated SLA tracking, geo-tagging, and administrative escalation workflows.
 * 🏢 **[Work Suite HRMS (WorkSuite-HRMS)](https://github.com/Tharun4743/WorkSuite-HRMS)**: National Finalist entry for the Odoo × NMIT Bangalore Hackathon 2026. Enterprise workforce operations suite featuring two-level RBAC (Admin, HR, Employee), automated payroll tax calculations, biometric attendance tracking, and leave request state machines. [Live Demo](https://worksuite-hrms.onrender.com)
 * 🤝 **[CampusLink](https://github.com/Tharun4743/Campuslink)**: University peer-learning network facilitating cross-year mentorship, lab archive sharing, and hackathon team matching.
@@ -119,6 +125,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 
 ## 🏆 Honors, Awards & Academic Leadership
 * 🥇 **1st Place National Winner** — *Code Thugs 2K26* (National Hackathon Winner for GOAT Collaborative IDE; ₹5,000 cash prize)
+* 🏅 **4th Prize Winner** — *8-Hour AI/ML Hackathon 2026* (Conducted by Department of AI & ML, V.S.B. Engineering College; Awarded ChatGPT Go Subscription for [FINDORA AI](https://github.com/Tharun4743/findora-ai))
 * 🏆 **National Finalist** — *Odoo × NMIT Bangalore Hackathon 2026* (Selected for the 24-hour on-campus Grand Finale at NMIT Bangalore on Oct 10–11, 2026 by Odoo India after clearing the 8-hour virtual preliminary challenge; Lead Architect for [Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS))
 * 🚀 **Top 50 / 300+ Teams** — *Smart India Hackathon 2026* (Official Central SIH Portal Nominee for VSBEC IT Vault)
 * ⛑️ **Top 50 / 300+ Teams** — *Smart India Hackathon 2025* (Official Central SIH Portal Nominee for Smart Helmet IoT System)

@@ -159,6 +159,26 @@ Production-grade Human Resource Management System engineered for enterprise work
 
 ---
 
+### 🎓 [FINDORA AI](https://github.com/Tharun4743/findora-ai)
+**Autonomous Campus Lost & Found Intelligence Network & Multimodal Correlation Engine**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-findoravsbec.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://findoravsbec.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Tharun4743%2Ffindora--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/findora-ai)
+[![4th Prize Winner](https://img.shields.io/badge/AIML_Hackathon_2026-4th_Prize_Winner-10B981?style=for-the-badge&logo=openai&logoColor=white)](https://findoravsbec.vercel.app)
+
+Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineered for university campuses to streamline lost item reporting, automated AI correlation, and secure owner handovers.
+
+* 🏅 **8-Hour AIML Hackathon 4th Prize Winner:** Awarded 4th place and ChatGPT Go subscription in the 8-Hour Hackathon conducted by the Department of AI & ML at V.S.B. Engineering College.
+* 🧠 **Multimodal Hybrid Matching Engine:** Real-time correlation pipeline combining visual feature embeddings (35%), semantic text descriptions (30%), category ontology (15%), and spatio-temporal telemetry (20%) via Google Gemini 2.5 Flash.
+* 🔐 **Zero-Knowledge Blind Verification:** Anti-fraud ownership verification protocol utilizing Levenshtein distance matching and dynamic anti-hammering velocity limiters before authorizing claim handovers.
+* 📷 **Live WebRTC Camera & Canvas Watermarking:** In-browser WebRTC image capture with client-side HTML5 Canvas optical metadata stamping (geolocation and ISO timestamps) to prevent unverified image tampering.
+* 🤖 **Instant Telegram & Brevo Notifications:** Instant campus broadcasting via Telegram Bot (`@findoravsb_bot`) and automated Brevo SMTP one-time secret handover PINs.
+
+**Tech Stack:** React 19 · TypeScript · Node.js · Express · Supabase (PostgreSQL) · Google Gemini 2.5 Flash · Cloudinary CDN · Telegram Bot API · Brevo SMTP · Vercel  
+🔗 [Live Production Demo](https://findoravsbec.vercel.app) · [GitHub Repository](https://github.com/Tharun4743/findora-ai)
+
+---
+
 ## 📦 Additional Enterprise & Applied Engineering Systems
 
 <details open>
@@ -173,7 +193,6 @@ Production-grade Human Resource Management System engineered for enterprise work
 * 🚀 **[DevPilot](https://github.com/Tharun4743/Dev-Pilot)**: Ultra-fast in-browser IDE sandbox featuring Monaco Editor, Piston API compiler backend, and Groq LPU Big-O complexity audits.
 * ⚡ **[TharunSpeed](https://github.com/Tharun4743/TharunSpeed)**: Ad-free, ultra-lightweight client bandwidth telemetry testing engine measuring latency, jitter, and bufferbloat at 60 FPS.
 * 🚌 **[VSBEC Transit Attendance](https://github.com/Tharun4743/bus-attendance)**: Real-time college bus telemetry and student RFID/QR check-in system with instant automated parent notifications.
-* 🎓 **[FINDORA AI](https://github.com/Tharun4743/findora-ai)**: Autonomous campus lost & found intelligence with multimodal item correlation, blind-match ownership verification, and automated Telegram community broadcasts.
 * 📱 **[FieldSync](https://github.com/Tharun4743/FieldSync)**: Production-grade offline-first collaborative field inspection PWA with 4-role enterprise lifecycle, Yjs CRDTs, and Supabase sync.
 * 🏛️ **[Public CRM](https://github.com/Tharun4743/Public-CRM)**: Citizen grievance redressal portal with automated SLA tracking, geo-tagging, and multi-tier administrative escalation workflows.
 * 🏢 **[Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS)**: Odoo × NMIT 2026 National Finalist workforce operations suite featuring two-level RBAC, automated payroll tax calculations, and leave request state machines.
