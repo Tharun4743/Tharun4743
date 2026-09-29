@@ -108,7 +108,7 @@ Full-stack recruitment workflow engine and placement governance platform built f
 
 ---
 
-### 🧠 [Aura — AI Unified Retrieval Assistant (SIH25231)](https://github.com/Tharun4743/SIH25231)
+### 🧠 [AURA — AI Unified Retrieval Assistant](https://github.com/Tharun4743/AURA)
 **Offline Multimodal RAG Engine & Local AI Assistant (Desktop & Web)**
 
 Air-gapped, privacy-first local multimodal Retrieval-Augmented Generation (RAG) system engineered for high-security, low-bandwidth, and confidential enterprise environments.
@@ -119,7 +119,7 @@ Air-gapped, privacy-first local multimodal Retrieval-Augmented Generation (RAG) 
 * 💻 **Dual Distribution Architecture:** Single codebase supporting both a fast React + Vite web interface (with reverse proxy configurations) and a standalone cross-platform Electron desktop application bundling a self-contained JRE.
 
 **Tech Stack:** Java (JDK 17) · Spring Boot 3 · React · Vite · Electron · SQLite · Apache PDFBox · Ollama (LLaMA 3, Nomic Embed) · WebSockets  
-🔗 [GitHub Repository](https://github.com/Tharun4743/SIH25231)
+🔗 [GitHub Repository](https://github.com/Tharun4743/AURA)
 
 ---
 
@@ -173,7 +173,8 @@ Production-grade Human Resource Management System engineered for enterprise work
 * 🚀 **[DevPilot](https://github.com/Tharun4743/Dev-Pilot)**: Ultra-fast in-browser IDE sandbox featuring Monaco Editor, Piston API compiler backend, and Groq LPU Big-O complexity audits.
 * ⚡ **[TharunSpeed](https://github.com/Tharun4743/TharunSpeed)**: Ad-free, ultra-lightweight client bandwidth telemetry testing engine measuring latency, jitter, and bufferbloat at 60 FPS.
 * 🚌 **[VSBEC Transit Attendance](https://github.com/Tharun4743/bus-attendance)**: Real-time college bus telemetry and student RFID/QR check-in system with instant automated parent notifications.
-* 🇮🇳 **[SIH25231 AgriTech](https://github.com/Tharun4743/SIH25231)**: Smart India Hackathon agricultural decision-support engine providing crop disease computer vision audits and mandi price predictions.
+* 🎓 **[FINDORA AI](https://github.com/Tharun4743/findora-ai)**: Autonomous campus lost & found intelligence with multimodal item correlation, blind-match ownership verification, and automated Telegram community broadcasts.
+* 📱 **[FieldSync](https://github.com/Tharun4743/FieldSync)**: Production-grade offline-first collaborative field inspection PWA with 4-role enterprise lifecycle, Yjs CRDTs, and Supabase sync.
 * 🏛️ **[Public CRM](https://github.com/Tharun4743/Public-CRM)**: Citizen grievance redressal portal with automated SLA tracking, geo-tagging, and multi-tier administrative escalation workflows.
 * 🏢 **[Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS)**: Odoo × NMIT 2026 National Finalist workforce operations suite featuring two-level RBAC, automated payroll tax calculations, and leave request state machines.
 * 🤝 **[CampusLink](https://github.com/Tharun4743/Campuslink)**: University peer-learning network facilitating cross-year mentorship, lab archive sharing, and hackathon team matching.
