@@ -165,7 +165,7 @@ Production-grade Human Resource Management System engineered for enterprise work
 
 <p align="center">
   <a href="https://findoravsbec.vercel.app">
-    <img src="assets/findora-ai-logo.png" alt="FINDORA AI Logo" width="220" style="border-radius: 16px;" />
+    <img src="https://raw.githubusercontent.com/Tharun4743/findora-ai/main/frontend/src/assets/findora_logo.jpg" alt="FINDORA AI Logo" width="220" style="border-radius: 16px;" />
   </a>
 </p>
 
