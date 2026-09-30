@@ -11,47 +11,87 @@
   
       <g transform="translate(24, 50)">
         <text x="0" y="12" font-size="12">⚡</text>
+<<<<<<< Updated upstream
         <text x="22" y="12" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
           6m ago
+=======
+        <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
+          Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
+        </text>
+        <text x="419" y="12" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
+          16m ago
+>>>>>>> Stashed changes
         </text>
       </g>
       <g transform="translate(24, 76)">
         <text x="0" y="12" font-size="12">⚡</text>
+<<<<<<< Updated upstream
         <text x="22" y="12" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
           8m ago
+=======
+        <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
+          Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">github-profile-visualizer</tspan>
+        </text>
+        <text x="419" y="12" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
+          18m ago
+>>>>>>> Stashed changes
         </text>
       </g>
       <g transform="translate(24, 102)">
         <text x="0" y="12" font-size="12">⚡</text>
+<<<<<<< Updated upstream
         <text x="22" y="12" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">github-profile-visualizer</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
           24m ago
+=======
+        <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
+          Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">github-profile-visualizer</tspan>
+        </text>
+        <text x="419" y="12" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
+          34m ago
+>>>>>>> Stashed changes
         </text>
       </g>
       <g transform="translate(24, 128)">
         <text x="0" y="12" font-size="12">⚡</text>
+<<<<<<< Updated upstream
         <text x="22" y="12" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
           47m ago
+=======
+        <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
+          Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
+        </text>
+        <text x="419" y="12" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
+          57m ago
+>>>>>>> Stashed changes
         </text>
       </g>
       <g transform="translate(24, 154)">
         <text x="0" y="12" font-size="12">⚡</text>
+<<<<<<< Updated upstream
         <text x="22" y="12" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
           Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
         </text>
         <text x="419" y="12" text-anchor="end" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
           58m ago
+=======
+        <text x="22" y="12" fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
+          Pushed 1 commit to <tspan fill="#00f0ff" font-weight="600">Tharun4743</tspan>
+        </text>
+        <text x="419" y="12" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">
+          1h ago
+>>>>>>> Stashed changes
         </text>
       </g>
 

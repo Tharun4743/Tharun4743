@@ -2,335 +2,105 @@
 
 # Hi, I'm Tharunkumar K 👋
 
-### Full Stack Developer | AI Application Developer
+### Full Stack Developer & AI Systems Engineer
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(SDE)+Aspirant;Full+Stack+%26+Distributed+Systems+Architect;Code+Thugs+2K26+Winner+%7C+SIH+Top+50+Finalist;Actively+Interviewing+for+SDE+%26+SWE+Roles">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(SDE)+Aspirant;Full+Stack+%26+Distributed+Systems+Architect;Code+Thugs+2K26+Winner+%7C+SIH+Top+50+Finalist;Actively+Interviewing+for+SDE+%26+SWE+Roles" alt="Typing Animation" />
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(SDE)+Aspirant;Full+Stack+%26+Distributed+Systems+Architect;Code+Thugs+2K26+Winner+%7C+SIH+Top+50+Finalist;Actively+Interviewing+for+SDE+%26+SWE+Roles">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(SDE)+Aspirant;Full+Stack+%26+Distributed+Systems+Architect;Code+Thugs+2K26+Winner+%7C+SIH+Top+50+Finalist;Actively+Interviewing+for+SDE+%26+SWE+Roles" alt="Typing Animation" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.Tech_IT_%7C_CGPA_8.5-6366f1?style=for-the-badge&logo=googleacademic&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech_IT_%7C_CGPA_8.5-0284c7?style=for-the-badge&logo=googleacademic&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Status-Actively_Interviewing-0f766e?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Tamil_Nadu%2C_India-ff4757?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 </div>
 
-B.Tech Information Technology student building production-grade full-stack applications, distributed systems, and AI-powered developer tools.
+B.Tech Information Technology student at VSB Engineering College (**CGPA: 8.5/10**). I architect high-reliability full-stack applications, real-time WebRTC/WebSocket communication channels, sandboxed compiler engines, and AI-powered developer tools.
 
-I specialize in architecting high-reliability software ecosystems, isolated compiler sandboxes, real-time WebRTC/WebSocket communication channels, and scalable database schemas.
-
-- 🎓 **Education:** B.Tech Information Technology — VSB Engineering College (**CGPA: 8.5 / 10**)
-- 🎯 **Target Roles:** Software Development Engineer (SDE I), Full Stack Engineer, Backend Systems Engineer
-- 🧠 **Core Competencies:** Data Structures & Algorithms, Object-Oriented Design, System Design, RESTful APIs, Concurrency & State Machines
-- 📚 **Currently learning:** Distributed System Design & Cloud Native Architecture
-- 🌐 **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
+- 🎯 **Target Roles:** Software Development Engineer (SDE I), Full Stack Engineer, Backend Systems
+- 🧠 **Focus Areas:** Data Structures & Algorithms, System Design, RESTful APIs, Concurrency & Cloud
+- 🌐 **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/) · 💼 **LinkedIn:** [tharunkumark4743](https://www.linkedin.com/in/tharunkumark4743)
 
 ---
 
-## 🏆 Achievements
+## 🏆 Key Achievements
 
-- 🥇 **Code Thugs 2K26** — 1st Place / National Winner
+- 🥇 **Code Thugs 2K26 Winner** — 1st Place (National Hackathon)
 - 🌟 **Best GitHub Profile & Top Developer** — VSB Engineering College
-- 🥉 **AIML Hackathon 2026** — 3rd Prize Winner (FINDORA AI)
-- 🏆 **Odoo × NMIT Bangalore Hackathon 2026** — National Finalist (Grand Finale at NMIT Bengaluru, Oct 10–11)
-- 🇮🇳 **India Innovates 2026** — National Finalist
-- 🚀 **Smart India Hackathon** — National Finalist
-- 🌟 **SIH 2025 & 2026 Top 50**
-- 👨‍💻 **IT Department Student Coordinator** — VSB Engineering College
-- 🎓 **GeeksforGeeks Campus Mantri** — 2026
+- 🥉 **AIML Hackathon 2026 Winner** — 3rd Prize (FINDORA AI)
+- 🏆 **Odoo × NMIT Bangalore Hackathon 2026** — National Finalist (Grand Finale)
+- 🚀 **Smart India Hackathon (SIH)** — 2025 & 2026 Top 50 National Finalist
+- 🎓 **GeeksforGeeks Campus Mantri** & **IT Department Student Coordinator**
 
 ---
 
-## 💻 Featured Production Projects & Developer Tools
-
-*Selected projects demonstrating full-stack engineering, real-world adoption, and measurable architectural impact.*
+## 💻 Featured Projects
 
 ### ⚡ [GitHub Profile Visualizer](https://github.com/marketplace/actions/github-profile-visualizer)
-**All-in-One Multi-Platform Developer Activity & 3D Isometric Telemetry Suite (GitHub Action & CLI)**
-
-[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-GitHub%20Profile%20Visualizer-purple?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/github-profile-visualizer)
-[![Version: v1](https://img.shields.io/badge/Release-v1.5.0-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/github-profile-visualizer/releases)
-
-Next-generation developer telemetry visualizer generating dynamic 3D isometric city skylines, real-time activity streams, executive velocity banners, and multi-metric coding competency cards for GitHub profiles.
-
-* 🚀 **GitHub Marketplace Action:** Published, reusable CI/CD Action (`uses: Tharun4743/github-profile-visualizer@v1`) powering dynamic profile automation across developer communities.
-* 🏙️ **12-in-1 Complete Visualizer Suite:** Generates 3D Contribution City, Executive Summary Banner, Developer Achievements & Medals, Commit Velocity Wave, Engineering Competency Radar, Productive Coding Habits, Language Matrix, Live Event Timeline, LeetCode, GeeksforGeeks, HackerRank, and Duolingo Telemetry in a single execution pass.
-* 🎨 **High-Contrast Pure White & Auto-Adaptive Theming:** High-contrast Pearl Neon, Solar Sunrise, Ocean Breeze, and Emerald Light themes with automatic dark-to-light fallback resolution for all users.
-* 📐 **Pure SVG Mathematical Projection Engine:** Zero headless-browser dependencies (no Puppeteer/Playwright overhead); renders 365 days of contribution depth using deterministic isometric math (`isoX = (x - y) * cos(30°)`, `isoY = (x + y) * sin(30°) - height`) compiled into an ultra-fast Node.js bundle.
-
-**Tech Stack:** Node.js 20+ · SVG Vector Math Engine · GitHub GraphQL & REST APIs · LeetCode Public GraphQL · @vercel/ncc  
-🔗 [GitHub Marketplace Listing](https://github.com/marketplace/actions/github-profile-visualizer) · [Source Repository](https://github.com/Tharun4743/github-profile-visualizer) · [Setup Guide & AI Prompt](https://github.com/Tharun4743/github-profile-visualizer#readme)
+**Marketplace Action & 13-in-1 Developer Telemetry Suite**
+* 🚀 **Published GitHub Action:** (`uses: Tharun4743/github-profile-visualizer@v1`) powering dynamic 3D skylines & multi-metric stats.
+* 🏙️ **Pure SVG Mathematical Engine:** Renders 365-day isometric city skylines, skills radar, habits, velocity wave, and multi-platform cards (LeetCode, GFG, HackerRank, Duolingo) with 0 headless-browser dependencies.
+* **Stack:** Node.js 20+ · SVG Vector Math · GitHub GraphQL/REST APIs · LeetCode Public API · @vercel/ncc
+* 🔗 [Marketplace Listing](https://github.com/marketplace/actions/github-profile-visualizer) · [Source Code](https://github.com/Tharun4743/github-profile-visualizer)
 
 ---
 
 ### 🏛️ [VSBEC IT Vault](https://github.com/Tharun4743/taskmanager)
-**Enterprise Institutional Governance, Streak Tracking & Sandboxed Assessment Engine**
-
-Role-based academic governance and technical assessment ecosystem engineered for the Department of Information Technology.
-
-* 👥 **Real-World Campus Adoption:** Actively adopted and used daily by **365+ enrolled students** at VSB Engineering College.
-* 🔐 **Isolated Compiler Sandbox:** Multi-language execution runtime (**C, C++, Java 17, Python 3**) with isolated child-process jails, execution timeout traps, and automated server-side hidden test case evaluation.
-* ⚡ **Relational Data Architecture:** Normalized PostgreSQL database with 13 relational schemas, foreign-key integrity constraints, and optimized indexed queries.
-* 📊 **Algorithmic Momentum Schedulers:** Automated nightly background daemons polling LeetCode GraphQL and GitHub REST APIs to track student solve velocity and streaks.
-* 🛡️ **3-Tier Audit FSM & Anti-Cheat:** Deterministic 3-tier approval chain (Coordinator → Advisor → HOD) with verifiable submission audit logs, fullscreen lockdown, and PIP webcam assessment proctoring.
-
-**Tech Stack:** React 19 · TypeScript 5.8 · Vite 6 · Tailwind CSS · Node.js 20+ · Express · PostgreSQL 14 (13 Relational Tables) · Monaco Editor · Supabase · Cloudinary  
-🔗 [Live Production Demo](https://it-taskmanager.vercel.app/) · [GitHub Repository](https://github.com/Tharun4743/taskmanager)
+**Campus Governance, Streak Tracking & Sandboxed Compiler Sandbox**
+* 👥 **Real-World Adoption:** Actively used daily by **365+ enrolled students** at VSB Engineering College.
+* 🔐 **Isolated Sandbox:** Multi-language execution runtime (C, C++, Java 17, Python 3) with child-process jails and automated test evaluation.
+* **Stack:** React 19 · TypeScript · Vite · Node.js · Express · PostgreSQL 14 (13 Tables) · Monaco Editor · Supabase
+* 🔗 [Live Demo](https://it-taskmanager.vercel.app/) · [Source Code](https://github.com/Tharun4743/taskmanager)
 
 ---
 
 ### ⚡ [GOAT Code Editor](https://github.com/Tharun4743/GOAT-CE)
-**Real-Time Collaborative Cloud IDE with Zero-SDK WebRTC Voice Mesh & Compiler**
-
-High-performance in-browser collaborative engineering workspace unifying multi-user operational sync, encrypted audio communication, and sandboxed compilation.
-
-* 🏆 **Code Thugs 2K26 1st Place Winner:** Awarded 1st place in state-level hackathon for real-time systems engineering.
-* 🎙️ **Pure WebRTC Audio Mesh (Zero SDKs):** Custom peer-to-peer audio mesh handling SDP handshakes, ICE candidates, hardware echo cancellation, and Web Audio `AnalyserNode` Voice Activity Detection (VAD) without paid 3rd-party SDK dependencies.
-* ⚡ **Sub-Pixel Operational Diff Streaming:** Socket.IO pipeline streaming operational transformations, remote colored carets, and live user selection across a native Monaco (VS Code kernel) editor.
-* 🚀 **Instant <2s Workspace Provisioning:** Dual-persistence architecture utilizing in-memory room state with PostgreSQL persistence, spinning up active collaborative workspaces in under 2 seconds.
-* ⚙️ **Multi-Language Sandboxed Execution:** In-browser execution engine supporting JavaScript, TypeScript, Python, Java, C++, and Go via Piston API v2.
-
-**Tech Stack:** React 19.2 · TypeScript · Node.js · Express · Socket.IO 4.8 · Pure WebRTC · Monaco Editor · PostgreSQL 16 · Piston API  
-🔗 [Live Production Demo](https://goatcode-editor.onrender.com) · [GitHub Repository](https://github.com/Tharun4743/GOAT-CE)
+**Real-Time Collaborative Cloud IDE with Zero-SDK WebRTC Voice Mesh**
+* 🏆 **Code Thugs 2K26 1st Place:** High-performance collaborative code editor with sub-pixel operational diff streaming and Monaco editor sync.
+* 🎙️ **Pure WebRTC Audio Mesh:** Custom peer-to-peer audio mesh with Voice Activity Detection (VAD) without paid 3rd-party SDKs.
+* **Stack:** React 19 · TypeScript · Node.js · Socket.IO · Pure WebRTC · Monaco Editor · PostgreSQL 16 · Piston API
+* 🔗 [Live Demo](https://goatcode-editor.onrender.com) · [Source Code](https://github.com/Tharun4743/GOAT-CE)
 
 ---
 
-### 🎓 [CampusConnect](https://github.com/Tharun4743/CampusConnect)
-**Automated Campus Placement Governance & Corporate Recruitment Ecosystem**
-
-Full-stack recruitment workflow engine and placement governance platform built for collegiate Training & Placement Offices (TPO).
-
-* 📈 **Live 5-State WebSocket Recruitment Funnel:** Bi-directional Socket.IO pipeline (Applied → Shortlisted → Technical Rounds → Interviewing → Offered) eliminating manual email lag and status confusion.
-* 🧠 **Google Gemini AI Resume Intelligence:** Semantic analysis engine parsing student resumes against recruiter job specifications, computing fit scorecards and actionable skill-gap recommendations.
-* 🚪 **Automated Database Guardrails:** Database-enforced CGPA and active backlog eligibility gating, eliminating manual eligibility verification errors.
-* 📦 **Cloud Document Vault & Transactional Email:** Cloudinary CDN integration for secure academic transcripts and multi-provider transactional email delivery supporting Nodemailer SMTP, SendGrid, and Resend.
-
-**Tech Stack:** React 19 · Vite 6.2 · TypeScript · Node.js 20+ · Express · Socket.IO · Supabase (PostgreSQL 15) · Google Gemini AI · Cloudinary CDN  
-🔗 [Live Production Demo](https://campusconnect-yg4h.onrender.com) · [GitHub Repository](https://github.com/Tharun4743/CampusConnect)
+### 🔍 [FINDORA AI](https://github.com/Tharun4743/findora-ai)
+**Autonomous Campus Lost & Found Multimodal Correlation Network**
+* 🥉 **AIML Hackathon 3rd Place:** Hybrid matching combining visual embeddings, text semantics, and spatio-temporal telemetry via Google Gemini 2.5 Flash.
+* 🔐 **Anti-Fraud Security:** Zero-knowledge blind verification with Levenshtein matching and anti-hammering velocity limiters.
+* **Stack:** React 19 · TypeScript · Express · Supabase · Google Gemini 2.5 Flash · Telegram Bot API · Cloudinary
+* 🔗 [Live Demo](https://findoravsbec.vercel.app) · [Source Code](https://github.com/Tharun4743/findora-ai)
 
 ---
 
-### 🧠 [AURA — AI Unified Retrieval Assistant](https://github.com/Tharun4743/AURA)
-**Offline Multimodal RAG Engine & Local AI Assistant (Desktop & Web)**
-
-Air-gapped, privacy-first local multimodal Retrieval-Augmented Generation (RAG) system engineered for high-security, low-bandwidth, and confidential enterprise environments.
-
-* 🔒 **100% Offline Air-Gapped Inference:** Eliminates cloud data leaks and recurring API costs by executing quantized local LLMs (`llama3`) and dense embeddings (`nomic-embed-text`) entirely on-device via Ollama.
-* 📄 **Local Document Pipeline & Vector Search:** Ingests and processes complex PDFs locally using Apache PDFBox, chunking text and performing low-latency semantic vector similarity search stored in an embedded SQLite database.
-* ⚡ **High-Throughput Spring Boot Backend:** Powered by Java 17 and Spring Boot 3 with JPA, HikariCP connection pooling, and bi-directional WebSocket streaming (`/ws/chat`) for real-time token-by-token answer generation.
-* 💻 **Dual Distribution Architecture:** Single codebase supporting both a fast React + Vite web interface (with reverse proxy configurations) and a standalone cross-platform Electron desktop application bundling a self-contained JRE.
-
-**Tech Stack:** Java (JDK 17) · Spring Boot 3 · React · Vite · Electron · SQLite · Apache PDFBox · Ollama (LLaMA 3, Nomic Embed) · WebSockets  
-🔗 [GitHub Repository](https://github.com/Tharun4743/AURA)
-
----
-
-### 🛡️ [Smart Helmet IoT Safety System](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-)
-**Dual-Unit Embedded Rider Safety System with Wireless RF Ignition Interlock**
-
-Embedded vehicle safety platform engineered to proactively eliminate motorcycle accidents via real-time biometric and environmental telemetry.
-
-* 🚀 **Smart India Hackathon 2025 Top 50 Nominee:** Selected as Top 50 out of 300+ campus engineering teams and officially nominated on the central SIH portal.
-* 📡 **Dual-Unit Low-Latency RF Architecture:** High-reliability 433MHz wireless telemetry linking sensor-equipped helmet transmitter with motorcycle ignition receiver.
-* 🚫 **Sub-500ms Alcohol Interlock:** Sensitive MQ-3 breath alcohol sensor continuously analyzing rider breath, cutting bike ignition within 500ms upon detecting intoxication.
-* 👁️ **IR Wear & Drowsiness Monitoring:** Optical IR proximity sensor enforcing helmet compliance, paired with an eye-blink sensor tracking eyelid closure rates to wake riders during micro-sleep episodes.
-* ⏱️ **5-Second RF Fail-Safe Watchdog:** Hardware interrupt watchdog automatically isolating engine ignition if wireless telemetry is compromised.
-
-**Tech Stack:** Arduino Core (C/C++) · RF 433MHz Telemetry · MQ-3 Alcohol Sensor · Optical IR Sensors · Relay Control Modules  
-🔗 [GitHub Repository](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-) · [Project Dossier](https://drive.google.com/drive/folders/1kYhyoOx9-Tr4WyOJkmUz7K4PDDpmaHEr?usp=drive_link)
-
----
-
-### 🏢 [Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS)
-**Enterprise Workforce Operations, Automated Payroll & Compliance Management Platform**
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-worksuite--hrms.onrender.com-000000?style=for-the-badge&logo=render&logoColor=white)](https://worksuite-hrms.onrender.com)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Tharun4743%2FWorkSuite--HRMS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/WorkSuite-HRMS)
-[![National Finalist](https://img.shields.io/badge/Odoo_×_NMIT_2026-National_Finalist-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://hackathon.odoo.com)
-
-Production-grade Human Resource Management System engineered for enterprise workforce governance, compliance tracking, and automated employee lifecycles.
-
-* 🏆 **Odoo × NMIT Bangalore Hackathon 2026 National Finalist:** Selected nationwide for the 24-hour on-campus Grand Finale at Nitte Meenakshi Institute of Technology (NMIT), Bengaluru on October 10–11, 2026 after qualifying the virtual preliminary coding challenge.
-* 👥 **Lead Architect & Modular Branching:** Directed a 4-person engineering team (`ADMIN` role) implementing modular Git feature-branch workflows across payroll, attendance, and leave management domains.
-* 🔐 **Two-Level Auth & Granular RBAC:** Built robust role-based access control isolating Admin, HR Operations, and Employee portals with strict permission guardrails.
-* 💰 **Automated Payroll & Shift Analytics:** Automated payroll calculations, statutory deduction ledgers, real-time attendance tracking, and financial analytics.
-* 📬 **Cloud Infrastructure & Transactional Messaging:** Deployed on Render Cloud with Supabase (PostgreSQL 15), Cloudinary CDN for verified document storage, and Brevo HTTPS transactional email gateway.
-
-**Tech Stack:** React 19 · TypeScript 5 · Node.js · Express 5 · PostgreSQL (Supabase) · Tailwind CSS v4 · Cloudinary · Brevo API · Render  
-🔗 [Live Production Demo](https://worksuite-hrms.onrender.com) · [GitHub Repository](https://github.com/Tharun4743/WorkSuite-HRMS)
-
----
-
-### 🎓 [FINDORA AI](https://github.com/Tharun4743/findora-ai)
-**Autonomous Campus Lost & Found Intelligence Network & Multimodal Correlation Engine**
-
-<p align="center">
-  <a href="https://findoravsbec.vercel.app">
-    <img src="https://raw.githubusercontent.com/Tharun4743/findora-ai/main/frontend/src/assets/findora_logo.jpg" alt="FINDORA AI Logo" width="220" style="border-radius: 16px;" />
-  </a>
-</p>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-findoravsbec.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://findoravsbec.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Tharun4743%2Ffindora--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/findora-ai)
-[![3rd Prize Winner](https://img.shields.io/badge/AIML_Hackathon_2026-3rd_Prize_Winner-10B981?style=for-the-badge&logo=openai&logoColor=white)](https://findoravsbec.vercel.app)
-
-Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineered for university campuses to streamline lost item reporting, automated AI correlation, and secure owner handovers.
-
-* 🥉 **8-Hour AIML Hackathon 3rd Prize Winner:** Awarded 3rd place and ChatGPT Go subscription in the 8-Hour Hackathon conducted by the Department of AI & ML at V.S.B. Engineering College.
-* 🧠 **Multimodal Hybrid Matching Engine:** Real-time correlation pipeline combining visual feature embeddings (35%), semantic text descriptions (30%), category ontology (15%), and spatio-temporal telemetry (20%) via Google Gemini 2.5 Flash.
-* 🔐 **Zero-Knowledge Blind Verification:** Anti-fraud ownership verification protocol utilizing Levenshtein distance matching and dynamic anti-hammering velocity limiters before authorizing claim handovers.
-* 📷 **Live WebRTC Camera & Canvas Watermarking:** In-browser WebRTC image capture with client-side HTML5 Canvas optical metadata stamping (geolocation and ISO timestamps) to prevent unverified image tampering.
-* 🤖 **Instant Telegram & Brevo Notifications:** Instant campus broadcasting via Telegram Bot (`@findoravsb_bot`) and automated Brevo SMTP one-time secret handover PINs.
-
-**Tech Stack:** React 19 · TypeScript · Node.js · Express · Supabase (PostgreSQL) · Google Gemini 2.5 Flash · Cloudinary CDN · Telegram Bot API · Brevo SMTP · Vercel  
-🔗 [Live Production Demo](https://findoravsbec.vercel.app) · [GitHub Repository](https://github.com/Tharun4743/findora-ai)
-
----
-
-## 📦 Additional Enterprise & Applied Engineering Systems
-
-<details open>
-<summary><b>Expand Portfolio of 14+ Specialized Engineering & Applied Systems Repositories</b></summary>
+<details>
+<summary><b>📂 Expand More Engineering Projects (CampusConnect, AURA, Smart Helmet IoT, WorkSuite HRMS, etc.)</b></summary>
 <br/>
 
-* 🚗 **[Vehicle Service Management](https://github.com/Tharun4743/Vehicle-Service)** *(Pega Enterprise Architecture)*: Automotive case lifecycle management platform engineered on Pega Infinity '24.1, featuring automated SLA escalation timers, skill-based technician work queues, and declarative pricing logic.
-* 🎬 **[Encodr Lite](https://github.com/Tharun4743/encodr-lite-take-home)** *(Mactores Technical Assessment)*: Strictly typed Next.js 19 media transcoding and BullMQ / FFmpeg job queue orchestration dashboard with zero runtime type errors.
-* 🛡️ **[Mailtrace AI](https://github.com/Tharun4743/Mailtrace-ai)**: Email forensics platform validating SPF/DKIM/DMARC authentication headers with Hugging Face transformer intent classification to neutralize zero-day spear phishing.
-* 💳 **[MuleGuard](https://github.com/Tharun4743/Muleguard)**: Financial crime detection engine using Neo4j and D3.js graph topologies to identify money mule smurfing rings via velocity heuristics.
-* 🔍 **[RiskLens AI](https://github.com/Tharun4743/RiskLens-AI)**: Quantitative banking risk platform executing FinBERT NLP sentiment extraction over SEC 10-K regulatory filings paired with Monte Carlo VaR models.
-* 🚀 **[DevPilot](https://github.com/Tharun4743/Dev-Pilot)**: Ultra-fast in-browser IDE sandbox featuring Monaco Editor, Piston API compiler backend, and Groq LPU Big-O complexity audits.
-* ⚡ **[TharunSpeed](https://github.com/Tharun4743/TharunSpeed)**: Ad-free, ultra-lightweight client bandwidth telemetry testing engine measuring latency, jitter, and bufferbloat at 60 FPS.
-* 🚌 **[VSBEC Transit Attendance](https://github.com/Tharun4743/bus-attendance)**: Real-time college bus telemetry and student RFID/QR check-in system with instant automated parent notifications.
-* 📱 **[FieldSync](https://github.com/Tharun4743/FieldSync)**: Production-grade offline-first collaborative field inspection PWA with 4-role enterprise lifecycle, Yjs CRDTs, and Supabase sync.
-* 🏛️ **[Public CRM](https://github.com/Tharun4743/Public-CRM)**: Citizen grievance redressal portal with automated SLA tracking, geo-tagging, and multi-tier administrative escalation workflows.
-* 🏢 **[Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS)**: Odoo × NMIT 2026 National Finalist workforce operations suite featuring two-level RBAC, automated payroll tax calculations, and leave request state machines.
-* 🤝 **[CampusLink](https://github.com/Tharun4743/Campuslink)**: University peer-learning network facilitating cross-year mentorship, lab archive sharing, and hackathon team matching.
-* 📄 **[TK Office (TK Suite)](https://github.com/Tharun4743/TK-Office)** *(Offline Daily-Driver Tool)*: 100% air-gapped, zero-telemetry offline Android office and PDF document tool engineered in Flutter/Dart for personal document signing and text processing without cloud dependencies.
-* ☕ **[Java LeetCode Enterprise Suite](https://github.com/Tharun4743/Java_Leetcode)**: 150+ rigorously tested algorithmic implementations in Java 17 with 100% JUnit 5 test coverage and formal time/space complexity proofs.
+* 🎓 **[CampusConnect](https://github.com/Tharun4743/CampusConnect):** Placement governance platform with live 5-state WebSocket funnel and Gemini AI resume scoring.
+* 🧠 **[AURA](https://github.com/Tharun4743/AURA):** Air-gapped offline multimodal RAG engine in Java 17, Spring Boot 3, and Ollama (LLaMA 3).
+* 🛡️ **[Smart Helmet IoT](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-):** SIH Top 50 RF alcohol interlock & drowsiness prevention system.
+* 🏢 **[Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS):** Odoo × NMIT 2026 National Finalist workforce operations & automated payroll platform.
+* 🚗 **[Vehicle Service Management](https://github.com/Tharun4743/Vehicle-Service):** Pega Infinity '24.1 enterprise automotive case lifecycle automation platform.
+* 🛡️ **[Mailtrace AI](https://github.com/Tharun4743/Mailtrace-ai):** Email forensics & anti-phishing SPF/DKIM/DMARC validator with Hugging Face transformers.
+* 💳 **[MuleGuard](https://github.com/Tharun4743/Muleguard):** Financial money mule ring detection engine using Neo4j and D3 graph topologies.
+* 🚀 **[DevPilot](https://github.com/Tharun4743/Dev-Pilot):** In-browser IDE sandbox with Groq LPU Big-O complexity audits.
 
 </details>
 
 ---
 
-## 💼 Industry Experience
-
-### 🚗 Enterprise Systems Intern — Pega Systems
-**Jul 2026 – Aug 2026**
-
-- Engineered **[Vehicle Service Management](https://github.com/Tharun4743/Vehicle-Service)** automotive case lifecycle automation platform on Pega Infinity '24.1 (Pega Next-Gen Innovators Program).
-- Built multi-stage case flows (`Intake` → `Diagnostic Inspection` → `Cost Estimation` → `Customer Approval SLA` → `Technician Repair` → `Automated Invoicing`).
-- Configured automated SLA Goal and Deadline escalation timers, declarative pricing rules, and skill-based work queue routing (`HeavyVehicleQueue` vs. `LightVehicleQueue`).
-
-### 🚀 Full Stack Development Intern — Neura Global
-**Jun 2026 – Jul 2026**
-
-- Architected and deployed **CampusConnect**, an enterprise placement governance and corporate recruitment platform.
-- Engineered high-concurrency RESTful APIs and real-time Socket.IO pipelines backed by Supabase (PostgreSQL 15).
-- Integrated Google Gemini AI for semantic resume scoring against recruiter requirements, generating skill-gap recommendations.
-- Optimized query execution plans and frontend bundle sizes, significantly improving page load performance.
-
-### 💻 Software Development Intern — Infosys Springboard
-**Nov 2025 – Jan 2026**
-
-- Graduated from **Infosys Springboard 6.0** enterprise software engineering curriculum with top distinction.
-- Developed **StarWall**, a full-stack peer recognition and analytics portal applying industry architectural design patterns.
-
----
-
-## 🛠️ Technical Competencies & Tech Stack
-
-<div align="center">
-  <a href="https://github.com/Tharun4743/github-profile-visualizer">
-    <img src="assets/skills-radar-ocean-light.svg" width="467" alt="Engineering Competency Radar (Ocean Light Theme)" />
-  </a>
-</div>
-
-<br/>
-
-### Languages
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js_20+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neon Serverless](https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logo=neon&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### AI & Developer Tools
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logo=databricks&logoColor=white)
-![Judge0](https://img.shields.io/badge/Judge0-0052CC?style=for-the-badge&logo=codeforces&logoColor=white)
-![Piston API](https://img.shields.io/badge/Piston_API-333333?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-## 📖 Currently Learning (SDE Interview Focus)
-
-- 🧠 **Data Structures & Algorithms** (advanced graph theory, dynamic programming, algorithmic optimization)
-- 📐 **Low-Level & High-Level System Design** (distributed caches, database sharding, microservice patterns)
-- 🏗️ **Backend Concurrency & Architecture** (event-driven microservices, connection pooling, rate limiters)
-- ☁️ **Cloud Native Infrastructure** (CI/CD pipelines, container orchestration, edge deployments)
-- 🤖 **AI Application Development** (RAG pipelines, semantic embeddings, vector search)
-
----
-
-## 🏅 Certifications & Badges
-
-- 🏅 [Infosys Springboard Internship Completion](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
-- 🏅 [Tata — GenAI Powered Data Analytics Job Simulation](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
-- 🏅 [TCS iON Career Edge — Young Professional](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
-- 🏅 [Google Cloud — Responsible AI](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
-- 🏅 [Google — Introduction to Large Language Models](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
-- 🏅 [Google — Prompt Design](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
-- 🏅 [Cisco — Introduction to IoT](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
-- 🏅 [Salesforce — Administrator Explorer](https://drive.google.com/drive/folders/1zdLQ8EoEC8X73fFAJjSJr-Ros_xckIyW)
-
----
-
-## 🌐 Coding & Professional Profiles
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tharunkumark4743.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://tharunkumark4743.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharunkumar_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunkumark4743)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Tharunkumar__K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharunkumar__K/)
-[![Duolingo](https://img.shields.io/badge/Duolingo-Tharunkumar4743-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/Tharunkumar4743)
-[![GitHub](https://img.shields.io/badge/GitHub-Tharun4743-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Java 17` · `TypeScript` · `JavaScript` · `Python 3` · `C/C++` · `SQL` |
+| **Frontend** | `React 19` · `Next.js 15` · `Vite` · `Tailwind CSS` · `Monaco Editor` · `Framer Motion` |
+| **Backend** | `Node.js 20+` · `Express.js` · `RESTful APIs` · `Socket.IO` · `Spring Boot 3` · `Prisma` |
+| **Databases** | `PostgreSQL` · `Supabase` · `Neon Serverless` · `MongoDB` · `MySQL` · `SQLite` |
+| **AI & Tooling** | `Google Gemini` · `Ollama (LLaMA 3)` · `Docker` · `Git` · `GitHub Actions` · `Cloudinary` · `Render` · `Vercel` |
 
 </div>
 
@@ -340,21 +110,21 @@ Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineere
 
 <div align="center">
 
-<!-- Executive Summary Banner -->
+<!-- Executive Summary Banner (Ocean Light) -->
 <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-  <img src="assets/executive-summary-ocean-light.svg" width="100%" alt="Executive Velocity Summary (Ocean Light Theme)" />
+  <img src="assets/executive-summary-ocean-light.svg" width="100%" alt="Executive Velocity Summary (Ocean Light)" />
 </a>
 
 <br/><br/>
 
-<!-- 3D Contribution City (High-Fidelity Yoshi Engine - Ocean Light Theme) -->
+<!-- 3D Contribution Skyline (Ocean Light) -->
 <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-  <img src="assets/profile-3d-ocean-light.svg" width="100%" alt="Tharun4743's 3D Contribution City (Ocean Light Theme)" />
+  <img src="assets/profile-3d-ocean-light.svg" width="100%" alt="3D Contribution City (Ocean Light)" />
 </a>
 
 <br/><br/>
 
-<!-- Complete Multi-Metric Visualizer Suite -->
+<!-- 2-Column Responsive Telemetry Grid (Ocean Light Theme) -->
 <table border="0" cellpadding="0" cellspacing="4" align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="middle">
@@ -388,7 +158,7 @@ Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineere
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/stats.svg" width="100%" alt="GitHub Core Analytics" />
+        <img src="assets/stats-ocean-light.svg" width="100%" alt="GitHub Core Analytics" />
       </a>
     </td>
   </tr>
@@ -407,7 +177,7 @@ Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineere
 </table>
 
 <p align="center">
-  <sub>⚡ 100% Self-Contained Telemetry powered by <a href="https://github.com/marketplace/actions/github-profile-visualizer"><b>GitHub Profile Visualizer</b></a> by <a href="https://github.com/Tharun4743"><b>@Tharun4743</b></a></sub>
+  <sub>⚡ 100% Self-Contained Telemetry generated by <a href="https://github.com/marketplace/actions/github-profile-visualizer"><b>GitHub Profile Visualizer</b></a> by <a href="https://github.com/Tharun4743"><b>@Tharun4743</b></a></sub>
 </p>
 
 </div>
@@ -416,20 +186,17 @@ Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineere
 
 ## 📬 Let's Connect
 
-I'm open to software engineering opportunities, technical collaborations, and interesting projects.
-
-- 📧 **Email:** [tharunkumark42007@gmail.com](mailto:tharunkumark42007@gmail.com)
-- 💼 **LinkedIn:** [tharunkumark4743](https://www.linkedin.com/in/tharunkumark4743)
-- 💻 **GitHub:** [Tharun4743](https://github.com/Tharun4743)
-- 🧩 **LeetCode:** [Tharunkumar__K](https://leetcode.com/u/Tharunkumar__K/)
-- 🦉 **Duolingo:** [Tharunkumar4743](https://www.duolingo.com/profile/Tharunkumar4743)
-- 🌐 **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
-
----
-
 <div align="center">
 
-### 🐍 365-Day Contribution Activity Snake
+[![Portfolio](https://img.shields.io/badge/Portfolio-tharunkumark4743.netlify.app-0284c7?style=for-the-badge&logo=netlify&logoColor=white)](https://tharunkumark4743.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharunkumar_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunkumark4743)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Tharunkumar__K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tharunkumar__K/)
+[![Duolingo](https://img.shields.io/badge/Duolingo-Tharunkumar4743-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/Tharunkumar4743)
+[![Email](https://img.shields.io/badge/Email-tharunkumark42007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunkumark42007@gmail.com)
+
+<br/>
+
+### 🐍 365-Day Contribution Grid Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
@@ -439,6 +206,6 @@ I'm open to software engineering opportunities, technical collaborations, and in
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Tharun4743&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Tharun4743)
+[![Profile Views](https://komarev.com/ghpvc/?username=Tharun4743&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Tharun4743)
 
 </div>
