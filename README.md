@@ -162,6 +162,12 @@ Production-grade Human Resource Management System engineered for enterprise work
 ### 🎓 [FINDORA AI](https://github.com/Tharun4743/findora-ai)
 **Autonomous Campus Lost & Found Intelligence Network & Multimodal Correlation Engine**
 
+<p align="center">
+  <a href="https://findoravsbec.vercel.app">
+    <img src="assets/findora-ai-logo.png" alt="FINDORA AI Logo" width="220" style="border-radius: 16px;" />
+  </a>
+</p>
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-findoravsbec.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://findoravsbec.vercel.app)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Tharun4743%2Ffindora--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/findora-ai)
 [![4th Prize Winner](https://img.shields.io/badge/AIML_Hackathon_2026-4th_Prize_Winner-10B981?style=for-the-badge&logo=openai&logoColor=white)](https://findoravsbec.vercel.app)
