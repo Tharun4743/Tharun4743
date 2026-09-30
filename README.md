@@ -37,10 +37,10 @@
 
 ## 💻 Featured Projects
 
-* ⚡ **[GitHub Profile Visualizer](https://github.com/marketplace/actions/github-profile-visualizer):** Published GitHub Action & 13-in-1 pure SVG developer telemetry suite.
-* 🏛️ **[VSBEC IT Vault](https://github.com/Tharun4743/taskmanager):** Sandboxed compiler & campus governance ecosystem actively used by **365+ students**.
+* ⚡ **[Github Profile Visualizer](https://github.com/Tharun4743/Github-profile-visualizer):** Published GitHub Action & 13-in-1 pure SVG developer telemetry suite.
+* 🏛️ **[VSBEC IT Vault](https://github.com/Tharun4743/Taskmanager):** Sandboxed compiler & campus governance ecosystem actively used by **365+ students**.
 * ⚡ **[GOAT Code Editor](https://github.com/Tharun4743/GOAT-CE):** Real-time collaborative IDE with custom peer-to-peer WebRTC voice mesh (Code Thugs Winner).
-* 🔍 **[FINDORA AI](https://github.com/Tharun4743/findora-ai):** Campus lost & found correlation engine with Google Gemini 2.5 Flash (AIML Hackathon 3rd Prize).
+* 🔍 **[FINDORA AI](https://github.com/Tharun4743/Findora-ai):** Campus lost & found correlation engine with Google Gemini 2.5 Flash (AIML Hackathon 3rd Prize).
 
 ---
 
