@@ -76,38 +76,34 @@ async function fetchGitHubStats() {
 function renderStatsSvg(gh) {
   return `<svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .header { font: 600 18px "Segoe UI", Ubuntu, Sans-Serif; fill: #70a5fd; }
-    .stat { font: 600 14px "Segoe UI", Ubuntu, Sans-Serif; fill: #38bdae; }
-    .bold { font-weight: 700; }
+    .header { font: 700 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #0f766e; }
+    .stat-label { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #0f172a; }
+    .stat-val { font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #0284c7; }
   </style>
-  <rect x="0.5" y="0.5" rx="8" height="99%" width="466" fill="#1a1b27" stroke="#24283b" stroke-width="1.5" />
-  <g transform="translate(25, 35)">
-    <text x="0" y="0" class="header">Tharunkumar K's GitHub Stats</text>
+  <rect x="0.5" y="0.5" rx="8" height="194" width="466" fill="#ffffff" stroke="#99f6e4" stroke-width="1.5" />
+  <g transform="translate(24, 32)">
+    <text x="0" y="0" class="header">📊 GitHub Core Analytics • @${GITHUB_USERNAME}</text>
   </g>
-  <g transform="translate(0, 55)">
-    <g transform="translate(25, 0)">
-      <text class="stat bold" x="25" y="12.5">Total Stars Earned:</text>
-      <text class="stat bold" x="224" y="12.5">${gh.stars}</text>
+  <g transform="translate(24, 56)">
+    <g transform="translate(0, 0)">
+      <text class="stat-label" x="0" y="12">Total Stars Earned:</text>
+      <text class="stat-val" x="220" y="12" fill="#d97706">${gh.stars} ⭐</text>
     </g>
-    <g transform="translate(25, 25)">
-      <text class="stat bold" x="25" y="12.5">Total Commits:</text>
-      <text class="stat bold" x="224" y="12.5">${gh.commits.toLocaleString()}</text>
+    <g transform="translate(0, 26)">
+      <text class="stat-label" x="0" y="12">Total Lifetime Commits:</text>
+      <text class="stat-val" x="220" y="12" fill="#0f766e">${gh.commits.toLocaleString()} ⚡</text>
     </g>
-    <g transform="translate(25, 50)">
-      <text class="stat bold" x="25" y="12.5">Total PRs:</text>
-      <text class="stat bold" x="224" y="12.5">${gh.prs}</text>
+    <g transform="translate(0, 52)">
+      <text class="stat-label" x="0" y="12">Pull Requests Merged:</text>
+      <text class="stat-val" x="220" y="12" fill="#3b82f6">${gh.prs} PRs</text>
     </g>
-    <g transform="translate(25, 75)">
-      <text class="stat bold" x="25" y="12.5">Total Issues:</text>
-      <text class="stat bold" x="224" y="12.5">${gh.issues}</text>
-    </g>
-    <g transform="translate(25, 100)">
-      <text class="stat bold" x="25" y="12.5">Contributed to (last year):</text>
-      <text class="stat bold" x="224" y="12.5">${gh.publicRepos}</text>
+    <g transform="translate(0, 78)">
+      <text class="stat-label" x="0" y="12">Public Repositories:</text>
+      <text class="stat-val" x="220" y="12" fill="#6366f1">${gh.publicRepos} Repos</text>
     </g>
   </g>
   <a href="https://github.com/Tharun4743/github-profile-visualizer" target="_blank">
-    <text x="443" y="183" text-anchor="end" fill="#565f89" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="600" opacity="0.85">⚡ by @Tharun4743</text>
+    <text x="443" y="183" text-anchor="end" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="600" opacity="0.85">⚡ by @Tharun4743</text>
   </a>
 </svg>`;
 }
