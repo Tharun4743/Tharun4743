@@ -49,17 +49,17 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 **All-in-One Multi-Platform Developer Activity & 3D Isometric Telemetry Suite (GitHub Action & CLI)**
 
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-GitHub%20Profile%20Visualizer-purple?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/github-profile-visualizer)
-[![Version: v1](https://img.shields.io/badge/Release-v1.4.0-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/github-profile-visualizer/releases)
+[![Version: v1](https://img.shields.io/badge/Release-v1.5.0-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/github-profile-visualizer/releases)
 
 Next-generation developer telemetry visualizer generating dynamic 3D isometric city skylines, real-time activity streams, executive velocity banners, and multi-metric coding competency cards for GitHub profiles.
 
 * 🚀 **GitHub Marketplace Action:** Published, reusable CI/CD Action (`uses: Tharun4743/github-profile-visualizer@v1`) powering dynamic profile automation across developer communities.
 * 🏙️ **12-in-1 Complete Visualizer Suite:** Generates 3D Contribution City, Executive Summary Banner, Developer Achievements & Medals, Commit Velocity Wave, Engineering Competency Radar, Productive Coding Habits, Language Matrix, Live Event Timeline, LeetCode, GeeksforGeeks, HackerRank, and Duolingo Telemetry in a single execution pass.
-* 🎨 **Universal Theming & Glassmorphism:** 10 curated color themes (Cyberpunk, Tokyo Night, Dracula, Nord, Matrix, Synthwave, Monokai, Sunset, Emerald, GitHub Dark), user-defined 5-color palettes, configurable border radius, and transparent glassmorphism rendering.
+* 🎨 **High-Contrast Pure White & Auto-Adaptive Theming:** High-contrast Pearl Neon, Solar Sunrise, Ocean Breeze, and Emerald Light themes with automatic dark-to-light fallback resolution for all users.
 * 📐 **Pure SVG Mathematical Projection Engine:** Zero headless-browser dependencies (no Puppeteer/Playwright overhead); renders 365 days of contribution depth using deterministic isometric math (`isoX = (x - y) * cos(30°)`, `isoY = (x + y) * sin(30°) - height`) compiled into an ultra-fast Node.js bundle.
 
 **Tech Stack:** Node.js 20+ · SVG Vector Math Engine · GitHub GraphQL & REST APIs · LeetCode Public GraphQL · @vercel/ncc  
-🔗 [GitHub Marketplace Listing](https://github.com/marketplace/actions/github-profile-visualizer) · [Source Repository](https://github.com/Tharun4743/github-profile-visualizer) · [Releases & Changelog](https://github.com/Tharun4743/github-profile-visualizer/releases)
+🔗 [GitHub Marketplace Listing](https://github.com/marketplace/actions/github-profile-visualizer) · [Source Repository](https://github.com/Tharun4743/github-profile-visualizer) · [Setup Guide & AI Prompt](https://github.com/Tharun4743/github-profile-visualizer#readme)
 
 ---
 
