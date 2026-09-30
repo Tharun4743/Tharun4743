@@ -30,8 +30,9 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 ## 🏆 Achievements
 
 - 🥇 **Code Thugs 2K26** — 1st Place / National Winner
-- 🏆 **Odoo × NMIT Bangalore Hackathon 2026** — National Finalist (Grand Finale at NMIT Bengaluru, Oct 10–11)
+- 🌟 **Best GitHub Profile & Top Developer** — VSB Engineering College
 - 🥉 **AIML Hackathon 2026** — 3rd Prize Winner (FINDORA AI)
+- 🏆 **Odoo × NMIT Bangalore Hackathon 2026** — National Finalist (Grand Finale at NMIT Bengaluru, Oct 10–11)
 - 🇮🇳 **India Innovates 2026** — National Finalist
 - 🚀 **Smart India Hackathon** — National Finalist
 - 🌟 **SIH 2025 & 2026 Top 50**

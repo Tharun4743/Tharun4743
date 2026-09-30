@@ -125,6 +125,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 
 ## 🏆 Honors, Awards & Academic Leadership
 * 🥇 **1st Place National Winner** — *Code Thugs 2K26* (National Hackathon Winner for GOAT Collaborative IDE; ₹5,000 cash prize)
+* 🌟 **Best GitHub Profile & Top Developer** — *VSB Engineering College* (Rank #1 campus profile; 2,378+ commits, 26+ active repositories, published GitHub Marketplace Action)
 * 🥉 **3rd Prize Winner** — *8-Hour AI/ML Hackathon 2026* (Conducted by Department of AI & ML, V.S.B. Engineering College; Awarded ChatGPT Go Subscription for [FINDORA AI](https://github.com/Tharun4743/findora-ai))
 * 🏆 **National Finalist** — *Odoo × NMIT Bangalore Hackathon 2026* (Selected for the 24-hour on-campus Grand Finale at NMIT Bangalore on Oct 10–11, 2026 by Odoo India after clearing the 8-hour virtual preliminary challenge; Lead Architect for [Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS))
 * 🚀 **Top 50 / 300+ Teams** — *Smart India Hackathon 2026* (Official Central SIH Portal Nominee for VSBEC IT Vault)
