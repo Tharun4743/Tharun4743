@@ -2,11 +2,11 @@
   <defs>
     <radialGradient id="radar-glow" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.38" />
-      <stop offset="100%" stop-color="#bd93f9" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#8be9fd" stop-opacity="0.08" />
     </radialGradient>
   </defs>
 
-  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#1a1b27" stroke="#24283b" stroke-width="1.5" />
+  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#090d16" stroke="#243048" stroke-width="1.5" />
   
   <!-- Header -->
   <g transform="translate(24, 28)">

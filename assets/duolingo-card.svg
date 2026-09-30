@@ -8,7 +8,7 @@
     }
     .card-border { animation: duoGlowPulse 6s ease-in-out infinite; }
   </style>
-  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#1a1b27" stroke="#24283b" stroke-width="1.5" class="card-border" />
+  <rect x="0.5" y="0.5" width="466" height="194" rx="8" fill="#090d16" stroke="#243048" stroke-width="1.5" class="card-border" />
 
   <!-- Header -->
   <g transform="translate(24, 30)">
@@ -21,11 +21,11 @@
   <g transform="translate(24, 54)">
     <g transform="translate(0, 10)">
       <text class="stat-label">Daily Streak:</text>
-      <text x="240" class="stat-val" fill="#ff9600">18 Days 🔥</text>
+      <text x="240" class="stat-val" fill="#ff9600">19 Days 🔥</text>
     </g>
     <g transform="translate(0, 36)">
       <text class="stat-label">Total Experience:</text>
-      <text x="240" class="stat-val" fill="#ffc800">650 XP ⚡</text>
+      <text x="240" class="stat-val" fill="#ffc800">676 XP ⚡</text>
     </g>
     <g transform="translate(0, 62)">
       <text class="stat-label">Active Language:</text>
@@ -33,7 +33,7 @@
     </g>
     <g transform="translate(0, 88)">
       <text class="stat-label">Language XP / Crowns:</text>
-      <text x="240" class="stat-val" fill="#00d26a">572 XP • 9999 👑</text>
+      <text x="240" class="stat-val" fill="#00d26a">598 XP • 9999 👑</text>
     </g>
   </g>
 
