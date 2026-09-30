@@ -241,7 +241,7 @@ Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineere
 
 <div align="center">
   <a href="https://github.com/Tharun4743/github-profile-visualizer">
-    <img src="assets/skills-radar.svg" width="467" alt="Engineering Competency Radar" />
+    <img src="assets/skills-radar-ocean-light.svg" width="467" alt="Engineering Competency Radar (Ocean Light Theme)" />
   </a>
 </div>
 
@@ -342,14 +342,14 @@ Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineere
 
 <!-- Executive Summary Banner -->
 <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-  <img src="assets/executive-summary.svg" width="100%" alt="Executive Velocity Summary" />
+  <img src="assets/executive-summary-ocean-light.svg" width="100%" alt="Executive Velocity Summary (Ocean Light Theme)" />
 </a>
 
 <br/><br/>
 
-<!-- 3D Contribution City (High-Fidelity Yoshi Engine - Cyberpunk Theme) -->
+<!-- 3D Contribution City (High-Fidelity Yoshi Engine - Ocean Light Theme) -->
 <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-  <img src="assets/profile-3d-cyberpunk.svg" width="100%" alt="Tharun4743's 3D Contribution City (Cyberpunk Theme)" />
+  <img src="assets/profile-3d-ocean-light.svg" width="100%" alt="Tharun4743's 3D Contribution City (Ocean Light Theme)" />
 </a>
 
 <br/><br/>
@@ -359,31 +359,31 @@ Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineere
   <tr>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/commit-velocity.svg" width="100%" alt="Commit Velocity Wave" />
+        <img src="assets/commit-velocity-ocean-light.svg" width="100%" alt="Commit Velocity Wave" />
       </a>
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/activity-timeline.svg" width="100%" alt="Live Recent Activity Stream" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/skills-radar.svg" width="100%" alt="Engineering Competency Radar" />
-      </a>
-    </td>
-    <td align="center" width="50%" valign="middle">
-      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/achievements.svg" width="100%" alt="Developer Achievements & Medals" />
+        <img src="assets/activity-timeline-ocean-light.svg" width="100%" alt="Live Recent Activity Stream" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/languages-matrix.svg" width="100%" alt="Most Used Languages Matrix" />
+        <img src="assets/skills-radar-ocean-light.svg" width="100%" alt="Engineering Competency Radar" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/achievements-ocean-light.svg" width="100%" alt="Developer Achievements & Medals" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <a href="https://github.com/marketplace/actions/github-profile-visualizer">
+        <img src="assets/languages-matrix-ocean-light.svg" width="100%" alt="Most Used Languages Matrix" />
       </a>
     </td>
     <td align="center" width="50%" valign="middle">
@@ -395,12 +395,12 @@ Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineere
   <tr>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/leetcode-card.svg" width="100%" alt="LeetCode Problem Solving Card" />
+        <img src="assets/leetcode-card-ocean-light.svg" width="100%" alt="LeetCode Problem Solving Card" />
       </a>
     </td>
     <td align="center" width="50%" valign="middle">
       <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-        <img src="assets/duolingo-card.svg" width="100%" alt="Duolingo Learning Streak Card" />
+        <img src="assets/duolingo-card-ocean-light.svg" width="100%" alt="Duolingo Learning Streak Card" />
       </a>
     </td>
   </tr>
