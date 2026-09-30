@@ -31,6 +31,7 @@ I specialize in architecting high-reliability software ecosystems, isolated comp
 
 - 🥇 **Code Thugs 2K26** — 1st Place / National Winner
 - 🏆 **Odoo × NMIT Bangalore Hackathon 2026** — National Finalist (Grand Finale at NMIT Bengaluru, Oct 10–11)
+- 🥉 **AIML Hackathon 2026** — 3rd Prize Winner (FINDORA AI)
 - 🇮🇳 **India Innovates 2026** — National Finalist
 - 🚀 **Smart India Hackathon** — National Finalist
 - 🌟 **SIH 2025 & 2026 Top 50**
@@ -170,11 +171,11 @@ Production-grade Human Resource Management System engineered for enterprise work
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-findoravsbec.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://findoravsbec.vercel.app)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Tharun4743%2Ffindora--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun4743/findora-ai)
-[![4th Prize Winner](https://img.shields.io/badge/AIML_Hackathon_2026-4th_Prize_Winner-10B981?style=for-the-badge&logo=openai&logoColor=white)](https://findoravsbec.vercel.app)
+[![3rd Prize Winner](https://img.shields.io/badge/AIML_Hackathon_2026-3rd_Prize_Winner-10B981?style=for-the-badge&logo=openai&logoColor=white)](https://findoravsbec.vercel.app)
 
 Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineered for university campuses to streamline lost item reporting, automated AI correlation, and secure owner handovers.
 
-* 🏅 **8-Hour AIML Hackathon 4th Prize Winner:** Awarded 4th place and ChatGPT Go subscription in the 8-Hour Hackathon conducted by the Department of AI & ML at V.S.B. Engineering College.
+* 🥉 **8-Hour AIML Hackathon 3rd Prize Winner:** Awarded 3rd place and ChatGPT Go subscription in the 8-Hour Hackathon conducted by the Department of AI & ML at V.S.B. Engineering College.
 * 🧠 **Multimodal Hybrid Matching Engine:** Real-time correlation pipeline combining visual feature embeddings (35%), semantic text descriptions (30%), category ontology (15%), and spatio-temporal telemetry (20%) via Google Gemini 2.5 Flash.
 * 🔐 **Zero-Knowledge Blind Verification:** Anti-fraud ownership verification protocol utilizing Levenshtein distance matching and dynamic anti-hammering velocity limiters before authorizing claim handovers.
 * 📷 **Live WebRTC Camera & Canvas Watermarking:** In-browser WebRTC image capture with client-side HTML5 Canvas optical metadata stamping (geolocation and ISO timestamps) to prevent unverified image tampering.

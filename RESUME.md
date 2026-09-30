@@ -97,7 +97,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * Enforces a Human-in-the-Loop disaster commander gate before dispatching targeted evacuation maps to citizens.
 
 ### 🎓 [FINDORA AI — Autonomous Lost & Found Network](https://github.com/Tharun4743/findora-ai) | *React 19, TypeScript, Node.js, Express, Supabase, Gemini 2.5 Flash, Telegram Bot*
-* **4th Prize Winner — 8-Hour Hackathon (AIML Department, VSBEC)** (Awarded ChatGPT Go Subscription) • [Live Production Portal](https://findoravsbec.vercel.app)
+* **3rd Prize Winner — 8-Hour Hackathon (AIML Department, VSBEC)** (Awarded ChatGPT Go Subscription) • [Live Production Portal](https://findoravsbec.vercel.app)
 * Engineered an autonomous campus lost & found network featuring multimodal hybrid correlation (Visual 35%, Text 30%, Spatial/Temporal 35%) using Google Gemini 2.5 Flash.
 * Developed zero-knowledge blind ownership verification with Levenshtein distance scoring and anti-fraud velocity throttling to eliminate fraudulent claims.
 * Integrated live WebRTC camera capture with HTML5 Canvas GPS/timestamp watermarking, Supabase PostgreSQL, Cloudinary CDN, and real-time Telegram bot broadcasts (`@findoravsb_bot`).
@@ -125,7 +125,7 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 
 ## 🏆 Honors, Awards & Academic Leadership
 * 🥇 **1st Place National Winner** — *Code Thugs 2K26* (National Hackathon Winner for GOAT Collaborative IDE; ₹5,000 cash prize)
-* 🏅 **4th Prize Winner** — *8-Hour AI/ML Hackathon 2026* (Conducted by Department of AI & ML, V.S.B. Engineering College; Awarded ChatGPT Go Subscription for [FINDORA AI](https://github.com/Tharun4743/findora-ai))
+* 🥉 **3rd Prize Winner** — *8-Hour AI/ML Hackathon 2026* (Conducted by Department of AI & ML, V.S.B. Engineering College; Awarded ChatGPT Go Subscription for [FINDORA AI](https://github.com/Tharun4743/findora-ai))
 * 🏆 **National Finalist** — *Odoo × NMIT Bangalore Hackathon 2026* (Selected for the 24-hour on-campus Grand Finale at NMIT Bangalore on Oct 10–11, 2026 by Odoo India after clearing the 8-hour virtual preliminary challenge; Lead Architect for [Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS))
 * 🚀 **Top 50 / 300+ Teams** — *Smart India Hackathon 2026* (Official Central SIH Portal Nominee for VSBEC IT Vault)
 * ⛑️ **Top 50 / 300+ Teams** — *Smart India Hackathon 2025* (Official Central SIH Portal Nominee for Smart Helmet IoT System)
