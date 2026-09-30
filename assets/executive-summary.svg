@@ -6,7 +6,11 @@
     }
     .banner-border { animation: bannerPulse 8s ease-in-out infinite; }
   </style>
+<<<<<<< Updated upstream
   <rect x="0.5" y="0.5" width="939" height="129" rx="10" fill="#090d16" stroke="#243048" stroke-width="1.5" class="banner-border" />
+=======
+  <rect x="0.5" y="0.5" width="939" height="129" rx="10" fill="#1a1b27" stroke="#24283b" stroke-width="1.5" class="banner-border" />
+>>>>>>> Stashed changes
 
   <!-- Header Banner Title -->
   <g transform="translate(28, 28)">
