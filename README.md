@@ -347,9 +347,9 @@ Institutional-grade, privacy-first Lost & Found intelligence ecosystem engineere
 
 <br/><br/>
 
-<!-- 3D Contribution City (High-Fidelity Yoshi Engine) -->
+<!-- 3D Contribution City (High-Fidelity Yoshi Engine - Emerald Light Theme) -->
 <a href="https://github.com/marketplace/actions/github-profile-visualizer">
-  <img src="assets/profile-3d-city.svg" width="100%" alt="Tharun4743's 3D Contribution City" />
+  <img src="assets/profile-3d-emerald.svg" width="100%" alt="Tharun4743's 3D Contribution City (Emerald Light)" />
 </a>
 
 <br/><br/>

@@ -36,13 +36,13 @@ jobs:
         uses: Tharun4743/github-profile-visualizer@v1
         with:
           username: ${{ github.repository_owner }}
-          visualizers: '3d-city,activity,languages,leetcode,duolingo,achievements,velocity,radar,summary'
-          theme: 'pearl-neon'
+          visualizers: 'all'
+          theme: 'emerald'
           leetcode-username: 'Tharunkumar__K'
           duolingo-username: 'Tharunkumar4743'
           radar-skills: 'Algorithms:0.94,Full Stack:0.96,Distributed:0.88,System Design:0.90,APIs & DBs:0.95'
           output-dir: 'assets'
-          filename: 'profile-3d-city.svg'
+          filename: 'profile-3d-emerald.svg'
 
       # 2. Generate Multi-Platform GitHub Telemetry & Snake Animations (Zero External Actions)
       - name: 📊 Generate Multi-Platform Telemetry & Snake
