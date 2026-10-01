@@ -103,6 +103,6 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Tharun4743&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Tharun4743)
+[![Profile Views](https://hits.sh/github.com/Tharun4743.svg?style=for-the-badge&label=PROFILE+VIEWS&color=0284c7)](https://hits.sh/github.com/Tharun4743/)
 
 </div>
