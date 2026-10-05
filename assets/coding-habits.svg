@@ -13,24 +13,24 @@
         <text x="0" y="12" font-size="12">🌅</text>
         <text x="22" y="12" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Morning (06-12)</text>
         <rect x="130" y="2" width="200" height="12" rx="6" fill="#e0f2fe" />
-        <rect x="130" y="2" width="26" height="12" rx="6" fill="#00d26a" />
-        <text x="345" y="12" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">13%</text>
+        <rect x="130" y="2" width="18" height="12" rx="6" fill="#00d26a" />
+        <text x="345" y="12" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">9%</text>
       </g>
   
       <g transform="translate(24, 80)">
         <text x="0" y="12" font-size="12">☀️</text>
         <text x="22" y="12" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Daytime (12-18)</text>
         <rect x="130" y="2" width="200" height="12" rx="6" fill="#e0f2fe" />
-        <rect x="130" y="2" width="76" height="12" rx="6" fill="#00f0ff" />
-        <text x="345" y="12" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">38%</text>
+        <rect x="130" y="2" width="68" height="12" rx="6" fill="#00f0ff" />
+        <text x="345" y="12" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">34%</text>
       </g>
   
       <g transform="translate(24, 108)">
         <text x="0" y="12" font-size="12">🌆</text>
         <text x="22" y="12" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Evening (18-24)</text>
         <rect x="130" y="2" width="200" height="12" rx="6" fill="#e0f2fe" />
-        <rect x="130" y="2" width="86" height="12" rx="6" fill="#bd93f9" />
-        <text x="345" y="12" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">43%</text>
+        <rect x="130" y="2" width="102" height="12" rx="6" fill="#bd93f9" />
+        <text x="345" y="12" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">51%</text>
       </g>
   
       <g transform="translate(24, 136)">
