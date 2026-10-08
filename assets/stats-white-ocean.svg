@@ -2,7 +2,7 @@
   <style>
     .header { font: 700 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #0f766e; }
     .stat-label { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #0f172a; }
-    .stat-val { font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .stat-val { font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #0284c7; }
   </style>
   <rect x="0.5" y="0.5" rx="8" height="194" width="466" fill="#ffffff" stroke="#99f6e4" stroke-width="1.5" />
   <g transform="translate(24, 32)">
@@ -15,15 +15,15 @@
     </g>
     <g transform="translate(0, 26)">
       <text class="stat-label" x="0" y="12">Total Lifetime Commits:</text>
-      <text class="stat-val" x="220" y="12" fill="#0f766e">2,389 ⚡</text>
+      <text class="stat-val" x="220" y="12" fill="#0f766e">3,145 ⚡</text>
     </g>
     <g transform="translate(0, 52)">
       <text class="stat-label" x="0" y="12">Pull Requests Merged:</text>
-      <text class="stat-val" x="220" y="12" fill="#0284c7">15 PRs</text>
+      <text class="stat-val" x="220" y="12" fill="#3b82f6">15 PRs</text>
     </g>
     <g transform="translate(0, 78)">
       <text class="stat-label" x="0" y="12">Public Repositories:</text>
-      <text class="stat-val" x="220" y="12" fill="#6366f1">28 Repos</text>
+      <text class="stat-val" x="220" y="12" fill="#6366f1">29 Repos</text>
     </g>
   </g>
   <a href="https://github.com/Tharun4743/github-profile-visualizer" target="_blank">
