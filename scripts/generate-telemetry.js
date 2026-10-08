@@ -113,7 +113,9 @@ async function main() {
   const gh = await fetchGitHubStats();
   const statsSvg = renderStatsSvg(gh);
   fs.writeFileSync(path.join(assetsDir, 'stats.svg'), statsSvg, 'utf8');
-  console.log('✅ Generated assets/stats.svg');
+  fs.writeFileSync(path.join(assetsDir, 'stats-ocean-light.svg'), statsSvg, 'utf8');
+  fs.writeFileSync(path.join(assetsDir, 'stats-white-ocean.svg'), statsSvg, 'utf8');
+  console.log('✅ Generated assets/stats.svg and themed variants');
 
   try {
     require('./generate-snake');
