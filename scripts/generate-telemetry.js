@@ -65,9 +65,9 @@ async function fetchGitHubStats() {
   const user = userInfo.status === 'fulfilled' && userInfo.value ? userInfo.value : {};
   const repoList = repos.status === 'fulfilled' && Array.isArray(repos.value) ? repos.value : [];
   const stars = repoList.reduce((acc, r) => acc + (r.stargazers_count || 0), 0);
-  const commits = commitsData.status === 'fulfilled' && commitsData.value?.total_count ? commitsData.value.total_count : 3113;
-  const prs = prsData.status === 'fulfilled' && prsData.value?.total_count ? prsData.value.total_count : 12;
-  const issues = issuesData.status === 'fulfilled' && issuesData.value?.total_count ? issuesData.value.total_count : 0;
+  const commits = commitsData.status === 'fulfilled' && commitsData.value?.total_count !== undefined ? commitsData.value.total_count : 0;
+  const prs = prsData.status === 'fulfilled' && prsData.value?.total_count !== undefined ? prsData.value.total_count : 0;
+  const issues = issuesData.status === 'fulfilled' && issuesData.value?.total_count !== undefined ? issuesData.value.total_count : 0;
   const publicRepos = user.public_repos || repoList.length;
 
   return { stars, commits, prs, issues, publicRepos };
