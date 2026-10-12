@@ -1,39 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850">
 <style>
     * { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Ubuntu", "Helvetica", Arial, sans-serif; }
-    .fill-fg { fill: #0f172a; }
-    .stroke-fg { stroke: #0f172a; }
-    .fill-bg { fill: #ffffff; }
-    .stroke-bg { stroke: #ffffff; }
-    .fill-strong { fill: #0f766e; }
-    .fill-weak { fill: #64748b; }
-    .stroke-weak { stroke: #64748b; }
+    .fill-fg { fill: #00f0ff; }
+    .stroke-fg { stroke: #00f0ff; }
+    .fill-bg { fill: #050811; }
+    .stroke-bg { stroke: #050811; }
+    .fill-strong { fill: #ffe600; }
+    .fill-weak { fill: #8be9fd; }
+    .stroke-weak { stroke: #8be9fd; }
     .radar {
       stroke-width: 4px;
-      stroke: #0d9488;
-      fill: #0d9488;
+      stroke: #ff007f;
+      fill: #ff007f;
       fill-opacity: 0.5;
     }
   
-        .cont-top-0 { fill: #e2e8f0; }
-        .cont-left-0 { fill: rgb(189, 194, 201); }
-        .cont-right-0 { fill: rgb(158, 162, 168); }
+        .cont-top-0 { fill: #121b2f; }
+        .cont-left-0 { fill: rgb(15, 23, 39); }
+        .cont-right-0 { fill: rgb(13, 19, 33); }
       
-        .cont-top-1 { fill: #5eead4; }
-        .cont-left-1 { fill: rgb(79, 196, 177); }
-        .cont-right-1 { fill: rgb(66, 164, 148); }
+        .cont-top-1 { fill: #7928ca; }
+        .cont-left-1 { fill: rgb(101, 33, 169); }
+        .cont-right-1 { fill: rgb(85, 28, 141); }
       
-        .cont-top-2 { fill: #38bdf8; }
-        .cont-left-2 { fill: rgb(47, 158, 207); }
-        .cont-right-2 { fill: rgb(39, 132, 174); }
+        .cont-top-2 { fill: #b800e6; }
+        .cont-left-2 { fill: rgb(154, 0, 192); }
+        .cont-right-2 { fill: rgb(129, 0, 161); }
       
-        .cont-top-3 { fill: #3b82f6; }
-        .cont-left-3 { fill: rgb(49, 109, 206); }
-        .cont-right-3 { fill: rgb(41, 91, 172); }
+        .cont-top-3 { fill: #ff007f; }
+        .cont-left-3 { fill: rgb(213, 0, 106); }
+        .cont-right-3 { fill: rgb(179, 0, 89); }
       
-        .cont-top-4 { fill: #6366f1; }
-        .cont-left-4 { fill: rgb(83, 85, 201); }
-        .cont-right-4 { fill: rgb(69, 71, 169); }
+        .cont-top-4 { fill: #00f0ff; }
+        .cont-left-4 { fill: rgb(0, 201, 213); }
+        .cont-right-4 { fill: rgb(0, 168, 179); }
       </style>
 <rect x="0" y="0" width="1280" height="850" class="fill-bg"></rect>
 
@@ -76,7 +76,7 @@
   <text x="3.12" y="-156.00" style="font-size: 13.00px;" text-anchor="start" dominant-baseline="auto" class="fill-weak">10K</text>
   <g class="axis">
     <line x1="0.00" y1="-31.20" x2="0.00" y2="-156.00" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-    <text x="0.00" y="-182.52" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">Commit<title>2449</title></text>
+    <text x="0.00" y="-182.52" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">Commit<title>3166</title></text>
   </g>
   <g class="axis">
     <line x1="29.67" y1="-9.64" x2="148.36" y2="-48.21" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
@@ -84,7 +84,7 @@
   </g>
   <g class="axis">
     <line x1="18.34" y1="25.24" x2="91.69" y2="126.21" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-    <text x="114.62" y="147.66" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">PullReq<title>0</title></text>
+    <text x="114.62" y="147.66" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">PullReq<title>15</title></text>
   </g>
   <g class="axis">
     <line x1="-18.34" y1="25.24" x2="-91.69" y2="126.21" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
@@ -94,8 +94,8 @@
     <line x1="-29.67" y1="-9.64" x2="-148.36" y2="-48.21" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
     <text x="-185.46" y="-56.40" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">Repo<title>29</title></text>
   </g>
-  <polygon class="radar" points="0.00,-136.94 23.74,-7.71 14.67,20.19 -14.67,20.19 -73.07,-23.74">
-    <animate attributeName="points" values="0.00,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0.00,-136.94 23.74,-7.71 14.67,20.19 -14.67,20.19 -73.07,-23.74" dur="3s" repeatCount="1"></animate>
+  <polygon class="radar" points="0.00,-140.42 23.74,-7.71 39.91,54.93 -14.67,20.19 -73.07,-23.74">
+    <animate attributeName="points" values="0.00,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0.00,-140.42 23.74,-7.71 39.91,54.93 -14.67,20.19 -73.07,-23.74" dur="3s" repeatCount="1"></animate>
   </polygon>
 </g>
 
@@ -172,7 +172,7 @@
 
 <!-- Telemetry & Metrics Summary -->
 <g>
-  <text style="font-size: 32px; font-weight: bold;" x="384" y="830" text-anchor="end" class="fill-strong">2,449</text>
+  <text style="font-size: 32px; font-weight: bold;" x="384" y="830" text-anchor="end" class="fill-strong">3,166</text>
   <text style="font-size: 24px;" x="394" y="830" text-anchor="start" class="fill-fg">contributions</text>
 
   <g transform="translate(608, 802), scale(2)">
