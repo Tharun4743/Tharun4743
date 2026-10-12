@@ -35,6 +35,7 @@ jobs:
       - name: 🏙️ Generate Profile Visualizer Suite
         uses: Tharun4743/github-profile-visualizer@v1
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           username: ${{ github.repository_owner }}
           visualizers: 'all'
           theme: 'ocean-light'
@@ -43,6 +44,8 @@ jobs:
           radar-skills: 'Algorithms:0.94,Full Stack:0.96,Distributed:0.88,System Design:0.90,APIs & DBs:0.95'
           output-dir: 'assets'
           filename: 'profile-3d-ocean-light.svg'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # 2. Generate Multi-Platform GitHub Telemetry & Snake Animations (Zero External Actions)
       - name: 📊 Generate Multi-Platform Telemetry & Snake
