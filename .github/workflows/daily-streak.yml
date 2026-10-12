@@ -1,0 +1,32 @@
+name: Daily Contribution & Streak Keeper
+
+on:
+  schedule:
+    # Runs everyday at 08:00 AM IST (02:30 UTC)
+    - cron: '30 2 * * *'
+  workflow_dispatch: # Allows manual one-click trigger anytime
+
+permissions:
+  contents: write
+
+jobs:
+  keep-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate Daily Activity Telemetry
+        run: |
+          mkdir -p .github/activity
+          echo "{\"timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"user\": \"Tharun4743\", \"status\": \"active\"}" > .github/activity/heartbeat.json
+
+      - name: Commit & Push Daily Contribution
+        run: |
+          git config user.name "Tharun4743"
+          git config user.email "tharunkumark42007@gmail.com"
+          git add .github/activity/heartbeat.json
+          git commit -m "chore(activity): daily engineering streak [$(date +'%Y-%m-%d')]"
+          git push origin main
