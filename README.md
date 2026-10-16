@@ -38,7 +38,9 @@
 ## 💻 Featured Projects
 
 * ⚡ **[Github Profile Visualizer](https://github.com/Tharun4743/Github-profile-visualizer):** Published GitHub Action & 13-in-1 pure SVG developer telemetry suite.
-* 🏛️ **[VSBEC IT Vault](https://github.com/Tharun4743/Taskmanager):** Sandboxed compiler & campus governance ecosystem actively used by **365+ students**.
+* 🏛️ **[VSBEC IT Vault (TaskManager)](https://github.com/Tharun4743/Taskmanager):** Sandboxed compiler & campus governance ecosystem actively used by **365+ students**.
+* 🧠 **[AURA](https://github.com/Tharun4743/AURA):** Air-Gapped Local Multimodal RAG Engine & Offline AI Knowledge Assistant.
+* 🪖 **[Smart Helmet IoT](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-):** SIH Top 50 dual-unit embedded motorcycle accident prevention system.
 * ⚡ **[GOAT Code Editor](https://github.com/Tharun4743/GOAT-CE):** Real-time collaborative IDE with custom peer-to-peer WebRTC voice mesh (Code Thugs Winner).
 * 🔍 **[FINDORA AI](https://github.com/Tharun4743/Findora-ai):** Campus lost & found correlation engine with Google Gemini 2.5 Flash (AIML Hackathon 3rd Prize).
 
