@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Tharunkumar K 👋
+# Hi, I'm Tharunkumar K ≡ƒæï
 
 ### Full Stack Developer & AI Systems Engineer
 <p align="center">
-  🎓 <b>Pursuing B.Tech in Information Technology</b> at <a href="https://vsbec.com"><b>V.S.B. Engineering College, Karur</b></a> (Batch 2024–2028)<br/>
-  🌟 Recognized for holding the <b>Best GitHub Profile & Top Student Developer</b> at V.S.B. Engineering College (VSBEC)
+  ≡ƒÄô <b>Pursuing B.Tech in Information Technology</b> at <a href="https://vsbec.com"><b>V.S.B. Engineering College, Karur</b></a> (Batch 2024ΓÇô2028)<br/>
+  ≡ƒîƒ Recognized for holding the <b>Best GitHub Profile & Top Student Developer</b> at V.S.B. Engineering College (VSBEC)
 </p>
 
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+(SDE)+Aspirant;Full+Stack+%26+Distributed+Systems+Architect;Code+Thugs+2K26+Winner+%7C+SIH+Top+50+Finalist;Actively+Interviewing+for+SDE+%26+SWE+Roles">
@@ -20,37 +20,37 @@
 </p>
 
 <p align="center">
-  <a href="https://tharunkumark4743.netlify.app/">🌐 <b>Portfolio</b></a> ·
-  <a href="https://www.linkedin.com/in/tharunkumark4743">💼 <b>LinkedIn</b></a> ·
-  <a href="https://leetcode.com/u/Tharunkumar__K/">🧩 <b>LeetCode</b></a> ·
-  <a href="https://www.geeksforgeeks.org/profile/tharunkumark4743">🎓 <b>GeeksforGeeks</b></a> ·
-  <a href="mailto:tharunkumark42007@gmail.com">📧 <b>Email</b></a>
+  <a href="https://tharunkumark4743.netlify.app/">≡ƒîÉ <b>Portfolio</b></a> ┬╖
+  <a href="https://www.linkedin.com/in/tharunkumark4743">≡ƒÆ╝ <b>LinkedIn</b></a> ┬╖
+  <a href="https://leetcode.com/u/Tharunkumar__K/">≡ƒº⌐ <b>LeetCode</b></a> ┬╖
+  <a href="https://www.geeksforgeeks.org/profile/tharunkumark4743">≡ƒÄô <b>GeeksforGeeks</b></a> ┬╖
+  <a href="mailto:tharunkumark42007@gmail.com">≡ƒôº <b>Email</b></a>
 </p>
 
 </div>
 
 ---
 
-## ⚡ Highlights
+## ΓÜí Highlights
 
-* 🌟 **Best GitHub Profile & Top Developer** — [V.S.B. Engineering College, Karur](https://vsbec.com) (2,400+ commits, 31+ public repos)
-* 🥇 **Winner — Code Thugs 2K26** (1st Place National Hackathon with GOAT-CE)
-* 🚀 **Smart India Hackathon (SIH)** — 2025 & 2026 Top 50 National Finalist
-* 🏆 **Odoo × NMIT Bangalore 2026** — National Finalist (Work Suite HRMS)
-* 🎓 **GeeksforGeeks Campus Mantri 2026** — VSB Engineering College Student Ambassador
-
----
-
-## 💻 Featured Projects
-
-* ⚡ **[Github Profile Visualizer](https://github.com/Tharun4743/Github-profile-visualizer):** Published GitHub Action & 13-in-1 pure SVG developer telemetry suite on GitHub Marketplace.
-* 🏛️ **[VSBEC IT Vault](https://github.com/Tharun4743/Taskmanager):** Sandboxed compiler & campus governance ecosystem actively used by **365+ students** at V.S.B. Engineering College IT Department.
-* ⚡ **[GOAT Code Editor](https://github.com/Tharun4743/GOAT-CE):** Real-time collaborative cloud IDE with custom peer-to-peer WebRTC voice mesh (Code Thugs 2K26 National Winner).
-* 🔍 **[FINDORA AI](https://github.com/Tharun4743/Findora-ai):** Campus lost & found correlation engine with Google Gemini 2.5 Flash (AIML Hackathon 3rd Prize).
+* ≡ƒîƒ **Best GitHub Profile & Top Developer** ΓÇö [V.S.B. Engineering College, Karur](https://vsbec.com) (2,400+ commits, 31+ public repos)
+* ≡ƒÑç **Winner ΓÇö Code Thugs 2K26** (1st Place National Hackathon with GOAT-CE)
+* ≡ƒÜÇ **Smart India Hackathon (SIH)** ΓÇö 2025 & 2026 Top 50 National Finalist
+* ≡ƒÅå **Odoo ├ù NMIT Bangalore 2026** ΓÇö National Finalist (Work Suite HRMS)
+* ≡ƒÄô **GeeksforGeeks Campus Mantri 2026** ΓÇö VSB Engineering College Student Ambassador
 
 ---
 
-## 🛠️ Skills
+## ≡ƒÆ╗ Featured Projects
+
+* ΓÜí **[Github Profile Visualizer](https://github.com/Tharun4743/Github-profile-visualizer):** Published GitHub Action & 13-in-1 pure SVG developer telemetry suite on GitHub Marketplace.
+* ≡ƒÅ¢∩╕Å **[VSBEC IT Vault](https://github.com/Tharun4743/Taskmanager):** Sandboxed compiler & campus governance ecosystem actively used by **365+ students** at V.S.B. Engineering College IT Department.
+* ΓÜí **[GOAT Code Editor](https://github.com/Tharun4743/GOAT-CE):** Real-time collaborative cloud IDE with custom peer-to-peer WebRTC voice mesh (Code Thugs 2K26 National Winner).
+* ≡ƒöì **[FINDORA AI](https://github.com/Tharun4743/Findora-ai):** Campus lost & found correlation engine with Google Gemini 2.5 Flash (AIML Hackathon 3rd Prize).
+
+---
+
+## ≡ƒ¢á∩╕Å Skills
 
 * **Languages:** Java 17, TypeScript, JavaScript, Python, C/C++, SQL
 * **Frontend:** React 19, Next.js 15, Vite, Tailwind CSS, Monaco Editor
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Telemetry & Engineering Activity
+## ≡ƒôè Telemetry & Engineering Activity
 
 <div align="center">
 
@@ -99,7 +99,7 @@
 
 <br/>
 
-### 🐍 365-Day Contribution Snake
+### ≡ƒÉì 365-Day Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
@@ -121,4 +121,26 @@ Department: Department of Information Technology (Batch 2024-2028)
 Primary Distinctions: Best GitHub Profile in VSB Engineering College, Top Student Developer VSBEC, Best Developer Karur, Code Thugs 2K26 Winner, Smart India Hackathon Finalist
 Projects: GOAT Code Editor, VSBEC IT Vault, FINDORA AI, Github Profile Visualizer
 Canonical Portfolio: https://tharunkumark4743.netlify.app/
+========================================================================= -->
+
+
+## License & Intellectual Property Notice
+
+> [!CAUTION]
+> ### ðŸ”’ PROPRIETARY & CONFIDENTIAL INTELLECTUAL PROPERTY â€” ALL RIGHTS RESERVED
+>
+> All rights reserved. This repository, its architecture, source code, workflows, models, and associated documentation are the exclusive intellectual property of **Tharunkumar Kâ„¢**.
+>
+> **STRICT NOTICE:** No individual, organization, institution, or commercial entity is permitted to use, copy, modify, distribute, reproduce, sublicense, reverse-engineer, deploy, or commercially exploit any portion of this project without express, prior written permission from **Tharunkumar K**.
+>
+> **Copyright Â© 2026 Tharunkumar K. All Rights Reserved.**  
+> See the [LICENSE](LICENSE) file for complete legal terms.
+<!-- =========================================================================
+   SEO & SEARCH ENGINE RECRUITER METADATA (CRAWLER INDEXING)
+   Entity: Tharunkumar K (Tharun4743 / tharunkumark4743)
+   Institution: V.S.B. Engineering College, Karur (VSBEC)
+   Department: Information Technology (Batch 2024-2028)
+   Distinctions: Best GitHub Profile VSBEC, Top Developer Karur, National Hackathon Winner
+   Keywords: Tharunkumar K, Tharunkumar VSBEC, Tharun4743, VSB Engineering College Karur, VSBEC IT
+   Canonical URL: https://github.com/Tharun4743/Tharun4743
 ========================================================================= -->
