@@ -9,8 +9,8 @@
   🌟 Recognized for holding the <b>Best GitHub Profile & Top Student Developer</b> at <b>V.S.B. Engineering College (VSBEC)</b>
 </p>
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0284C7&center=true&vCenter=true&width=680&lines=2×+Hackathon+Winner+%7C+Code+Thugs+2K26+🥇+%7C+Neural+Minds+🥉;Best+GitHub+Profile+@VSB+ENGINEERING+COLLEGE;India+Innovates+2026+%26+Odoo+×+NMIT+2026+Finalist+🇮🇳;SIH+2025+%26+2026+Top+50+Finalist;Full+Stack+%26+AI+Systems+Developer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0284C7&center=true&vCenter=true&width=680&lines=2×+Hackathon+Winner+%7C+Code+Thugs+2K26+🥇+%7C+Neural+Minds+🥉;Best+GitHub+Profile+@VSB+ENGINEERING+COLLEGE;India+Innovates+2026+%26+Odoo+×+NMIT+2026+Finalist+🇮🇳;SIH+2025+%26+2026+Top+50+Finalist;Full+Stack+%26+AI+Systems+Developer" alt="Typing Animation" />
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0284C7&center=true&vCenter=true&width=680&lines=2%C3%97+Hackathon+Winner+%7C+Code+Thugs+2K26+%F0%9F%A5%87+%7C+Neural+Minds+%F0%9F%A5%89;Best+GitHub+Profile+%40VSB+ENGINEERING+COLLEGE;India+Innovates+2026+%26+Odoo+%C3%97+NMIT+2026+Finalist+%F0%9F%87%AE%F0%9F%87%B3;SIH+2025+%26+2026+Top+50+Finalist;Full+Stack+%26+AI+Systems+Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0284C7&center=true&vCenter=true&width=680&lines=2%C3%97+Hackathon+Winner+%7C+Code+Thugs+2K26+%F0%9F%A5%87+%7C+Neural+Minds+%F0%9F%A5%89;Best+GitHub+Profile+%40VSB+ENGINEERING+COLLEGE;India+Innovates+2026+%26+Odoo+%C3%97+NMIT+2026+Finalist+%F0%9F%87%AE%F0%9F%87%B3;SIH+2025+%26+2026+Top+50+Finalist;Full+Stack+%26+AI+Systems+Developer" alt="Typing Animation" />
 </a>
 
 <p align="center">
