@@ -23,11 +23,8 @@
 
 <p align="center">
   <a href="https://tharunkumark4743.netlify.app/">🌐 <b>Portfolio</b></a> ·
-  <a href="https://dev.to/tharunkumark/best-github-profile-in-vsb-engineering-college-2026-student-developer-showcas-1fp8">📖 <b>Dev.to Showcase</b></a> ·
   <a href="https://www.linkedin.com/in/tharunkumark4743">💼 <b>LinkedIn</b></a> ·
   <a href="https://leetcode.com/u/Tharunkumar__K/">🧩 <b>LeetCode</b></a> ·
-  <a href="https://www.geeksforgeeks.org/profile/tharunkumark4743">🎓 <b>GeeksforGeeks</b></a> ·
-  <a href="https://tharunkumark4743.netlify.app/vsb-engineering-college-github-profiles/">🏛️ <b>VSB Showcase</b></a> ·
   <a href="mailto:tharunkumark42007@gmail.com">📧 <b>Email</b></a>
 </p>
 
