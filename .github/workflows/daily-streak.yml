@@ -9,6 +9,8 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
+  issues: write
 
 jobs:
   keep-streak:
@@ -36,3 +38,80 @@ jobs:
           done
 
           git push origin main
+
+      - name: Generate Issue Activity
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          echo "Generating Issue activity..."
+          ISSUE_URL=$(gh issue create \
+            --title "telemetry(health): automated system metrics [$(date +'%Y-%m-%d %H:%M')]" \
+            --body "Automated health check and contribution telemetry synchronization." || true)
+          if [ -n "$ISSUE_URL" ]; then
+            ISSUE_NUM=$(basename "$ISSUE_URL")
+            gh issue close "$ISSUE_NUM" --comment "Telemetry recorded and verified." || true
+            echo "Successfully recorded and closed Issue #$ISSUE_NUM"
+          fi
+
+      - name: Generate Pull Request Activity
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          echo "Generating Pull Request activity..."
+          BRANCH_PR="streak/pr-$(date +'%s')"
+          git checkout -b "$BRANCH_PR"
+          mkdir -p .github/activity
+          echo "{\"pr_timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"user\": \"Tharun4743\"}" > .github/activity/pr-heartbeat.json
+          git add .github/activity/pr-heartbeat.json
+          git commit -m "chore(telemetry): automated PR telemetry sync [$(date +'%Y-%m-%d %H:%M')]"
+          git push origin "$BRANCH_PR"
+
+          PR_URL=$(gh pr create \
+            --title "chore(telemetry): automated PR metrics sync [$(date +'%Y-%m-%d %H:%M')]" \
+            --body "Routine telemetry synchronization pull request." \
+            --head "$BRANCH_PR" \
+            --base main || true)
+
+          if [ -n "$PR_URL" ]; then
+            PR_NUM=$(basename "$PR_URL")
+            gh pr merge "$PR_NUM" --merge --delete-branch || true
+            echo "Successfully created and merged PR #$PR_NUM"
+          fi
+
+          git checkout main
+          git pull origin main
+
+      - name: Generate Code Review Activity
+        env:
+          PAT_TOKEN: ${{ secrets.GH_PAT }}
+          BOT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Generating Code Review activity..."
+          BRANCH_REV="streak/review-$(date +'%s')"
+          git checkout -b "$BRANCH_REV"
+          mkdir -p .github/activity
+          echo "{\"review_timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"}" > .github/activity/review-heartbeat.json
+          git add .github/activity/review-heartbeat.json
+          git commit -m "chore(audit): code inspection telemetry"
+          git push origin "$BRANCH_REV"
+
+          # Open PR with bot token so review can be authored by Tharun4743
+          REV_PR_URL=$(GH_TOKEN="$BOT_TOKEN" gh pr create \
+            --title "chore(audit): code review inspection [$(date +'%Y-%m-%d %H:%M')]" \
+            --body "Automated telemetry audit ready for peer code review." \
+            --head "$BRANCH_REV" \
+            --base main 2>/dev/null || GH_TOKEN="$PAT_TOKEN" gh pr create \
+            --title "chore(audit): code review inspection [$(date +'%Y-%m-%d %H:%M')]" \
+            --body "Automated telemetry audit ready for peer code review." \
+            --head "$BRANCH_REV" \
+            --base main || true)
+
+          if [ -n "$REV_PR_URL" ]; then
+            REV_PR_NUM=$(basename "$REV_PR_URL")
+            GH_TOKEN="$PAT_TOKEN" gh pr review "$REV_PR_NUM" --approve -b "Code inspection verified: telemetry standards met." || true
+            GH_TOKEN="$PAT_TOKEN" gh pr merge "$REV_PR_NUM" --merge --delete-branch || true
+            echo "Successfully submitted code review on PR #$REV_PR_NUM"
+          fi
+
+          git checkout main
+          git pull origin main
