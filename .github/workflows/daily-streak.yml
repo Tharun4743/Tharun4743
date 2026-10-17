@@ -2,8 +2,9 @@ name: Daily Contribution & Streak Keeper
 
 on:
   schedule:
-    # Runs everyday at 08:00 AM IST (02:30 UTC)
-    - cron: '30 2 * * *'
+    # Runs 4 times a day across active developer hours:
+    # 09:30 AM, 01:30 PM, 05:30 PM, and 09:30 PM IST (04:00, 08:00, 12:00, 16:00 UTC)
+    - cron: '0 4,8,12,16 * * *'
   workflow_dispatch: # Allows manual one-click trigger anytime
 
 permissions:
@@ -24,14 +25,14 @@ jobs:
           git config user.email "tharunkumark42007@gmail.com"
           mkdir -p .github/activity
 
-          # Randomized count between 20 and 30 commits per day
-          COUNT=$((RANDOM % 11 + 20))
-          echo "Generating $COUNT commits for today..."
+          # 5 to 8 randomized commits per interval across 4 runs (~20 to 32 daily commits)
+          COUNT=$((RANDOM % 4 + 5))
+          echo "Generating $COUNT commits for this interval..."
 
           for ((i=1; i<=COUNT; i++)); do
             echo "{\"timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"user\": \"Tharun4743\", \"cycle\": $i, \"total\": $COUNT, \"status\": \"active\"}" > .github/activity/heartbeat.json
             git add .github/activity/heartbeat.json
-            git commit -m "chore(activity): daily engineering streak #$i/$COUNT [$(date +'%Y-%m-%d')]"
+            git commit -m "chore(activity): engineering streak sync #$i/$COUNT [$(date +'%Y-%m-%d %H:%M')]"
           done
 
           git push origin main
