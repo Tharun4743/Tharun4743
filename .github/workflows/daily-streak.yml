@@ -18,15 +18,20 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
 
-      - name: Generate Daily Activity Telemetry
-        run: |
-          mkdir -p .github/activity
-          echo "{\"timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"user\": \"Tharun4743\", \"status\": \"active\"}" > .github/activity/heartbeat.json
-
-      - name: Commit & Push Daily Contribution
+      - name: Commit & Push Daily Contribution Streak
         run: |
           git config user.name "Tharun4743"
           git config user.email "tharunkumark42007@gmail.com"
-          git add .github/activity/heartbeat.json
-          git commit -m "chore(activity): daily engineering streak [$(date +'%Y-%m-%d')]"
+          mkdir -p .github/activity
+
+          # Randomized count between 20 and 30 commits per day
+          COUNT=$((RANDOM % 11 + 20))
+          echo "Generating $COUNT commits for today..."
+
+          for ((i=1; i<=COUNT; i++)); do
+            echo "{\"timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"user\": \"Tharun4743\", \"cycle\": $i, \"total\": $COUNT, \"status\": \"active\"}" > .github/activity/heartbeat.json
+            git add .github/activity/heartbeat.json
+            git commit -m "chore(activity): daily engineering streak #$i/$COUNT [$(date +'%Y-%m-%d')]"
+          done
+
           git push origin main
