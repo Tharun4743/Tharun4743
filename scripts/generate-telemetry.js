@@ -117,6 +117,22 @@ async function main() {
   fs.writeFileSync(path.join(assetsDir, 'stats-white-ocean.svg'), statsSvg, 'utf8');
   console.log('✅ Generated assets/stats.svg and themed variants');
 
+  // Dynamically update README.md with live calculated stats
+  try {
+    const readmePath = path.resolve(__dirname, '../README.md');
+    if (fs.existsSync(readmePath)) {
+      let content = fs.readFileSync(readmePath, 'utf8');
+      content = content.replace(
+        /\(Rank #1 campus developer, [^)]+\)/,
+        `(Rank #1 campus developer, ${gh.commits.toLocaleString()}+ commits, ${gh.publicRepos}+ public repos)`
+      );
+      fs.writeFileSync(readmePath, content, 'utf8');
+      console.log(`✅ Dynamically updated README.md with ${gh.commits.toLocaleString()}+ commits and ${gh.publicRepos}+ repos`);
+    }
+  } catch (err) {
+    console.warn('⚠️ README update notice:', err.message);
+  }
+
   try {
     require('./generate-snake');
   } catch (err) {
