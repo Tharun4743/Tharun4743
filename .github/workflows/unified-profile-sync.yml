@@ -61,12 +61,10 @@ jobs:
         run: |
           git config user.name "Tharun4743"
           git config user.email "tharunkumark42007@gmail.com"
-          git stash -- assets/
-          git pull origin main --rebase
-          git stash pop || true
-          git add assets/
+          git add -A assets/ README.md
           if ! git diff --cached --quiet; then
             git commit -m "chore(telemetry): sync profile visualizers [skip ci]"
+            git pull origin main --rebase -X theirs || git pull origin main --rebase
             git push origin main
           else
             echo "No visualizer changes detected."
