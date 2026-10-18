@@ -34,7 +34,7 @@
 
 ## ⚡ Highlights & Key Accolades
 
-* 🌟 **Best GitHub Profile & Top Developer** — [V.S.B. Engineering College, Karur](https://vsbec.com) (Rank #1 campus developer, 2,400+ commits, 15+ public repos)
+* 🌟 **Best GitHub Profile & Top Developer** — [V.S.B. Engineering College, Karur](https://vsbec.com) (Rank #1 campus developer, 3,574+ commits, 30+ public repos)
 * 🥇 **Winner — Code Thugs 2K26** (1st Place National Hackathon Winner with GOAT-CE collaborative IDE)
 * 🥉 **3rd Prize — Neural Minds AI/ML Hackathon** (Department of AI & ML, VSBEC with FINDORA AI)
 * 🚀 **Smart India Hackathon (SIH)** — 2025 & 2026 Top 50 National Nominee (VSBEC IT Vault & Smart Helmet IoT)
@@ -46,10 +46,11 @@
 
 ## 💻 Featured Flagship Projects
 
-* ⚡ **[Github Profile Visualizer](https://github.com/Tharun4743/Github-profile-visualizer):** Published GitHub Action & 13-in-1 pure SVG developer telemetry suite on GitHub Marketplace.
-* 🏛️ **[VSBEC IT Vault (TaskManager)](https://github.com/Tharun4743/Taskmanager):** Sandboxed multi-compiler IDE & campus governance ecosystem actively adopted by **365+ students** at V.S.B. Engineering College (SIH 2026 Top 50).
+* ⚡ **[Github Profile Visualizer](https://github.com/Tharun4743/github-profile-visualizer):** Published GitHub Action & 13-in-1 pure SVG developer telemetry suite on GitHub Marketplace.
+* 🏛️ **[VSBEC IT Vault (taskmanager)](https://github.com/Tharun4743/taskmanager):** Sandboxed multi-compiler IDE & campus governance ecosystem actively adopted by **365+ students** at V.S.B. Engineering College (SIH 2026 Top 50).
 * ⚡ **[GOAT Code Editor](https://github.com/Tharun4743/GOAT-CE):** Real-time collaborative cloud IDE with custom peer-to-peer WebRTC voice mesh (Code Thugs 2K26 1st Place National Winner).
-* 🔍 **[FINDORA AI](https://github.com/Tharun4743/Findora-ai):** Campus lost & found correlation engine with Google Gemini 2.5 Flash (Neural Minds AIML Hackathon 3rd Prize).
+* 🔍 **[FINDORA AI](https://github.com/Tharun4743/findora-ai):** Campus lost & found correlation engine with Google Gemini 2.5 Flash (Neural Minds AIML Hackathon 3rd Prize).
+* 🎓 **[CampusConnect](https://github.com/Tharun4743/CampusConnect):** Enterprise collegiate placement governance platform with real-time Socket.IO interview funnels & Cloudinary document vault (Neura Global Internship).
 * 🪖 **[Smart Helmet IoT Safety System](https://github.com/Tharun4743/AGILE-INNOVATORS-smart-helmet-):** Dual-unit RF 433MHz rider safety ignition interlock (SIH 2025 Top 50).
 * 🏢 **[Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS):** Enterprise workforce operations & payroll suite (Odoo × NMIT Bangalore 2026 National Finalist).
 
