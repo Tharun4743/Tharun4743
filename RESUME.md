@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Professional Summary
-High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven experience architecting and deploying real-world software actively used daily by **365+ enrolled students**. **National Finalist at Odoo × NMIT Bangalore Hackathon 2026** (selected for 24-hour on-campus Grand Finale at NMIT Bangalore), two-time **Smart India Hackathon (SIH 2026 & SIH 2025) Top 50 Finalist** (Official Central SIH Portal Nominee), and **1st Place National Winner at Code Thugs 2K26**. Expert across React 19, Next.js 15, Node.js, Express, TypeScript, isolated compiler execution sandboxes, WebRTC/SSE streaming, embedded Arduino/RF 433MHz systems, and enterprise Pega low-code case lifecycles. Maintainer of an interconnected ecosystem of 25 standardized engineering repositories spanning institutional governance, collaborative cloud IDEs, cyber-physical safety, and applied AI.
+High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven experience architecting and deploying real-world software actively used daily by **365+ enrolled students**. **National Finalist at Odoo × NMIT Bangalore Hackathon 2026** (selected for 24-hour on-campus Grand Finale at NMIT Bangalore), two-time **Smart India Hackathon (SIH 2026 & SIH 2025) Top 50 Finalist** (Official Central SIH Portal Nominee), and **1st Place National Winner at Code Thugs 2K26**. Expert across React 19, Next.js 15, Node.js, Express, TypeScript, isolated compiler execution sandboxes, WebRTC/SSE streaming, embedded Arduino/RF 433MHz systems, and distributed system architectures. Maintainer of an interconnected ecosystem of 25 standardized engineering repositories spanning institutional governance, collaborative cloud IDEs, cyber-physical safety, and applied AI.
 
 ---
 
@@ -26,19 +26,12 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 * **Databases & Persistence:** PostgreSQL (35+ relational tables), Supabase, Neon Serverless Postgres, In-Memory RAM Caching, Redis, MongoDB Atlas, SQLite, ChromaDB
 * **AI & Machine Learning:** Groq LPU (LLaMA 3 70B), Google Gemini AI SDK, Hugging Face Transformers, FinBERT, MobileNet, YOLO Vision, RAG Pipelines
 * **Embedded IoT & Hardware:** Arduino Nano/Core, ESP32, RF 433MHz Wireless Telemetry, MQ-3 Alcohol Sensor, MQ-2/MQ-135 Gas Sensors, IR Proximity, IR Eye-Blink Sensor, 5V Relays, I²C LCD
-* **Enterprise BPM & Low-Code:** Pega Infinity '24.1, Pega Guardrails, Enterprise Case Lifecycle Management, SLA Timers, Declarative Rules, Skill-Based Routing
+* **Architecture & Systems Design:** Microservices, Event-Driven Architecture, WebSocket/WebRTC Protocols, RESTful API Design, Role-Based Access Control (RBAC)
 * **DevOps & Cloud:** Git, GitHub Actions (CI/CD), Vercel, Render, Netlify Edge CDN, Docker (Piston Sandbox), Cloudinary CDN, Postman
 
 ---
 
 ## 💼 Professional Experience
-
-### 🚗 Enterprise Systems Intern — Pegasystems (Pega) Enterprise Architecture
-*Jul 2026 – Aug 2026*
-* Engineered **Vehicle Service Management** ([Vehicle-Service](https://github.com/Tharun4743/Vehicle-Service)), an enterprise automotive case lifecycle automation platform on **Pega Infinity '24.1** (Pega Next-Gen Innovators Program).
-* Built formal multi-stage case flows (Intake → Diagnostic Inspection → Cost Estimation → Customer Approval SLA → Technician Repair → Invoicing).
-* Configured automated SLA Goal and Deadline escalation timers to prevent repair turnarounds from breaching customer service guarantees.
-* Implemented declarative pricing logic and skill-based work queue routing (`HeavyVehicleQueue` vs. `LightVehicleQueue`) to match specialized diagnostic jobs with certified mechanics.
 
 ### 🚀 Full-Stack Engineering Intern — Neura Global *(Startup)*
 *Jun 2026 – Jul 2026*
@@ -100,7 +93,6 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 
 ## 📦 Additional Enterprise & Applied Engineering Systems
 
-* 🚗 **[Vehicle Service Management](https://github.com/Tharun4743/Vehicle-Service)** *(Pega Internship Project)*: Enterprise automotive workflow and case lifecycle management platform engineered on Pega Infinity '24.1, featuring automated SLA timers, skill-based technician queues, and declarative billing logic.
 * 🎬 **[Encodr Lite](https://github.com/Tharun4743/encodr-lite-take-home)** *(Mactores Company Technical Assessment)*: Strictly typed Next.js 19 media transcoding and BullMQ/FFmpeg job queue monitoring dashboard built for the Mactores technical assessment with zero runtime typing errors.
 * 🛡️ **[Mailtrace AI](https://github.com/Tharun4743/Mailtrace-ai)**: Email forensics platform validating SPF/DKIM/DMARC headers with Hugging Face transformer intent classification to neutralize zero-day spear phishing.
 * 💳 **[MuleGuard](https://github.com/Tharun4743/Muleguard)**: Financial crime detection engine using Neo4j and D3.js graph topologies to identify money mule smurfing rings via velocity heuristics.
@@ -116,7 +108,6 @@ High-impact Full-Stack Systems Architect and Embedded IoT Developer with proven 
 
 ## 🏆 Honors, Awards & Academic Leadership
 * 🥇 **1st Place National Winner** — *Code Thugs 2K26* (National Hackathon Winner for GOAT Collaborative IDE; ₹5,000 cash prize)
-* 🌟 **Best GitHub Profile & Top Developer** — *VSB Engineering College* (Rank #1 campus profile; 3,574+ commits, 30+ public repositories, published GitHub Marketplace Action)
 * 🥉 **3rd Prize Winner** — *8-Hour AI/ML Hackathon 2026* (Conducted by Department of AI & ML, V.S.B. Engineering College; Awarded ChatGPT Go Subscription for [FINDORA AI](https://github.com/Tharun4743/findora-ai))
 * 🏆 **National Finalist** — *Odoo × NMIT Bangalore Hackathon 2026* (Selected for the 24-hour on-campus Grand Finale at NMIT Bangalore on Oct 10–11, 2026 by Odoo India after clearing the 8-hour virtual preliminary challenge; Lead Architect for [Work Suite HRMS](https://github.com/Tharun4743/WorkSuite-HRMS))
 * 🚀 **Top 50 / 300+ Teams** — *Smart India Hackathon 2026* (Official Central SIH Portal Nominee for VSBEC IT Vault)
