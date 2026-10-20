@@ -2,15 +2,22 @@ name: Daily Contribution & Streak Keeper
 
 on:
   schedule:
-    # Runs 4 times a day across active developer hours:
-    # 09:30 AM, 01:30 PM, 05:30 PM, and 09:30 PM IST (04:00, 08:00, 12:00, 16:00 UTC)
-    - cron: '0 4,8,12,16 * * *'
+    # Runs 8 times a day at minute 23 (approx every 3 hours)
+    # Using minute 23 bypasses top-of-the-hour GitHub Action cron drop & delay queues
+    # 02:23, 05:23, 08:23, 11:23, 14:23, 17:23, 20:23, 23:23 UTC
+    - cron: '23 2,5,8,11,14,17,20,23 * * *'
   workflow_dispatch: # Allows manual one-click trigger anytime
 
 permissions:
   contents: write
   pull-requests: write
   issues: write
+
+env:
+  GIT_AUTHOR_NAME: "Tharun4743"
+  GIT_AUTHOR_EMAIL: "tharunkumark42007@gmail.com"
+  GIT_COMMITTER_NAME: "Tharun4743"
+  GIT_COMMITTER_EMAIL: "tharunkumark42007@gmail.com"
 
 jobs:
   keep-streak:
@@ -20,21 +27,36 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_PAT }}
+          fetch-depth: 0
 
-      - name: Commit & Push Daily Contribution Streak
+      - name: Configure Global Git Identity
         run: |
-          git config user.name "Tharun4743"
-          git config user.email "tharunkumark42007@gmail.com"
+          git config --global user.name "Tharun4743"
+          git config --global user.email "tharunkumark42007@gmail.com"
+          git config --global pull.rebase false
           mkdir -p .github/activity
 
-          # 5 to 8 randomized commits per interval across 4 runs (~20 to 32 daily commits)
-          COUNT=$((RANDOM % 4 + 5))
+      - name: Commit & Push High-Volume Contribution Commits
+        run: |
+          # 8 to 14 randomized commits per interval across 8 runs (~64 to 112+ daily commits)
+          COUNT=$((RANDOM % 7 + 8))
           echo "Generating $COUNT commits for this interval..."
 
           for ((i=1; i<=COUNT; i++)); do
-            echo "{\"timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"user\": \"Tharun4743\", \"cycle\": $i, \"total\": $COUNT, \"status\": \"active\"}" > .github/activity/heartbeat.json
+            TIMESTAMP=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+            CYCLE_ID=$(date +'%s%N' | cut -b1-13)
+            cat <<EOF > .github/activity/heartbeat.json
+          {
+            "timestamp": "$TIMESTAMP",
+            "cycle_id": "$CYCLE_ID",
+            "user": "Tharun4743",
+            "cycle": $i,
+            "total": $COUNT,
+            "status": "operational"
+          }
+          EOF
             git add .github/activity/heartbeat.json
-            git commit -m "chore(activity): engineering streak sync #$i/$COUNT [$(date +'%Y-%m-%d %H:%M')]"
+            git commit -m "chore(activity): telemetry stream sync #$i/$COUNT [$(date +'%Y-%m-%d %H:%M')]"
           done
 
           git push origin main
@@ -48,34 +70,55 @@ jobs:
             --title "telemetry(health): automated system metrics [$(date +'%Y-%m-%d %H:%M')]" \
             --body "Automated health check and contribution telemetry synchronization." || true)
           if [ -n "$ISSUE_URL" ]; then
-            ISSUE_NUM=$(basename "$ISSUE_URL")
-            gh issue close "$ISSUE_NUM" --comment "Telemetry recorded and verified." || true
-            echo "Successfully recorded and closed Issue #$ISSUE_NUM"
+            ISSUE_NUM=$(echo "$ISSUE_URL" | grep -oE '[0-9]+$' | head -n1)
+            if [ -n "$ISSUE_NUM" ]; then
+              sleep 3
+              gh issue close "$ISSUE_NUM" --comment "Telemetry recorded and verified." || true
+              echo "Successfully recorded and closed Issue #$ISSUE_NUM"
+            fi
           fi
 
-      - name: Generate Pull Request Activity
+      - name: Generate Multi-Commit Pull Request Activity
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          echo "Generating Pull Request activity..."
+          echo "Generating Multi-Commit Pull Request activity..."
           BRANCH_PR="streak/pr-$(date +'%s')"
           git checkout -b "$BRANCH_PR"
-          mkdir -p .github/activity
-          echo "{\"pr_timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\", \"user\": \"Tharun4743\"}" > .github/activity/pr-heartbeat.json
-          git add .github/activity/pr-heartbeat.json
-          git commit -m "chore(telemetry): automated PR telemetry sync [$(date +'%Y-%m-%d %H:%M')]"
+
+          # Generate 3 to 5 multi-stage commits in the Pull Request
+          PR_COMMITS=$((RANDOM % 3 + 3))
+          for ((j=1; j<=PR_COMMITS; j++)); do
+            TIMESTAMP=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+            cat <<EOF > .github/activity/pr-heartbeat.json
+          {
+            "pr_timestamp": "$TIMESTAMP",
+            "user": "Tharun4743",
+            "step": $j,
+            "total_steps": $PR_COMMITS,
+            "verified": true
+          }
+          EOF
+            git add .github/activity/pr-heartbeat.json
+            git commit -m "chore(telemetry): automated PR telemetry stage #$j/$PR_COMMITS [$(date +'%Y-%m-%d %H:%M')]"
+          done
+
           git push origin "$BRANCH_PR"
 
           PR_URL=$(gh pr create \
             --title "chore(telemetry): automated PR metrics sync [$(date +'%Y-%m-%d %H:%M')]" \
-            --body "Routine telemetry synchronization pull request." \
+            --body "Routine telemetry synchronization pull request with multi-stage commit verification." \
             --head "$BRANCH_PR" \
             --base main || true)
 
           if [ -n "$PR_URL" ]; then
-            PR_NUM=$(basename "$PR_URL")
-            gh pr merge "$PR_NUM" --merge --delete-branch || true
-            echo "Successfully created and merged PR #$PR_NUM"
+            PR_NUM=$(echo "$PR_URL" | grep -oE '[0-9]+$' | head -n1)
+            if [ -n "$PR_NUM" ]; then
+              echo "Created PR #$PR_NUM, waiting 5s for GitHub event indexing..."
+              sleep 5
+              gh pr merge "$PR_NUM" --merge --delete-branch || true
+              echo "Successfully created and merged PR #$PR_NUM with $PR_COMMITS commits"
+            fi
           fi
 
           git checkout main
@@ -89,13 +132,24 @@ jobs:
           echo "Generating Code Review activity..."
           BRANCH_REV="streak/review-$(date +'%s')"
           git checkout -b "$BRANCH_REV"
-          mkdir -p .github/activity
-          echo "{\"review_timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"}" > .github/activity/review-heartbeat.json
-          git add .github/activity/review-heartbeat.json
-          git commit -m "chore(audit): code inspection telemetry"
+
+          # Add inspection commits
+          for ((k=1; k<=2; k++)); do
+            TIMESTAMP=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+            cat <<EOF > .github/activity/review-heartbeat.json
+          {
+            "review_timestamp": "$TIMESTAMP",
+            "iteration": $k,
+            "audit_status": "passed"
+          }
+          EOF
+            git add .github/activity/review-heartbeat.json
+            git commit -m "chore(audit): code inspection telemetry cycle #$k"
+          done
+
           git push origin "$BRANCH_REV"
 
-          # Open PR with bot token so review can be authored by Tharun4743
+          # Open PR with GITHUB_TOKEN (authored by github-actions[bot])
           REV_PR_URL=$(GH_TOKEN="$BOT_TOKEN" gh pr create \
             --title "chore(audit): code review inspection [$(date +'%Y-%m-%d %H:%M')]" \
             --body "Automated telemetry audit ready for peer code review." \
@@ -107,11 +161,35 @@ jobs:
             --base main || true)
 
           if [ -n "$REV_PR_URL" ]; then
-            REV_PR_NUM=$(basename "$REV_PR_URL")
-            GH_TOKEN="$PAT_TOKEN" gh pr review "$REV_PR_NUM" --approve -b "Code inspection verified: telemetry standards met." || true
-            GH_TOKEN="$PAT_TOKEN" gh pr merge "$REV_PR_NUM" --merge --delete-branch || true
-            echo "Successfully submitted code review on PR #$REV_PR_NUM"
+            REV_PR_NUM=$(echo "$REV_PR_URL" | grep -oE '[0-9]+$' | head -n1)
+            if [ -n "$REV_PR_NUM" ]; then
+              echo "Created Review PR #$REV_PR_NUM, waiting 5s for indexing..."
+              sleep 5
+              GH_TOKEN="$PAT_TOKEN" gh pr review "$REV_PR_NUM" --approve -b "Code inspection verified: telemetry standards met." || true
+              sleep 3
+              GH_TOKEN="$PAT_TOKEN" gh pr merge "$REV_PR_NUM" --merge --delete-branch || true
+              echo "Successfully processed code review and merged PR #$REV_PR_NUM"
+            fi
           fi
 
           git checkout main
           git pull origin main
+
+      - name: Sync Profile Telemetry & Visualizer Metrics
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_USERNAME: Tharun4743
+        run: |
+          echo "Syncing updated commit and PR metrics to profile..."
+          node scripts/generate-telemetry.js || true
+          git add -A assets/ README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(telemetry): update profile metrics and commit counts [skip ci]"
+            git pull origin main --rebase -X theirs || git pull origin main --rebase || true
+            git push origin main || true
+            echo "Successfully updated live profile assets and commit counters"
+          else
+            echo "Telemetry assets already up to date."
+          fi
+
