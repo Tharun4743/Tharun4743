@@ -3,6 +3,10 @@ name: Unified Profile & Telemetry Sync
 on:
   schedule:
     - cron: "45 1,7,13,19 * * *" # Runs every 6 hours at minute 45 (avoids top-of-hour congestion)
+  workflow_run:
+    workflows: ["Daily Contribution & Streak Keeper"]
+    types:
+      - completed
   push:
     branches:
       - main
