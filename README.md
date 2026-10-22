@@ -34,7 +34,7 @@
 
 ## ⚡ Highlights & Key Accolades
 
-* 🌟 **Best GitHub Profile & Top Developer** — [V.S.B. Engineering College, Karur](https://vsbec.com) (Rank #1 campus developer, 4,065+ commits, 30+ public repos)
+* 🌟 **Best GitHub Profile & Top Developer** — [V.S.B. Engineering College, Karur](https://vsbec.com) (Rank #1 campus developer, 4,066+ commits, 30+ public repos)
 * 🥇 **Winner — Code Thugs 2K26** (1st Place National Hackathon Winner with GOAT-CE collaborative IDE)
 * 🥉 **3rd Prize — Neural Minds AI/ML Hackathon** (Department of AI & ML, VSBEC with FINDORA AI)
 * 🚀 **Smart India Hackathon (SIH)** — 2025 & 2026 Top 50 National Nominee (VSBEC IT Vault & Smart Helmet IoT)
