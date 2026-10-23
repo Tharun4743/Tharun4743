@@ -149,12 +149,8 @@ jobs:
 
           git push origin "$BRANCH_REV"
 
-          # Open PR with GITHUB_TOKEN (authored by github-actions[bot])
-          REV_PR_URL=$(GH_TOKEN="$BOT_TOKEN" gh pr create \
-            --title "chore(audit): code review inspection [$(date +'%Y-%m-%d %H:%M')]" \
-            --body "Automated telemetry audit ready for peer code review." \
-            --head "$BRANCH_REV" \
-            --base main 2>/dev/null || GH_TOKEN="$PAT_TOKEN" gh pr create \
+          # Open PR with GH_PAT (authored by Tharun4743)
+          REV_PR_URL=$(GH_TOKEN="$PAT_TOKEN" gh pr create \
             --title "chore(audit): code review inspection [$(date +'%Y-%m-%d %H:%M')]" \
             --body "Automated telemetry audit ready for peer code review." \
             --head "$BRANCH_REV" \
