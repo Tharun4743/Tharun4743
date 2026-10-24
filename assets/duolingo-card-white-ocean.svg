@@ -21,11 +21,11 @@
   <g transform="translate(24, 54)">
     <g transform="translate(0, 10)">
       <text class="stat-label">Daily Streak:</text>
-      <text x="240" class="stat-val" fill="#ff9600">37 Days 🔥</text>
+      <text x="240" class="stat-val" fill="#ff9600">38 Days 🔥</text>
     </g>
     <g transform="translate(0, 36)">
       <text class="stat-label">Total Experience:</text>
-      <text x="240" class="stat-val" fill="#ffc800">1,029 XP ⚡</text>
+      <text x="240" class="stat-val" fill="#ffc800">1,129 XP ⚡</text>
     </g>
     <g transform="translate(0, 62)">
       <text class="stat-label">Active Language:</text>
@@ -33,14 +33,14 @@
     </g>
     <g transform="translate(0, 88)">
       <text class="stat-label">Language Experience:</text>
-      <text x="240" class="stat-val" fill="#00d26a">951 XP</text>
+      <text x="240" class="stat-val" fill="#00d26a">1,051 XP</text>
     </g>
   </g>
 
   <!-- Courses Badges -->
   <g transform="translate(24, 168)">
     <text fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">
-      Enrolled Courses: <tspan fill="#0f172a" font-weight="700">Japanese: 951 XP • English: 78 XP</tspan>
+      Enrolled Courses: <tspan fill="#0f172a" font-weight="700">Japanese: 1051 XP • English: 78 XP</tspan>
     </text>
   </g>
 
