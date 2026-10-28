@@ -76,7 +76,7 @@
   <text x="3.12" y="-156.00" style="font-size: 13.00px;" text-anchor="start" dominant-baseline="auto" class="fill-weak">10K</text>
   <g class="axis">
     <line x1="0.00" y1="-31.20" x2="0.00" y2="-156.00" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-    <text x="0.00" y="-182.52" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">Commit<title>5103</title></text>
+    <text x="0.00" y="-182.52" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">Commit<title>5122</title></text>
   </g>
   <g class="axis">
     <line x1="29.67" y1="-9.64" x2="148.36" y2="-48.21" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
@@ -84,7 +84,7 @@
   </g>
   <g class="axis">
     <line x1="18.34" y1="25.24" x2="91.69" y2="126.21" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-    <text x="114.62" y="147.66" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">PullReq<title>86</title></text>
+    <text x="114.62" y="147.66" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">PullReq<title>89</title></text>
   </g>
   <g class="axis">
     <line x1="-18.34" y1="25.24" x2="-91.69" y2="126.21" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
@@ -94,8 +94,8 @@
     <line x1="-29.67" y1="-9.64" x2="-148.36" y2="-48.21" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;"></line>
     <text x="-185.46" y="-56.40" style="font-size: 20.80px;" text-anchor="middle" dominant-baseline="middle" class="fill-fg">Repo<title>31</title></text>
   </g>
-  <polygon class="radar" points="0.00,-146.88 23.74,-7.71 53.82,74.07 -14.67,20.19 -73.93,-24.02">
-    <animate attributeName="points" values="0.00,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0.00,-146.88 23.74,-7.71 53.82,74.07 -14.67,20.19 -73.93,-24.02" dur="3s" repeatCount="1"></animate>
+  <polygon class="radar" points="0.00,-146.93 23.74,-7.71 54.09,74.45 -14.67,20.19 -73.93,-24.02">
+    <animate attributeName="points" values="0.00,-24.96 23.74,-7.71 14.67,20.19 -14.67,20.19 -23.74,-7.71;0.00,-146.93 23.74,-7.71 54.09,74.45 -14.67,20.19 -73.93,-24.02" dur="3s" repeatCount="1"></animate>
   </polygon>
 </g>
 
@@ -107,19 +107,19 @@
     <rect x="0" y="22.71" width="14.00" height="14.00" rx="3" fill="#3178c6" class="stroke-bg" stroke-width="1px">
       <animate attributeName="fill-opacity" values="0;0.2;1" dur="3s" repeatCount="1"></animate>
     </rect>
-    <text x="21.00" y="29.71" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">TypeScript <tspan font-weight="500" class="fill-weak" font-size="12.60px">57%</tspan>
+    <text x="21.00" y="29.71" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">TypeScript <tspan font-weight="500" class="fill-weak" font-size="12.60px">54%</tspan>
       <animate attributeName="fill-opacity" values="0;0.2;1" dur="3s" repeatCount="1"></animate>
     </text>
-    <rect x="0" y="59.86" width="14.00" height="14.00" rx="3" fill="#3572A5" class="stroke-bg" stroke-width="1px">
+    <rect x="0" y="59.86" width="14.00" height="14.00" rx="3" fill="#f1e05a" class="stroke-bg" stroke-width="1px">
       <animate attributeName="fill-opacity" values="0;0.4;1" dur="3s" repeatCount="1"></animate>
     </rect>
-    <text x="21.00" y="66.86" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">Python <tspan font-weight="500" class="fill-weak" font-size="12.60px">14%</tspan>
+    <text x="21.00" y="66.86" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">JavaScript <tspan font-weight="500" class="fill-weak" font-size="12.60px">18%</tspan>
       <animate attributeName="fill-opacity" values="0;0.4;1" dur="3s" repeatCount="1"></animate>
     </text>
-    <rect x="0" y="97.00" width="14.00" height="14.00" rx="3" fill="#f1e05a" class="stroke-bg" stroke-width="1px">
+    <rect x="0" y="97.00" width="14.00" height="14.00" rx="3" fill="#3572A5" class="stroke-bg" stroke-width="1px">
       <animate attributeName="fill-opacity" values="0;0.6000000000000001;1" dur="3s" repeatCount="1"></animate>
     </rect>
-    <text x="21.00" y="104.00" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">JavaScript <tspan font-weight="500" class="fill-weak" font-size="12.60px">14%</tspan>
+    <text x="21.00" y="104.00" dominant-baseline="middle" font-size="14.00px" font-weight="600" class="fill-fg">Python <tspan font-weight="500" class="fill-weak" font-size="12.60px">14%</tspan>
       <animate attributeName="fill-opacity" values="0;0.6000000000000001;1" dur="3s" repeatCount="1"></animate>
     </text>
     <rect x="0" y="134.14" width="14.00" height="14.00" rx="3" fill="#b07219" class="stroke-bg" stroke-width="1px">
@@ -142,16 +142,16 @@
     </text>
   </g>
   <g transform="translate(130, 130)">
-    <path d="M 0.000 -117.000 A 117 117 0 1 1 -50.764 105.413 L -31.336 65.070 A 72.22222222222221 72.22222222222221 0 1 0 0.000 -72.222 Z" style="fill: #3178c6;" class="stroke-bg" stroke-width="2px">
-      <title>TypeScript: 57%</title>
+    <path d="M 0.000 -117.000 A 117 117 0 1 1 -26.035 114.067 L -16.071 70.411 A 72.22222222222221 72.22222222222221 0 1 0 0.000 -72.222 Z" style="fill: #3178c6;" class="stroke-bg" stroke-width="2px">
+      <title>TypeScript: 54%</title>
       <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
     </path>
-    <path d="M -50.764 105.413 A 117 117 0 0 1 -114.067 26.035 L -70.411 16.071 A 72.22222222222221 72.22222222222221 0 0 0 -31.336 65.070 Z" style="fill: #3572A5;" class="stroke-bg" stroke-width="2px">
+    <path d="M -26.035 114.067 A 117 117 0 0 1 -114.067 26.035 L -70.411 16.071 A 72.22222222222221 72.22222222222221 0 0 0 -16.071 70.411 Z" style="fill: #f1e05a;" class="stroke-bg" stroke-width="2px">
+      <title>JavaScript: 18%</title>
+      <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
+    </path>
+    <path d="M -114.067 26.035 A 117 117 0 0 1 -91.474 -72.948 L -56.466 -45.030 A 72.22222222222221 72.22222222222221 0 0 0 -70.411 16.071 Z" style="fill: #3572A5;" class="stroke-bg" stroke-width="2px">
       <title>Python: 14%</title>
-      <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
-    </path>
-    <path d="M -114.067 26.035 A 117 117 0 0 1 -91.474 -72.948 L -56.466 -45.030 A 72.22222222222221 72.22222222222221 0 0 0 -70.411 16.071 Z" style="fill: #f1e05a;" class="stroke-bg" stroke-width="2px">
-      <title>JavaScript: 14%</title>
       <animate attributeName="fill-opacity" values="0;0.5;1" dur="3s" repeatCount="1"></animate>
     </path>
     <path d="M -91.474 -72.948 A 117 117 0 0 1 -72.948 -91.474 L -45.030 -56.466 A 72.22222222222221 72.22222222222221 0 0 0 -56.466 -45.030 Z" style="fill: #b07219;" class="stroke-bg" stroke-width="2px">
@@ -172,7 +172,7 @@
 
 <!-- Telemetry & Metrics Summary -->
 <g>
-  <text style="font-size: 32px; font-weight: bold;" x="384" y="830" text-anchor="end" class="fill-strong">5,103</text>
+  <text style="font-size: 32px; font-weight: bold;" x="384" y="830" text-anchor="end" class="fill-strong">5,122</text>
   <text style="font-size: 24px;" x="394" y="830" text-anchor="start" class="fill-fg">contributions</text>
 
   <g transform="translate(608, 802), scale(2)">
