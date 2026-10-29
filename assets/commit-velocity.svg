@@ -22,45 +22,45 @@
   <line x1="36" y1="155" x2="431" y2="155" stroke="#e2e8f0" stroke-dasharray="3 3" stroke-width="1" />
 
   <!-- Area Fill -->
-  <path d="M 36.0 148.7 C 42.0,148.2 59.9,145.9 71.9,145.6 C 83.9,145.3 95.8,146.4 107.8,147.2 C 119.8,148.0 131.8,151.1 143.7,150.3 C 155.7,149.5 167.7,142.5 179.6,142.5 C 191.6,142.5 203.6,148.2 215.5,150.3 C 227.5,152.4 239.5,157.6 251.5,155.0 C 263.4,152.4 275.4,142.2 287.4,134.6 C 299.3,127.1 311.3,117.9 323.3,109.6 C 335.2,101.2 347.2,87.7 359.2,84.5 C 371.2,81.4 383.1,92.9 395.1,90.8 C 407.1,88.7 425.0,75.1 431.0,72.0 L 431.0 155 L 36.0 155 Z" fill="url(#velocity-grad)" />
+  <path d="M 36.0 148.9 C 42.0,148.3 59.9,146.0 71.9,145.8 C 83.9,145.5 95.8,146.5 107.8,147.3 C 119.8,148.1 131.8,151.2 143.7,150.4 C 155.7,149.6 167.7,142.7 179.6,142.7 C 191.6,142.7 203.6,148.3 215.5,150.4 C 227.5,152.4 239.5,157.6 251.5,155.0 C 263.4,152.4 275.4,142.4 287.4,135.0 C 299.3,127.6 311.3,118.6 323.3,110.4 C 335.2,102.2 347.2,88.9 359.2,85.8 C 371.2,82.8 383.1,94.3 395.1,92.0 C 407.1,89.7 425.0,75.3 431.0,72.0 L 431.0 155 L 36.0 155 Z" fill="url(#velocity-grad)" />
 
   <!-- Wave Stroke -->
-  <path d="M 36.0 148.7 C 42.0,148.2 59.9,145.9 71.9,145.6 C 83.9,145.3 95.8,146.4 107.8,147.2 C 119.8,148.0 131.8,151.1 143.7,150.3 C 155.7,149.5 167.7,142.5 179.6,142.5 C 191.6,142.5 203.6,148.2 215.5,150.3 C 227.5,152.4 239.5,157.6 251.5,155.0 C 263.4,152.4 275.4,142.2 287.4,134.6 C 299.3,127.1 311.3,117.9 323.3,109.6 C 335.2,101.2 347.2,87.7 359.2,84.5 C 371.2,81.4 383.1,92.9 395.1,90.8 C 407.1,88.7 425.0,75.1 431.0,72.0" fill="none" stroke="#0f766e" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M 36.0 148.9 C 42.0,148.3 59.9,146.0 71.9,145.8 C 83.9,145.5 95.8,146.5 107.8,147.3 C 119.8,148.1 131.8,151.2 143.7,150.4 C 155.7,149.6 167.7,142.7 179.6,142.7 C 191.6,142.7 203.6,148.3 215.5,150.4 C 227.5,152.4 239.5,157.6 251.5,155.0 C 263.4,152.4 275.4,142.4 287.4,135.0 C 299.3,127.6 311.3,118.6 323.3,110.4 C 335.2,102.2 347.2,88.9 359.2,85.8 C 371.2,82.8 383.1,94.3 395.1,92.0 C 407.1,89.7 425.0,75.3 431.0,72.0" fill="none" stroke="#0f766e" stroke-width="2.5" stroke-linecap="round" />
 
   <!-- Markers and Labels -->
   <text x="36.0" y="177" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Nov</text>
-        <circle cx="36.0" cy="148.7" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="36.0" cy="148.9" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Nov: 8 contributions</title>
         </circle>
-        <circle cx="71.9" cy="145.6" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="71.9" cy="145.8" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Dec: 12 contributions</title>
         </circle><text x="107.8" y="177" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Jan</text>
-        <circle cx="107.8" cy="147.2" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="107.8" cy="147.3" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Jan: 10 contributions</title>
         </circle>
-        <circle cx="143.7" cy="150.3" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="143.7" cy="150.4" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Feb: 6 contributions</title>
         </circle><text x="179.6" y="177" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Mar</text>
-        <circle cx="179.6" cy="142.5" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="179.6" cy="142.7" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Mar: 16 contributions</title>
         </circle>
-        <circle cx="215.5" cy="150.3" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="215.5" cy="150.4" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Apr: 6 contributions</title>
         </circle><text x="251.5" y="177" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">May</text>
-        <circle cx="287.4" cy="134.6" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="287.4" cy="135.0" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Jun: 26 contributions</title>
         </circle><text x="323.3" y="177" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Jul</text>
-        <circle cx="323.3" cy="109.6" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="323.3" cy="110.4" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Jul: 58 contributions</title>
         </circle>
-        <circle cx="359.2" cy="84.5" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="359.2" cy="85.8" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Aug: 90 contributions</title>
         </circle><text x="395.1" y="177" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Sep</text>
-        <circle cx="395.1" cy="90.8" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
+        <circle cx="395.1" cy="92.0" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
           <title>Sep: 82 contributions</title>
         </circle><text x="431.0" y="177" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Oct</text>
         <circle cx="431.0" cy="72.0" r="3.5" fill="#0f766e" stroke="#f0fdfa" stroke-width="1.5">
-          <title>Oct: 106 contributions</title>
+          <title>Oct: 108 contributions</title>
         </circle>
 
   <!-- Personal Branding Watermark -->
