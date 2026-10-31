@@ -10,7 +10,7 @@
 
   <!-- Progress Bar -->
   <rect x="24" y="65" width="419" height="14" rx="6" fill="#e0f2fe" />
-  <rect x="24" y="65" width="293" height="14" rx="5" fill="#3178c6" /><rect x="317" y="65" width="63" height="14"  fill="#f7df1e" /><rect x="380" y="65" width="43" height="14"  fill="#3572A5" /><rect x="423" y="65" width="18" height="14"  fill="#8b949e" /><rect x="441" y="65" width="3" height="14" rx="5" fill="#00B4AB" />
+  <rect x="24" y="65" width="295" height="14" rx="5" fill="#3178c6" /><rect x="319" y="65" width="62" height="14"  fill="#f7df1e" /><rect x="381" y="65" width="42" height="14"  fill="#3572A5" /><rect x="423" y="65" width="18" height="14"  fill="#8b949e" /><rect x="441" y="65" width="3" height="14" rx="5" fill="#00B4AB" />
 
   <!-- Chips -->
   
@@ -20,7 +20,7 @@
           TypeScript
         </text>
         <text x="120" y="10" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
-          70%
+          70.4%
         </text>
       </g>
       <g transform="translate(224, 105)">
@@ -29,7 +29,7 @@
           JavaScript
         </text>
         <text x="120" y="10" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
-          15.1%
+          14.9%
         </text>
       </g>
       <g transform="translate(24, 131)">
@@ -38,7 +38,7 @@
           Python
         </text>
         <text x="120" y="10" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
-          10.2%
+          10%
         </text>
       </g>
       <g transform="translate(224, 131)">
