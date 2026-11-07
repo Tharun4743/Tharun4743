@@ -21,7 +21,7 @@
   <g transform="translate(24, 52)">
     <g transform="translate(0, 10)">
       <text class="stat-label">Total Solved:</text>
-      <text x="240" class="stat-val" fill="#ffa116">173</text>
+      <text x="240" class="stat-val" fill="#ffa116">174</text>
     </g>
     <g transform="translate(0, 36)">
       <text class="stat-label">Easy Problems:</text>
@@ -29,7 +29,7 @@
     </g>
     <g transform="translate(0, 62)">
       <text class="stat-label">Medium Problems:</text>
-      <text x="240" class="stat-val" fill="#ffc01e">59</text>
+      <text x="240" class="stat-val" fill="#ffc01e">60</text>
     </g>
     <g transform="translate(0, 88)">
       <text class="stat-label">Hard Problems:</text>
