@@ -72,19 +72,15 @@
 
 <br/><br/>
 
-<!-- High-Signal Telemetry Grid -->
-<table border="0" cellpadding="0" cellspacing="4" align="center" width="100%">
-  <tr>
-    <td width="50%"><img src="assets/leetcode-card-ocean-light.svg" width="100%" alt="LeetCode Telemetry" /></td>
-    <td width="50%"><img src="assets/skills-radar-ocean-light.svg" width="100%" alt="Engineering Competency Radar" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="assets/languages-matrix-ocean-light.svg" width="100%" alt="Languages Matrix" /></td>
-    <td width="50%"><img src="assets/activity-timeline-ocean-light.svg" width="100%" alt="Recent Activity Feed" /></td>
-  </tr>
-</table>
+### 🐍 365-Day Contribution Snake
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="assets/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
 
 [![Profile Views](https://hits.sh/github.com/Tharun4743.svg?style=for-the-badge&label=PROFILE+VIEWS&color=0284c7)](https://hits.sh/github.com/Tharun4743/)
 
