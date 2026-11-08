@@ -1,0 +1,22 @@
+# Build artifacts & temp files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local binaries & build scripts
+/bin/
+build*.bat
+resume.tex
+resume-*.tex
+resume-*.pdf
+Tharunkumar*.pdf
