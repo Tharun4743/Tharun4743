@@ -9,10 +9,6 @@
   🌟 Recognized for holding the <b>Best GitHub Profile & Top Student Developer</b> at <b>V.S.B. Engineering College (VSBEC)</b>
 </p>
 
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0284C7&center=true&vCenter=true&width=680&lines=2%C3%97+Hackathon+Winner+%7C+Code+Thugs+2K26+%F0%9F%A5%87+%7C+Neural+Minds+%F0%9F%A5%89;Best+GitHub+Profile+%40VSB+ENGINEERING+COLLEGE;India+Innovates+2026+%26+Odoo+%C3%97+NMIT+2026+Finalist+%F0%9F%87%AE%F0%9F%87%B3;SIH+2025+%26+2026+Top+50+Finalist;Full+Stack+%26+AI+Systems+Developer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0284C7&center=true&vCenter=true&width=680&lines=2%C3%97+Hackathon+Winner+%7C+Code+Thugs+2K26+%F0%9F%A5%87+%7C+Neural+Minds+%F0%9F%A5%89;Best+GitHub+Profile+%40VSB+ENGINEERING+COLLEGE;India+Innovates+2026+%26+Odoo+%C3%97+NMIT+2026+Finalist+%F0%9F%87%AE%F0%9F%87%B3;SIH+2025+%26+2026+Top+50+Finalist;Full+Stack+%26+AI+Systems+Developer" alt="Typing Animation" />
-</a>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-B.Tech_IT_%7C_CGPA_8.5-0284c7?style=for-the-badge&logo=googleacademic&logoColor=white" alt="B.Tech IT VSB Engineering College" />
   <img src="https://img.shields.io/badge/College-V.S.B._Engineering_College-0f766e?style=for-the-badge&logo=affinity&logoColor=white" alt="V.S.B. Engineering College Karur" />
@@ -65,55 +61,30 @@
 
 ---
 
-## 📊 Telemetry & Engineering Activity
+## 📊 Engineering Telemetry
 
 <div align="center">
 
-<!-- Executive Summary (Ocean Light) -->
-<a href="https://github.com/marketplace/actions/github-profile-visualizer">
-  <img src="assets/executive-summary-ocean-light.svg" width="100%" alt="Executive Summary" />
-</a>
-
-<br/><br/>
-
-<!-- 3D Contribution Skyline (Ocean Light) -->
+<!-- 3D Contribution Skyline (Hero Visual) -->
 <a href="https://github.com/marketplace/actions/github-profile-visualizer">
   <img src="assets/profile-3d-ocean-light.svg" width="100%" alt="3D Contribution City" />
 </a>
 
 <br/><br/>
 
-<!-- Telemetry Grid -->
+<!-- High-Signal Telemetry Grid -->
 <table border="0" cellpadding="0" cellspacing="4" align="center" width="100%">
   <tr>
-    <td width="50%"><img src="assets/commit-velocity-ocean-light.svg" width="100%" alt="Commit Velocity" /></td>
-    <td width="50%"><img src="assets/activity-timeline-ocean-light.svg" width="100%" alt="Activity Stream" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="assets/skills-radar-ocean-light.svg" width="100%" alt="Skills Radar" /></td>
-    <td width="50%"><img src="assets/achievements-ocean-light.svg" width="100%" alt="Achievements" /></td>
+    <td width="50%"><img src="assets/leetcode-card-ocean-light.svg" width="100%" alt="LeetCode Telemetry" /></td>
+    <td width="50%"><img src="assets/skills-radar-ocean-light.svg" width="100%" alt="Engineering Competency Radar" /></td>
   </tr>
   <tr>
     <td width="50%"><img src="assets/languages-matrix-ocean-light.svg" width="100%" alt="Languages Matrix" /></td>
-    <td width="50%"><img src="assets/stats-ocean-light.svg" width="100%" alt="GitHub Core Analytics" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="assets/leetcode-card-ocean-light.svg" width="100%" alt="LeetCode Card" /></td>
-    <td width="50%"><img src="assets/duolingo-card-ocean-light.svg" width="100%" alt="Duolingo Streak" /></td>
+    <td width="50%"><img src="assets/activity-timeline-ocean-light.svg" width="100%" alt="Recent Activity Feed" /></td>
   </tr>
 </table>
 
 <br/>
-
-### 🐍 365-Day Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="assets/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br/><br/>
 
 [![Profile Views](https://hits.sh/github.com/Tharun4743.svg?style=for-the-badge&label=PROFILE+VIEWS&color=0284c7)](https://hits.sh/github.com/Tharun4743/)
 
