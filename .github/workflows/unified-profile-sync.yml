@@ -1,13 +1,20 @@
-name: Unified Profile & Telemetry Sync
+name: Daily Contribution & Profile Telemetry Sync
 
 on:
   schedule:
-    - cron: "45 1,7,13,19 * * *" # Runs every 6 hours at minute 45 (avoids top-of-hour congestion)
+    # 🌅 Morning Cycle: 09:00 AM IST (03:30 UTC)
+    - cron: '30 3 * * *'
+    # 🌇 Evening Cycle: 06:30 PM IST (13:00 UTC)
+    - cron: '0 13 * * *'
+    # 🌙 Night Cycle: 10:30 PM IST (17:00 UTC)
+    - cron: '0 17 * * *'
   push:
     branches:
       - main
     paths:
       - '.github/workflows/unified-profile-sync.yml'
+      - 'scripts/generate-snake.js'
+      - 'scripts/sync-telemetry.js'
   workflow_dispatch:
   repository_dispatch:
     types: [profile_sync, webhook]
@@ -17,7 +24,7 @@ permissions:
 
 jobs:
   sync-visualizers:
-    name: Generate Profile Visualizers
+    name: Generate Profile Visualizers & Sync Contributions
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -32,7 +39,7 @@ jobs:
         with:
           node-version: 20
 
-      # 1. Generate 3D Contribution Skyline (Official Marketplace Action)
+      # 1. Generate 3D Contribution Skyline (Official Action)
       - name: 🏙️ Generate 3D Contribution Skyline
         uses: Tharun4743/github-profile-visualizer@v1
         with:
@@ -52,16 +59,29 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
 
-      # 3. Single Atomic Commit & Push
-      - name: 🚀 Commit & Push Visualizers
+      # 3. Synchronize Telemetry & Contribution Timestamp on README
+      - name: 🕒 Synchronize Telemetry on README
+        run: node scripts/sync-telemetry.js
+
+      # 4. Single Atomic Commit & Push
+      - name: 🚀 Commit & Push Telemetry Sync
         run: |
           git config user.name "Tharun4743"
           git config user.email "tharunkumark42007@gmail.com"
           git add -A assets/ README.md
           if ! git diff --cached --quiet; then
-            git commit -m "chore(telemetry): sync profile visualizers [skip ci]"
-            git pull origin main --rebase -X theirs || git pull origin main --rebase
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" -ge 1 ] && [ "$HOUR" -lt 7 ]; then
+              CYCLE="Morning"
+            elif [ "$HOUR" -ge 7 ] && [ "$HOUR" -lt 15 ]; then
+              CYCLE="Evening"
+            else
+              CYCLE="Night"
+            fi
+            git commit -m "chore(telemetry): auto-sync contributions & visualizers [$CYCLE Sync] [skip ci]"
+            git pull origin main --rebase -X theirs || git pull origin main --rebase || true
             git push origin main
+            echo "✅ Successfully synced profile visualizers and contributions for $CYCLE cycle."
           else
-            echo "No visualizer changes detected."
+            echo "No changes detected across visualizers or telemetry markers."
           fi

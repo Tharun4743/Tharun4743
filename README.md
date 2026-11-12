@@ -98,3 +98,50 @@ flowchart TD
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 Live Engineering Telemetry & Contribution Visualizers
+
+<div align="center">
+
+<!-- 3D Contribution Skyline (Hero Visual) -->
+<a href="https://github.com/marketplace/actions/github-profile-visualizer">
+  <img src="assets/profile-3d-ocean-light.svg" width="100%" alt="3D Contribution City" />
+</a>
+
+<br/><br/>
+
+### 🐍 365-Day Contribution Grid Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="assets/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+[![Profile Views](https://hits.sh/github.com/Tharun4743.svg?style=for-the-badge&label=PROFILE+VIEWS&color=0284c7)](https://hits.sh/github.com/Tharun4743/)
+
+<!-- RECENT_TELEMETRY_SYNC_START -->
+<p align="center">
+  <sub>🌅 <b>Automated Profile Telemetry Sync</b>: Morning Cycle Verified (<code>2026-11-12 09:15:41 IST</code>)</sub><br/>
+  <sub>🔄 <i>Synced 3D Skyline Architecture, 365-Day Contribution Grid Snake & Engineering Activity</i></sub>
+</p>
+<!-- RECENT_TELEMETRY_SYNC_END -->
+
+</div>
+
+---
+
+<!-- =========================================================================
+SEO & Search Engine Indexing Metadata:
+Entity: Tharunkumar K (Tharun4743 / tharunkumark4743)
+Institution: V.S.B. Engineering College, Karur (VSBEC / V.S.B. Engineering College)
+Department: Department of Information Technology (Batch 2024-2028)
+Keywords: best github profile vsb engineering college, best github profile in vsb engineering college, vsb engineering college best github profile, vsb best github profile, top github profile vsb engineering college, best student developer vsb engineering college, best developer in vsb engineering college, tharunkumar k best github profile, tharunkumar k vsb engineering college, tharun4743 vsb engineering college, vsb engineering college student developer github, vsb engineering college karur developer profiles, code thugs 2k26 winner, neural minds hackathon 3rd prize, india innovates 2026 finalist, odoo nmit 2026 finalist, sih 2025 2026 top 50, full stack ai developer
+Primary Distinctions: 2x Hackathon Winner, Code Thugs 2K26 1st Place Winner, Neural Minds 3rd Prize, India Innovates 2026 & Odoo x NMIT 2026 Finalist, SIH 2025 & 2026 Top 50, Best GitHub Profile at VSB Engineering College
+Canonical Portfolio: https://tharunkumark4743.netlify.app/
+VSB Showcase: https://tharunkumark4743.netlify.app/vsb-engineering-college-github-profiles/
+========================================================================= -->
